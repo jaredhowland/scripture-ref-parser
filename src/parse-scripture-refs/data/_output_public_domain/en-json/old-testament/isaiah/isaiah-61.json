@@ -1,0 +1,129 @@
+{
+  "name": "Isaiah 61", 
+  "abbrev": "Isa. 61", 
+  "number": "61", 
+  "churchUri": "/scriptures/ot/isa/61", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 61", 
+      "contentHtml": "Chapter 61", 
+      "number": null, 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to them that are bound;", 
+      "contentHtml": "The Spirit of the Lord <span class=\"small-caps\">God</span> <span class=\"clarity-word\">is</span> upon me; because the <span class=\"small-caps\">Lord</span> hath anointed me to preach good tidings unto the meek; he hath sent me to bind up the brokenhearted, to proclaim liberty to the captives, and the opening of the prison to <span class=\"clarity-word\">them that are</span> bound;", 
+      "number": "1", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "To proclaim the acceptable year of the LORD, and the day of vengeance of our God; to comfort all that mourn;", 
+      "contentHtml": "To proclaim the acceptable year of the <span class=\"small-caps\">Lord</span>, and the day of vengeance of our God; to comfort all that mourn;", 
+      "number": "2", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the LORD, that he might be glorified.", 
+      "contentHtml": "To appoint unto them that mourn in Zion, to give unto them beauty for ashes, the oil of joy for mourning, the garment of praise for the spirit of heaviness; that they might be called trees of righteousness, the planting of the <span class=\"small-caps\">Lord</span>, that he might be glorified.", 
+      "number": "3", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "¶ And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.", 
+      "contentHtml": "¶ And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.", 
+      "number": "4", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers.", 
+      "contentHtml": "And strangers shall stand and feed your flocks, and the sons of the alien <span class=\"clarity-word\">shall be</span> your plowmen and your vinedressers.", 
+      "number": "5", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "But ye shall be named the Priests of the LORD: men shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.", 
+      "contentHtml": "But ye shall be named the Priests of the <span class=\"small-caps\">Lord</span>: <span class=\"clarity-word\">men</span> shall call you the Ministers of our God: ye shall eat the riches of the Gentiles, and in their glory shall ye boast yourselves.", 
+      "number": "6", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "¶ For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.", 
+      "contentHtml": "¶ For your shame <span class=\"clarity-word\">ye shall have</span> double; and <span class=\"clarity-word\">for</span> confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.", 
+      "number": "7", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "For I the LORD love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.", 
+      "contentHtml": "For I the <span class=\"small-caps\">Lord</span> love judgment, I hate robbery for burnt offering; and I will direct their work in truth, and I will make an everlasting covenant with them.", 
+      "number": "8", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the LORD hath blessed.", 
+      "contentHtml": "And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they <span class=\"clarity-word\">are</span> the seed <span class=\"clarity-word\">which</span> the <span class=\"small-caps\">Lord</span> hath blessed.", 
+      "number": "9", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "I will greatly rejoice in the LORD, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh himself with ornaments, and as a bride adorneth herself with her jewels.", 
+      "contentHtml": "I will greatly rejoice in the <span class=\"small-caps\">Lord</span>, my soul shall be joyful in my God; for he hath clothed me with the garments of salvation, he hath covered me with the robe of righteousness, as a bridegroom decketh <span class=\"clarity-word\">himself</span> with ornaments, and as a bride adorneth <span class=\"clarity-word\">herself</span> with her jewels.", 
+      "number": "10", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord GOD will cause righteousness and praise to spring forth before all the nations.", 
+      "contentHtml": "For as the earth bringeth forth her bud, and as the garden causeth the things that are sown in it to spring forth; so the Lord <span class=\"small-caps\">God</span> will cause righteousness and praise to spring forth before all the nations.", 
+      "number": "11", 
+      "pageNumber": "934", 
+      "compareId": "isaiah-61_v11", 
+      "churchId": "p11"
+    }
+  ], 
+  "media": []
+}

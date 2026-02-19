@@ -1,0 +1,29 @@
+{
+  "name": "Doctrine and Covenants 120", 
+  "abbrev": "D&C 120", 
+  "number": "120", 
+  "churchUri": "/scriptures/dc-testament/dc/120", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 120", 
+      "contentHtml": "Section 120", 
+      "number": null, 
+      "pageNumber": "239", 
+      "compareId": "section-120_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Verily, thus saith the Lord, the time is now come, that it shall be disposed of by a council, composed of the First Presidency of my Church, and of the bishop and his council, and by my high council; and by mine own voice unto them, saith the Lord. Even so. Amen.", 
+      "contentHtml": "Verily, thus saith the Lord, the time is now come, that it shall be disposed of by a council, composed of the First Presidency of my Church, and of the bishop and his council, and by my high council; and by mine own voice unto them, saith the Lord. Even so. Amen.", 
+      "number": "1", 
+      "pageNumber": "239", 
+      "compareId": "section-120_v1", 
+      "churchId": "p1"
+    }
+  ], 
+  "media": []
+}

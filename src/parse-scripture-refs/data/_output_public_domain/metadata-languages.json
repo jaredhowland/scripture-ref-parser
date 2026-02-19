@@ -1,0 +1,14 @@
+{
+  "_about": "Generated 2026-02-14 by Python Scripture Scraper (https://github.com/samuelbradshaw/python-scripture-scraper)", 
+  "languages": {
+    "en": {
+      "name": "English", 
+      "autonym": "English", 
+      "churchLang": "eng"
+    }
+  }, 
+  "mapToBcp47": {
+    "en": "en", 
+    "eng": "en"
+  }
+}

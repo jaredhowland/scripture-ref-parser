@@ -1,0 +1,59 @@
+{
+  "name": "Psalm 133", 
+  "abbrev": "Ps. 133", 
+  "number": "133", 
+  "churchUri": "/scriptures/ot/ps/133", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 133", 
+      "contentHtml": "Psalm 133", 
+      "number": null, 
+      "pageNumber": "802", 
+      "compareId": "psalm-133_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Song of degrees of David.", 
+      "contentHtml": "A Song of degrees of David.", 
+      "number": null, 
+      "pageNumber": "802", 
+      "compareId": "psalm-133_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, how good and how pleasant it is for brethren to dwell together in unity!", 
+      "contentHtml": "Behold, how good and how pleasant <span class=\"clarity-word\">it is</span> for brethren to dwell together in unity!", 
+      "number": "1", 
+      "pageNumber": "802", 
+      "compareId": "psalm-133_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "It is like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;", 
+      "contentHtml": "<span class=\"clarity-word\">It is</span> like the precious ointment upon the head, that ran down upon the beard, <span class=\"clarity-word\">even</span> Aaron’s beard: that went down to the skirts of his garments;", 
+      "number": "2", 
+      "pageNumber": "802", 
+      "compareId": "psalm-133_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "As the dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore.", 
+      "contentHtml": "As the dew of Hermon, <span class=\"clarity-word\">and as the dew</span> that descended upon the mountains of Zion: for there the <span class=\"small-caps\">Lord</span> commanded the blessing, <span class=\"clarity-word\">even</span> life for evermore.", 
+      "number": "3", 
+      "pageNumber": "802", 
+      "compareId": "psalm-133_v3", 
+      "churchId": "p3"
+    }
+  ], 
+  "media": []
+}

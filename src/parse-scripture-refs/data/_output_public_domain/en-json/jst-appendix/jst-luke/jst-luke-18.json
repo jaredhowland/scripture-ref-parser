@@ -1,0 +1,29 @@
+{
+  "name": "JST, Luke 18", 
+  "abbrev": null, 
+  "number": "18", 
+  "churchUri": "/scriptures/jst/jst-luke/18", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Luke 18:27. Compare Luke 18:27", 
+      "contentHtml": "<strong>JST, Luke 18:27.</strong> Compare Luke 18:27", 
+      "number": null, 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-18_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And he said unto them, It is impossible for them who trust in riches, to enter into the kingdom of God; but he who forsaketh the things which are of this world, it is possible with God, that he should enter in.", 
+      "contentHtml": "And he said <em>unto them, It is impossible for them who trust in riches, to enter into the kingdom of God; but he who forsaketh the things which are of this world, it is</em> possible with God, <em>that he should enter in.</em>", 
+      "number": "27", 
+      "pageNumber": "792", 
+      "compareId": "jst-luke-18_v1", 
+      "churchId": "p27"
+    }
+  ], 
+  "media": []
+}

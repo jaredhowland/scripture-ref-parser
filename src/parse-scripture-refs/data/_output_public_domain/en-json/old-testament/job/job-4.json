@@ -1,0 +1,229 @@
+{
+  "name": "Job 4", 
+  "abbrev": "Job 4", 
+  "number": "4", 
+  "churchUri": "/scriptures/ot/job/4", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 4", 
+      "contentHtml": "Chapter 4", 
+      "number": null, 
+      "pageNumber": "681", 
+      "compareId": "job-4_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then Eliphaz the Temanite answered and said,", 
+      "contentHtml": "Then Eliphaz the Temanite answered and said,", 
+      "number": "1", 
+      "pageNumber": "681", 
+      "compareId": "job-4_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?", 
+      "contentHtml": "<span class=\"clarity-word\">If</span> we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?", 
+      "number": "2", 
+      "pageNumber": "681", 
+      "compareId": "job-4_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Behold, thou hast instructed many, and thou hast strengthened the weak hands.", 
+      "contentHtml": "Behold, thou hast instructed many, and thou hast strengthened the weak hands.", 
+      "number": "3", 
+      "pageNumber": "681", 
+      "compareId": "job-4_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.", 
+      "contentHtml": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.", 
+      "number": "4", 
+      "pageNumber": "681", 
+      "compareId": "job-4_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.", 
+      "contentHtml": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.", 
+      "number": "5", 
+      "pageNumber": "681", 
+      "compareId": "job-4_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?", 
+      "contentHtml": "<span class=\"clarity-word\">Is</span> not <span class=\"clarity-word\">this</span> thy fear, thy confidence, thy hope, and the uprightness of thy ways?", 
+      "number": "6", 
+      "pageNumber": "681", 
+      "compareId": "job-4_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off?", 
+      "contentHtml": "Remember, I pray thee, who <span class=\"clarity-word\">ever</span> perished, being innocent? or where were the righteous cut off?", 
+      "number": "7", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.", 
+      "contentHtml": "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.", 
+      "number": "8", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "By the blast of God they perish, and by the breath of his nostrils are they consumed.", 
+      "contentHtml": "By the blast of God they perish, and by the breath of his nostrils are they consumed.", 
+      "number": "9", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.", 
+      "contentHtml": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.", 
+      "number": "10", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.", 
+      "contentHtml": "The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.", 
+      "number": "11", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Now a thing was secretly brought to me, and mine ear received a little thereof.", 
+      "contentHtml": "Now a thing was secretly brought to me, and mine ear received a little thereof.", 
+      "number": "12", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "In thoughts from the visions of the night, when deep sleep falleth on men,", 
+      "contentHtml": "In thoughts from the visions of the night, when deep sleep falleth on men,", 
+      "number": "13", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Fear came upon me, and trembling, which made all my bones to shake.", 
+      "contentHtml": "Fear came upon me, and trembling, which made all my bones to shake.", 
+      "number": "14", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Then a spirit passed before my face; the hair of my flesh stood up:", 
+      "contentHtml": "Then a spirit passed before my face; the hair of my flesh stood up:", 
+      "number": "15", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,", 
+      "contentHtml": "It stood still, but I could not discern the form thereof: an image <span class=\"clarity-word\">was</span> before mine eyes, <span class=\"clarity-word\">there was</span> silence, and I heard a voice, <span class=\"clarity-word\">saying,</span>", 
+      "number": "16", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Shall mortal man be more just than God? shall a man be more pure than his maker?", 
+      "contentHtml": "Shall mortal man be more just than God? shall a man be more pure than his maker?", 
+      "number": "17", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Behold, he put no trust in his servants; and his angels he charged with folly:", 
+      "contentHtml": "Behold, he put no trust in his servants; and his angels he charged with folly:", 
+      "number": "18", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?", 
+      "contentHtml": "How much less <span class=\"clarity-word\">in</span> them that dwell in houses of clay, whose foundation <span class=\"clarity-word\">is</span> in the dust, <span class=\"clarity-word\">which</span> are crushed before the moth?", 
+      "number": "19", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "They are destroyed from morning to evening: they perish for ever without any regarding it.", 
+      "contentHtml": "They are destroyed from morning to evening: they perish for ever without any regarding <span class=\"clarity-word\">it.</span>", 
+      "number": "20", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Doth not their excellency which is in them go away? they die, even without wisdom.", 
+      "contentHtml": "Doth not their excellency <span class=\"clarity-word\">which is</span> in them go away? they die, even without wisdom.", 
+      "number": "21", 
+      "pageNumber": "682", 
+      "compareId": "job-4_v21", 
+      "churchId": "p21"
+    }
+  ], 
+  "media": []
+}

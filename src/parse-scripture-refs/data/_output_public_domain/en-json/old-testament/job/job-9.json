@@ -1,0 +1,369 @@
+{
+  "name": "Job 9", 
+  "abbrev": "Job 9", 
+  "number": "9", 
+  "churchUri": "/scriptures/ot/job/9", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 9", 
+      "contentHtml": "Chapter 9", 
+      "number": null, 
+      "pageNumber": "685", 
+      "compareId": "job-9_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then Job answered and said,", 
+      "contentHtml": "Then Job answered and said,", 
+      "number": "1", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "I know it is so of a truth: but how should man be just with God?", 
+      "contentHtml": "I know <span class=\"clarity-word\">it is</span> so of a truth: but how should man be just with God?", 
+      "number": "2", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "If he will contend with him, he cannot answer him one of a thousand.", 
+      "contentHtml": "If he will contend with him, he cannot answer him one of a thousand.", 
+      "number": "3", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "He is wise in heart, and mighty in strength: who hath hardened himself against him, and hath prospered?", 
+      "contentHtml": "<span class=\"clarity-word\">He is</span> wise in heart, and mighty in strength: who hath hardened <span class=\"clarity-word\">himself</span> against him, and hath prospered?", 
+      "number": "4", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Which removeth the mountains, and they know not: which overturneth them in his anger.", 
+      "contentHtml": "Which removeth the mountains, and they know not: which overturneth them in his anger.", 
+      "number": "5", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Which shaketh the earth out of her place, and the pillars thereof tremble.", 
+      "contentHtml": "Which shaketh the earth out of her place, and the pillars thereof tremble.", 
+      "number": "6", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Which commandeth the sun, and it riseth not; and sealeth up the stars.", 
+      "contentHtml": "Which commandeth the sun, and it riseth not; and sealeth up the stars.", 
+      "number": "7", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.", 
+      "contentHtml": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.", 
+      "number": "8", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.", 
+      "contentHtml": "Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.", 
+      "number": "9", 
+      "pageNumber": "685", 
+      "compareId": "job-9_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Which doeth great things past finding out; yea, and wonders without number.", 
+      "contentHtml": "Which doeth great things past finding out; yea, and wonders without number.", 
+      "number": "10", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not.", 
+      "contentHtml": "Lo, he goeth by me, and I see <span class=\"clarity-word\">him</span> not: he passeth on also, but I perceive him not.", 
+      "number": "11", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?", 
+      "contentHtml": "Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?", 
+      "number": "12", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "If God will not withdraw his anger, the proud helpers do stoop under him.", 
+      "contentHtml": "<span class=\"clarity-word\">If</span> God will not withdraw his anger, the proud helpers do stoop under him.", 
+      "number": "13", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "How much less shall I answer him, and choose out my words to reason with him?", 
+      "contentHtml": "How much less shall I answer him, <span class=\"clarity-word\">and</span> choose out my words <span class=\"clarity-word\">to reason</span> with him?", 
+      "number": "14", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Whom, though I were righteous, yet would I not answer, but I would make supplication to my judge.", 
+      "contentHtml": "Whom, though I were righteous, <span class=\"clarity-word\">yet</span> would I not answer, <span class=\"clarity-word\">but</span> I would make supplication to my judge.", 
+      "number": "15", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "If I had called, and he had answered me; yet would I not believe that he had hearkened unto my voice.", 
+      "contentHtml": "If I had called, and he had answered me; <span class=\"clarity-word\">yet</span> would I not believe that he had hearkened unto my voice.", 
+      "number": "16", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For he breaketh me with a tempest, and multiplieth my wounds without cause.", 
+      "contentHtml": "For he breaketh me with a tempest, and multiplieth my wounds without cause.", 
+      "number": "17", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "He will not suffer me to take my breath, but filleth me with bitterness.", 
+      "contentHtml": "He will not suffer me to take my breath, but filleth me with bitterness.", 
+      "number": "18", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "If I speak of strength, lo, he is strong: and if of judgment, who shall set me a time to plead?", 
+      "contentHtml": "If <span class=\"clarity-word\">I speak</span> of strength, lo, <span class=\"clarity-word\">he is</span> strong: and if of judgment, who shall set me a time <span class=\"clarity-word\">to plead?</span>", 
+      "number": "19", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "If I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse.", 
+      "contentHtml": "If I justify myself, mine own mouth shall condemn me: <span class=\"clarity-word\">if I say,</span> I <span class=\"clarity-word\">am</span> perfect, it shall also prove me perverse.", 
+      "number": "20", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Though I were perfect, yet would I not know my soul: I would despise my life.", 
+      "contentHtml": "<span class=\"clarity-word\">Though</span> I <span class=\"clarity-word\">were</span> perfect, <span class=\"clarity-word\">yet</span> would I not know my soul: I would despise my life.", 
+      "number": "21", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "This is one thing, therefore I said it, He destroyeth the perfect and the wicked.", 
+      "contentHtml": "This <span class=\"clarity-word\">is</span> one <span class=\"clarity-word\">thing,</span> therefore I said <span class=\"clarity-word\">it,</span> He destroyeth the perfect and the wicked.", 
+      "number": "22", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "If the scourge slay suddenly, he will laugh at the trial of the innocent.", 
+      "contentHtml": "If the scourge slay suddenly, he will laugh at the trial of the innocent.", 
+      "number": "23", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?", 
+      "contentHtml": "The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, <span class=\"clarity-word\">and</span> who <span class=\"clarity-word\">is</span> he?", 
+      "number": "24", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Now my days are swifter than a post: they flee away, they see no good.", 
+      "contentHtml": "Now my days are swifter than a post: they flee away, they see no good.", 
+      "number": "25", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "They are passed away as the swift ships: as the eagle that hasteth to the prey.", 
+      "contentHtml": "They are passed away as the swift ships: as the eagle <span class=\"clarity-word\">that</span> hasteth to the prey.", 
+      "number": "26", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "If I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:", 
+      "contentHtml": "If I say, I will forget my complaint, I will leave off my heaviness, and comfort <span class=\"clarity-word\">myself:</span>", 
+      "number": "27", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent.", 
+      "contentHtml": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent.", 
+      "number": "28", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "If I be wicked, why then labour I in vain?", 
+      "contentHtml": "<span class=\"clarity-word\">If</span> I be wicked, why then labour I in vain?", 
+      "number": "29", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "If I wash myself with snow water, and make my hands never so clean;", 
+      "contentHtml": "If I wash myself with snow water, and make my hands never so clean;", 
+      "number": "30", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.", 
+      "contentHtml": "Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.", 
+      "number": "31", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "For he is not a man, as I am, that I should answer him, and we should come together in judgment.", 
+      "contentHtml": "For <span class=\"clarity-word\">he is</span> not a man, as I <span class=\"clarity-word\">am, that</span> I should answer him, <span class=\"clarity-word\">and</span> we should come together in judgment.", 
+      "number": "32", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "Neither is there any daysman betwixt us, that might lay his hand upon us both.", 
+      "contentHtml": "Neither is there any daysman betwixt us, <span class=\"clarity-word\">that</span> might lay his hand upon us both.", 
+      "number": "33", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "Let him take his rod away from me, and let not his fear terrify me:", 
+      "contentHtml": "Let him take his rod away from me, and let not his fear terrify me:", 
+      "number": "34", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Then would I speak, and not fear him; but it is not so with me.", 
+      "contentHtml": "<span class=\"clarity-word\">Then</span> would I speak, and not fear him; but <span class=\"clarity-word\">it is</span> not so with me.", 
+      "number": "35", 
+      "pageNumber": "686", 
+      "compareId": "job-9_v35", 
+      "churchId": "p35"
+    }
+  ], 
+  "media": []
+}

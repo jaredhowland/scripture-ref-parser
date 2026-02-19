@@ -1,0 +1,219 @@
+{
+  "name": "Psalm 147", 
+  "abbrev": "Ps. 147", 
+  "number": "147", 
+  "churchUri": "/scriptures/ot/ps/147", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 147", 
+      "contentHtml": "Psalm 147", 
+      "number": null, 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Praise ye the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.", 
+      "contentHtml": "Praise ye the <span class=\"small-caps\">Lord</span>: for <span class=\"clarity-word\">it is</span> good to sing praises unto our God; for <span class=\"clarity-word\">it is</span> pleasant; <span class=\"clarity-word\">and</span> praise is comely.", 
+      "number": "1", 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The LORD doth build up Jerusalem: he gathereth together the outcasts of Israel.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> doth build up Jerusalem: he gathereth together the outcasts of Israel.", 
+      "number": "2", 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "He healeth the broken in heart, and bindeth up their wounds.", 
+      "contentHtml": "He healeth the broken in heart, and bindeth up their wounds.", 
+      "number": "3", 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "He telleth the number of the stars; he calleth them all by their names.", 
+      "contentHtml": "He telleth the number of the stars; he calleth them all by <span class=\"clarity-word\">their</span> names.", 
+      "number": "4", 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Great is our Lord, and of great power: his understanding is infinite.", 
+      "contentHtml": "Great <span class=\"clarity-word\">is</span> our Lord, and of great power: his understanding <span class=\"clarity-word\">is</span> infinite.", 
+      "number": "5", 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "The LORD lifteth up the meek: he casteth the wicked down to the ground.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> lifteth up the meek: he casteth the wicked down to the ground.", 
+      "number": "6", 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Sing unto the LORD with thanksgiving; sing praise upon the harp unto our God:", 
+      "contentHtml": "Sing unto the <span class=\"small-caps\">Lord</span> with thanksgiving; sing praise upon the harp unto our God:", 
+      "number": "7", 
+      "pageNumber": "809", 
+      "compareId": "psalm-147_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.", 
+      "contentHtml": "Who covereth the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.", 
+      "number": "8", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "He giveth to the beast his food, and to the young ravens which cry.", 
+      "contentHtml": "He giveth to the beast his food, <span class=\"clarity-word\">and</span> to the young ravens which cry.", 
+      "number": "9", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.", 
+      "contentHtml": "He delighteth not in the strength of the horse: he taketh not pleasure in the legs of a man.", 
+      "number": "10", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "The LORD taketh pleasure in them that fear him, in those that hope in his mercy.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> taketh pleasure in them that fear him, in those that hope in his mercy.", 
+      "number": "11", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Praise the LORD, O Jerusalem; praise thy God, O Zion.", 
+      "contentHtml": "Praise the <span class=\"small-caps\">Lord</span>, O Jerusalem; praise thy God, O Zion.", 
+      "number": "12", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.", 
+      "contentHtml": "For he hath strengthened the bars of thy gates; he hath blessed thy children within thee.", 
+      "number": "13", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "He maketh peace in thy borders, and filleth thee with the finest of the wheat.", 
+      "contentHtml": "He maketh peace <span class=\"clarity-word\">in</span> thy borders, <span class=\"clarity-word\">and</span> filleth thee with the finest of the wheat.", 
+      "number": "14", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "He sendeth forth his commandment upon earth: his word runneth very swiftly.", 
+      "contentHtml": "He sendeth forth his commandment <span class=\"clarity-word\">upon</span> earth: his word runneth very swiftly.", 
+      "number": "15", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "He giveth snow like wool: he scattereth the hoarfrost like ashes.", 
+      "contentHtml": "He giveth snow like wool: he scattereth the hoarfrost like ashes.", 
+      "number": "16", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "He casteth forth his ice like morsels: who can stand before his cold?", 
+      "contentHtml": "He casteth forth his ice like morsels: who can stand before his cold?", 
+      "number": "17", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "He sendeth out his word, and melteth them: he causeth his wind to blow, and the waters flow.", 
+      "contentHtml": "He sendeth out his word, and melteth them: he causeth his wind to blow, <span class=\"clarity-word\">and</span> the waters flow.", 
+      "number": "18", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.", 
+      "contentHtml": "He sheweth his word unto Jacob, his statutes and his judgments unto Israel.", 
+      "number": "19", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD.", 
+      "contentHtml": "He hath not dealt so with any nation: and <span class=\"clarity-word\">as for his</span> judgments, they have not known them. Praise ye the <span class=\"small-caps\">Lord</span>.", 
+      "number": "20", 
+      "pageNumber": "810", 
+      "compareId": "psalm-147_v20", 
+      "churchId": "p20"
+    }
+  ], 
+  "media": []
+}

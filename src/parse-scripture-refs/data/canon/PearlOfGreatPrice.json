@@ -1,0 +1,99 @@
+{
+  "Moses": {
+    "names": [
+      "Moses"
+    ],
+    "abbrs": [
+      "Mos",
+      "Moses"
+    ],
+    "num_chaps": 8,
+    "num_verses": {
+      "1": 42,
+      "2": 31,
+      "3": 25,
+      "4": 32,
+      "5": 59,
+      "6": 68,
+      "7": 69,
+      "8": 30
+    },
+    "lds_id": "moses",
+    "osis_id": "Moses"
+  },
+  "Abr": {
+    "names": [
+      "Abraham"
+    ],
+    "abbrs": [
+      "Abr",
+      "Abraham"
+    ],
+    "num_chaps": 8,
+    "num_verses": {
+      "1": 31,
+      "2": 25,
+      "3": 28,
+      "4": 31,
+      "5": 21,
+      "fac-1": 0,
+      "fac-2": 0,
+      "fac-3": 0
+    },
+    "lds_id": "abr",
+    "osis_id": "Abr"
+  },
+  "JSM": {
+    "names": [
+      "Joseph Smith—Matthew"
+    ],
+    "abbrs": [
+      "JSM",
+      "Joseph Smith-Matthew",
+      "Joseph Smith Matthew",
+      "JS-M",
+      "J S M"
+    ],
+    "num_chaps": 1,
+    "num_verses": {
+      "1": 55
+    },
+    "lds_id": "js-m",
+    "osis_id": "JSM"
+  },
+  "JSH": {
+    "names": [
+      "Joseph Smith—History"
+    ],
+    "abbrs": [
+      "JSH",
+      "Joseph Smith-History",
+      "Joseph Smith History",
+      "JS-H",
+      "J S H"
+    ],
+    "num_chaps": 1,
+    "num_verses": {
+      "1": 75
+    },
+    "lds_id": "js-h",
+    "osis_id": "JSH"
+  },
+  "AofF": {
+    "names": [
+      "Articles of Faith"
+    ],
+    "abbrs": [
+      "A of F",
+      "AOF",
+      "Articles of Faith",
+      "Art of Faith"
+    ],
+    "num_chaps": 1,
+    "num_verses": {
+      "1": 13
+    },
+    "lds_id": "a-of-f",
+    "osis_id": "AofF"
+  }
+}

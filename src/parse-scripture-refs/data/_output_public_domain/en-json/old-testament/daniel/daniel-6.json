@@ -1,0 +1,299 @@
+{
+  "name": "Daniel 6", 
+  "abbrev": "Dan. 6", 
+  "number": "6", 
+  "churchUri": "/scriptures/ot/dan/6", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 6", 
+      "contentHtml": "Chapter 6", 
+      "number": null, 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;", 
+      "contentHtml": "It pleased Darius to set over the kingdom an hundred and twenty princes, which should be over the whole kingdom;", 
+      "number": "1", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And over these three presidents; of whom Daniel was first: that the princes might give accounts unto them, and the king should have no damage.", 
+      "contentHtml": "And over these three presidents; of whom Daniel <span class=\"clarity-word\">was</span> first: that the princes might give accounts unto them, and the king should have no damage.", 
+      "number": "2", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Then this Daniel was preferred above the presidents and princes, because an excellent spirit was in him; and the king thought to set him over the whole realm.", 
+      "contentHtml": "Then this Daniel was preferred above the presidents and princes, because an excellent spirit <span class=\"clarity-word\">was</span> in him; and the king thought to set him over the whole realm.", 
+      "number": "3", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "¶ Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.", 
+      "contentHtml": "¶ Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he <span class=\"clarity-word\">was</span> faithful, neither was there any error or fault found in him.", 
+      "number": "4", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Then said these men, We shall not find any occasion against this Daniel, except we find it against him concerning the law of his God.", 
+      "contentHtml": "Then said these men, We shall not find any occasion against this Daniel, except we find <span class=\"clarity-word\">it</span> against him concerning the law of his God.", 
+      "number": "5", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.", 
+      "contentHtml": "Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.", 
+      "number": "6", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.", 
+      "contentHtml": "All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.", 
+      "number": "7", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.", 
+      "contentHtml": "Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.", 
+      "number": "8", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Wherefore king Darius signed the writing and the decree.", 
+      "contentHtml": "Wherefore king Darius signed the writing and the decree.", 
+      "number": "9", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "¶ Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.", 
+      "contentHtml": "¶ Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.", 
+      "number": "10", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Then these men assembled, and found Daniel praying and making supplication before his God.", 
+      "contentHtml": "Then these men assembled, and found Daniel praying and making supplication before his God.", 
+      "number": "11", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not.", 
+      "contentHtml": "Then they came near, and spake before the king concerning the king’s decree; Hast thou not signed a decree, that every man that shall ask <span class=\"clarity-word\">a petition</span> of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing <span class=\"clarity-word\">is</span> true, according to the law of the Medes and Persians, which altereth not.", 
+      "number": "12", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.", 
+      "contentHtml": "Then answered they and said before the king, That Daniel, which <span class=\"clarity-word\">is</span> of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.", 
+      "number": "13", 
+      "pageNumber": "1110", 
+      "compareId": "daniel-6_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Then the king, when he heard these words, was sore displeased with himself, and set his heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.", 
+      "contentHtml": "Then the king, when he heard <span class=\"clarity-word\">these</span> words, was sore displeased with himself, and set <span class=\"clarity-word\">his</span> heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.", 
+      "number": "14", 
+      "pageNumber": "1110,1111", 
+      "compareId": "daniel-6_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians is, That no decree nor statute which the king establisheth may be changed.", 
+      "contentHtml": "Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians <span class=\"clarity-word\">is,</span> That no decree nor statute which the king establisheth may be changed.", 
+      "number": "15", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.", 
+      "contentHtml": "Then the king commanded, and they brought Daniel, and cast <span class=\"clarity-word\">him</span> into the den of lions. <span class=\"clarity-word\">Now</span> the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.", 
+      "number": "16", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.", 
+      "contentHtml": "And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.", 
+      "number": "17", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "¶ Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.", 
+      "contentHtml": "¶ Then the king went to his palace, and passed the night fasting: neither were instruments of musick brought before him: and his sleep went from him.", 
+      "number": "18", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Then the king arose very early in the morning, and went in haste unto the den of lions.", 
+      "contentHtml": "Then the king arose very early in the morning, and went in haste unto the den of lions.", 
+      "number": "19", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And when he came to the den, he cried with a lamentable voice unto Daniel: and the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?", 
+      "contentHtml": "And when he came to the den, he cried with a lamentable voice unto Daniel: <span class=\"clarity-word\">and</span> the king spake and said to Daniel, O Daniel, servant of the living God, is thy God, whom thou servest continually, able to deliver thee from the lions?", 
+      "number": "20", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Then said Daniel unto the king, O king, live for ever.", 
+      "contentHtml": "Then said Daniel unto the king, O king, live for ever.", 
+      "number": "21", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.", 
+      "contentHtml": "My God hath sent his angel, and hath shut the lions’ mouths, that they have not hurt me: forasmuch as before him innocency was found in me; and also before thee, O king, have I done no hurt.", 
+      "number": "22", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.", 
+      "contentHtml": "Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.", 
+      "number": "23", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "¶ And the king commanded, and they brought those men which had accused Daniel, and they cast them into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.", 
+      "contentHtml": "¶ And the king commanded, and they brought those men which had accused Daniel, and they cast <span class=\"clarity-word\">them</span> into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.", 
+      "number": "24", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "¶ Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.", 
+      "contentHtml": "¶ Then king Darius wrote unto all people, nations, and languages, that dwell in all the earth; Peace be multiplied unto you.", 
+      "number": "25", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he is the living God, and steadfast for ever, and his kingdom that which shall not be destroyed, and his dominion shall be even unto the end.", 
+      "contentHtml": "I make a decree, That in every dominion of my kingdom men tremble and fear before the God of Daniel: for he <span class=\"clarity-word\">is</span> the living God, and steadfast for ever, and his kingdom <span class=\"clarity-word\">that</span> which shall not be destroyed, and his dominion <span class=\"clarity-word\">shall be even</span> unto the end.", 
+      "number": "26", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.", 
+      "contentHtml": "He delivereth and rescueth, and he worketh signs and wonders in heaven and in earth, who hath delivered Daniel from the power of the lions.", 
+      "number": "27", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.", 
+      "contentHtml": "So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.", 
+      "number": "28", 
+      "pageNumber": "1111", 
+      "compareId": "daniel-6_v28", 
+      "churchId": "p28"
+    }
+  ], 
+  "media": []
+}

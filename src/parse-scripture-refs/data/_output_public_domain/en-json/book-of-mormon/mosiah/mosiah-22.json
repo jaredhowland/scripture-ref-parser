@@ -1,0 +1,179 @@
+{
+  "name": "Mosiah 22", 
+  "abbrev": "Mosiah 22", 
+  "number": "22", 
+  "churchUri": "/scriptures/bofm/mosiah/22", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 22", 
+      "contentHtml": "Chapter 22", 
+      "number": null, 
+      "pageNumber": "189", 
+      "compareId": "mosiah-22_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And now it came to pass that Ammon and king Limhi began to consult with the people how they should deliver themselves out of bondage; and even they did cause that all the people should gather themselves together; and this they did that they might have the voice of the people concerning the matter.", 
+      "contentHtml": "And now it came to pass that Ammon and king Limhi began to consult with the people how they should deliver themselves out of bondage; and even they did cause that all the people should gather themselves together; and this they did that they might have the voice of the people concerning the matter.", 
+      "number": "1", 
+      "pageNumber": "189", 
+      "compareId": "mosiah-22_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And it came to pass that they could find no way to deliver themselves out of bondage, except it were to take their women and children, and their flocks, and their herds, and their tents, and depart into the wilderness; for the Lamanites being so numerous, it was impossible for the people of Limhi to contend with them, thinking to deliver themselves out of bondage by the sword.", 
+      "contentHtml": "And it came to pass that they could find no way to deliver themselves out of bondage, except it were to take their women and children, and their flocks, and their herds, and their tents, and depart into the wilderness; for the Lamanites being so numerous, it was impossible for the people of Limhi to contend with them, thinking to deliver themselves out of bondage by the sword.", 
+      "number": "2", 
+      "pageNumber": "189", 
+      "compareId": "mosiah-22_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Now it came to pass that Gideon went forth and stood before the king, and said unto him: Now O king, thou hast hitherto hearkened unto my words many times when we have been contending with our brethren, the Lamanites.", 
+      "contentHtml": "Now it came to pass that Gideon went forth and stood before the king, and said unto him: Now O king, thou hast hitherto hearkened unto my words many times when we have been contending with our brethren, the Lamanites.", 
+      "number": "3", 
+      "pageNumber": "189", 
+      "compareId": "mosiah-22_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And now O king, if thou hast not found me to be an unprofitable servant, or if thou hast hitherto listened to my words in any degree, and they have been of service to thee, even so I desire that thou wouldst listen to my words at this time, and I will be thy servant and deliver this people out of bondage.", 
+      "contentHtml": "And now O king, if thou hast not found me to be an unprofitable servant, or if thou hast hitherto listened to my words in any degree, and they have been of service to thee, even so I desire that thou wouldst listen to my words at this time, and I will be thy servant and deliver this people out of bondage.", 
+      "number": "4", 
+      "pageNumber": "189", 
+      "compareId": "mosiah-22_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the king granted unto him that he might speak. And Gideon said unto him:", 
+      "contentHtml": "And the king granted unto him that he might speak. And Gideon said unto him:", 
+      "number": "5", 
+      "pageNumber": "189", 
+      "compareId": "mosiah-22_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Behold the back pass, through the back wall, on the back side of the city. The Lamanites, or the guards of the Lamanites, by night are drunken; therefore let us send a proclamation among all this people that they gather together their flocks and herds, that they may drive them into the wilderness by night.", 
+      "contentHtml": "Behold the back pass, through the back wall, on the back side of the city. The Lamanites, or the guards of the Lamanites, by night are drunken; therefore let us send a proclamation among all this people that they gather together their flocks and herds, that they may drive them into the wilderness by night.", 
+      "number": "6", 
+      "pageNumber": "189,190", 
+      "compareId": "mosiah-22_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And I will go according to thy command and pay the last tribute of wine to the Lamanites, and they will be drunken; and we will pass through the secret pass on the left of their camp when they are drunken and asleep.", 
+      "contentHtml": "And I will go according to thy command and pay the last tribute of wine to the Lamanites, and they will be drunken; and we will pass through the secret pass on the left of their camp when they are drunken and asleep.", 
+      "number": "7", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Thus we will depart with our women and our children, our flocks, and our herds into the wilderness; and we will travel around the land of Shilom.", 
+      "contentHtml": "Thus we will depart with our women and our children, our flocks, and our herds into the wilderness; and we will travel around the land of Shilom.", 
+      "number": "8", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And it came to pass that the king hearkened unto the words of Gideon.", 
+      "contentHtml": "And it came to pass that the king hearkened unto the words of Gideon.", 
+      "number": "9", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And king Limhi caused that his people should gather their flocks together; and he sent the tribute of wine to the Lamanites; and he also sent more wine, as a present unto them; and they did drink freely of the wine which king Limhi did send unto them.", 
+      "contentHtml": "And king Limhi caused that his people should gather their flocks together; and he sent the tribute of wine to the Lamanites; and he also sent more wine, as a present unto them; and they did drink freely of the wine which king Limhi did send unto them.", 
+      "number": "10", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And it came to pass that the people of king Limhi did depart by night into the wilderness with their flocks and their herds, and they went round about the land of Shilom in the wilderness, and bent their course towards the land of Zarahemla, being led by Ammon and his brethren.", 
+      "contentHtml": "And it came to pass that the people of king Limhi did depart by night into the wilderness with their flocks and their herds, and they went round about the land of Shilom in the wilderness, and bent their course towards the land of Zarahemla, being led by Ammon and his brethren.", 
+      "number": "11", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And they had taken all their gold, and silver, and their precious things, which they could carry, and also their provisions with them, into the wilderness; and they pursued their journey.", 
+      "contentHtml": "And they had taken all their gold, and silver, and their precious things, which they could carry, and also their provisions with them, into the wilderness; and they pursued their journey.", 
+      "number": "12", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And after being many days in the wilderness they arrived in the land of Zarahemla, and joined Mosiah’s people, and became his subjects.", 
+      "contentHtml": "And after being many days in the wilderness they arrived in the land of Zarahemla, and joined Mosiah’s people, and became his subjects.", 
+      "number": "13", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And it came to pass that Mosiah received them with joy; and he also received their records, and also the records which had been found by the people of Limhi.", 
+      "contentHtml": "And it came to pass that Mosiah received them with joy; and he also received their records, and also the records which had been found by the people of Limhi.", 
+      "number": "14", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And now it came to pass when the Lamanites had found that the people of Limhi had departed out of the land by night, that they sent an army into the wilderness to pursue them;", 
+      "contentHtml": "And now it came to pass when the Lamanites had found that the people of Limhi had departed out of the land by night, that they sent an army into the wilderness to pursue them;", 
+      "number": "15", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And after they had pursued them two days, they could no longer follow their tracks; therefore they were lost in the wilderness.", 
+      "contentHtml": "And after they had pursued them two days, they could no longer follow their tracks; therefore they were lost in the wilderness.", 
+      "number": "16", 
+      "pageNumber": "190", 
+      "compareId": "mosiah-22_v16", 
+      "churchId": "p16"
+    }
+  ], 
+  "media": []
+}

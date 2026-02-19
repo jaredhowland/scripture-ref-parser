@@ -1,0 +1,39 @@
+{
+  "name": "JST, 1 Timothy 6", 
+  "abbrev": null, 
+  "number": "6", 
+  "churchUri": "/scriptures/jst/jst-1-tim/6", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Timothy 6:15–16. Compare 1 Timothy 6:15–16", 
+      "contentHtml": "<strong>JST, 1 Timothy 6:15–16.</strong> Compare 1 Timothy 6:15–16", 
+      "number": null, 
+      "pageNumber": "799", 
+      "compareId": "jst-1-timothy-6_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Which in his times he shall show, who is the blessed and only Potentate, the King of kings, and Lord of lords, to whom be honor and power everlasting;", 
+      "contentHtml": "Which in his times he shall show, who is the blessed and only Potentate, the King of kings, and Lord of lords, <em>to whom be honor and power everlasting;</em>", 
+      "number": "15", 
+      "pageNumber": "799", 
+      "compareId": "jst-1-timothy-6_v1", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Whom no man hath seen, nor can see, unto whom no man can approach, only he who hath the light and the hope of immortality dwelling in him.", 
+      "contentHtml": "<em>Whom no man hath seen, nor can see, unto whom no man can approach, only he who hath the light and the hope of immortality dwelling in him.</em>", 
+      "number": "16", 
+      "pageNumber": "799", 
+      "compareId": "jst-1-timothy-6_v2", 
+      "churchId": "p16"
+    }
+  ], 
+  "media": []
+}

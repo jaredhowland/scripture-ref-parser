@@ -1,0 +1,29 @@
+{
+  "name": "JST, 2 Corinthians 5", 
+  "abbrev": null, 
+  "number": "5", 
+  "churchUri": "/scriptures/jst/jst-2-cor/5", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 2 Corinthians 5:16. Compare 2 Corinthians 5:16", 
+      "contentHtml": "<strong>JST, 2 Corinthians 5:16.</strong> Compare 2 Corinthians 5:16", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-2-corinthians-5_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Wherefore, henceforth live we no more after the flesh; yea, though we once lived after the flesh, yet since we have known Christ, now henceforth live we no more after the flesh.", 
+      "contentHtml": "Wherefore, henceforth <em>live</em> we no <em>more</em> after the flesh; <em>yea, though we once lived after the flesh, yet since</em> we have known Christ, now henceforth <em>live</em> we no more <em>after the flesh.</em>", 
+      "number": "16", 
+      "pageNumber": null, 
+      "compareId": "jst-2-corinthians-5_v1", 
+      "churchId": "p16"
+    }
+  ], 
+  "media": []
+}

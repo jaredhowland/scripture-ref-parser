@@ -1,0 +1,239 @@
+{
+  "name": "Job 8", 
+  "abbrev": "Job 8", 
+  "number": "8", 
+  "churchUri": "/scriptures/ot/job/8", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 8", 
+      "contentHtml": "Chapter 8", 
+      "number": null, 
+      "pageNumber": "685", 
+      "compareId": "job-8_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then answered Bildad the Shuhite, and said,", 
+      "contentHtml": "Then answered Bildad the Shuhite, and said,", 
+      "number": "1", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "How long wilt thou speak these things? and how long shall the words of thy mouth be like a strong wind?", 
+      "contentHtml": "How long wilt thou speak these <span class=\"clarity-word\">things?</span> and <span class=\"clarity-word\">how long shall</span> the words of thy mouth <span class=\"clarity-word\">be like</span> a strong wind?", 
+      "number": "2", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Doth God pervert judgment? or doth the Almighty pervert justice?", 
+      "contentHtml": "Doth God pervert judgment? or doth the Almighty pervert justice?", 
+      "number": "3", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "If thy children have sinned against him, and he have cast them away for their transgression;", 
+      "contentHtml": "If thy children have sinned against him, and he have cast them away for their transgression;", 
+      "number": "4", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;", 
+      "contentHtml": "If thou wouldest seek unto God betimes, and make thy supplication to the Almighty;", 
+      "number": "5", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "If thou wert pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.", 
+      "contentHtml": "If thou <span class=\"clarity-word\">wert</span> pure and upright; surely now he would awake for thee, and make the habitation of thy righteousness prosperous.", 
+      "number": "6", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Though thy beginning was small, yet thy latter end should greatly increase.", 
+      "contentHtml": "Though thy beginning was small, yet thy latter end should greatly increase.", 
+      "number": "7", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "For inquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:", 
+      "contentHtml": "For inquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:", 
+      "number": "8", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "(For we are but of yesterday, and know nothing, because our days upon earth are a shadow:)", 
+      "contentHtml": "(For we <span class=\"clarity-word\">are but of</span> yesterday, and know nothing, because our days upon earth <span class=\"clarity-word\">are</span> a shadow:)", 
+      "number": "9", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Shall not they teach thee, and tell thee, and utter words out of their heart?", 
+      "contentHtml": "Shall not they teach thee, <span class=\"clarity-word\">and</span> tell thee, and utter words out of their heart?", 
+      "number": "10", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Can the rush grow up without mire? can the flag grow without water?", 
+      "contentHtml": "Can the rush grow up without mire? can the flag grow without water?", 
+      "number": "11", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Whilst it is yet in his greenness, and not cut down, it withereth before any other herb.", 
+      "contentHtml": "Whilst it <span class=\"clarity-word\">is</span> yet in his greenness, <span class=\"clarity-word\">and</span> not cut down, it withereth before any <span class=\"clarity-word\">other</span> herb.", 
+      "number": "12", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "So are the paths of all that forget God; and the hypocrite’s hope shall perish:", 
+      "contentHtml": "So <span class=\"clarity-word\">are</span> the paths of all that forget God; and the hypocrite’s hope shall perish:", 
+      "number": "13", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Whose hope shall be cut off, and whose trust shall be a spider’s web.", 
+      "contentHtml": "Whose hope shall be cut off, and whose trust <span class=\"clarity-word\">shall be</span> a spider’s web.", 
+      "number": "14", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.", 
+      "contentHtml": "He shall lean upon his house, but it shall not stand: he shall hold it fast, but it shall not endure.", 
+      "number": "15", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "He is green before the sun, and his branch shooteth forth in his garden.", 
+      "contentHtml": "He <span class=\"clarity-word\">is</span> green before the sun, and his branch shooteth forth in his garden.", 
+      "number": "16", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "His roots are wrapped about the heap, and seeth the place of stones.", 
+      "contentHtml": "His roots are wrapped about the heap, <span class=\"clarity-word\">and</span> seeth the place of stones.", 
+      "number": "17", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "If he destroy him from his place, then it shall deny him, saying, I have not seen thee.", 
+      "contentHtml": "If he destroy him from his place, then <span class=\"clarity-word\">it</span> shall deny him, <span class=\"clarity-word\">saying,</span> I have not seen thee.", 
+      "number": "18", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Behold, this is the joy of his way, and out of the earth shall others grow.", 
+      "contentHtml": "Behold, this <span class=\"clarity-word\">is</span> the joy of his way, and out of the earth shall others grow.", 
+      "number": "19", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Behold, God will not cast away a perfect man, neither will he help the evil doers:", 
+      "contentHtml": "Behold, God will not cast away a perfect <span class=\"clarity-word\">man,</span> neither will he help the evil doers:", 
+      "number": "20", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Till he fill thy mouth with laughing, and thy lips with rejoicing.", 
+      "contentHtml": "Till he fill thy mouth with laughing, and thy lips with rejoicing.", 
+      "number": "21", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.", 
+      "contentHtml": "They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.", 
+      "number": "22", 
+      "pageNumber": "685", 
+      "compareId": "job-8_v22", 
+      "churchId": "p22"
+    }
+  ], 
+  "media": []
+}

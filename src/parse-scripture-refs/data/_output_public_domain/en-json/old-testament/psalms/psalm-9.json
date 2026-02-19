@@ -1,0 +1,229 @@
+{
+  "name": "Psalm 9", 
+  "abbrev": "Ps. 9", 
+  "number": "9", 
+  "churchUri": "/scriptures/ot/ps/9", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 9", 
+      "contentHtml": "Psalm 9", 
+      "number": null, 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician upon Muth-labben, A Psalm of David.", 
+      "contentHtml": "To the chief Musician upon Muth-labben, A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "I will praise thee, O LORD, with my whole heart; I will shew forth all thy marvellous works.", 
+      "contentHtml": "I will praise <span class=\"clarity-word\">thee,</span> O <span class=\"small-caps\">Lord</span>, with my whole heart; I will shew forth all thy marvellous works.", 
+      "number": "1", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.", 
+      "contentHtml": "I will be glad and rejoice in thee: I will sing praise to thy name, O thou most High.", 
+      "number": "2", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "When mine enemies are turned back, they shall fall and perish at thy presence.", 
+      "contentHtml": "When mine enemies are turned back, they shall fall and perish at thy presence.", 
+      "number": "3", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For thou hast maintained my right and my cause; thou satest in the throne judging right.", 
+      "contentHtml": "For thou hast maintained my right and my cause; thou satest in the throne judging right.", 
+      "number": "4", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.", 
+      "contentHtml": "Thou hast rebuked the heathen, thou hast destroyed the wicked, thou hast put out their name for ever and ever.", 
+      "number": "5", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.", 
+      "contentHtml": "O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.", 
+      "number": "6", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "But the LORD shall endure for ever: he hath prepared his throne for judgment.", 
+      "contentHtml": "But the <span class=\"small-caps\">Lord</span> shall endure for ever: he hath prepared his throne for judgment.", 
+      "number": "7", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.", 
+      "contentHtml": "And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.", 
+      "number": "8", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "The LORD also will be a refuge for the oppressed, a refuge in times of trouble.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> also will be a refuge for the oppressed, a refuge in times of trouble.", 
+      "number": "9", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And they that know thy name will put their trust in thee: for thou, LORD, hast not forsaken them that seek thee.", 
+      "contentHtml": "And they that know thy name will put their trust in thee: for thou, <span class=\"small-caps\">Lord</span>, hast not forsaken them that seek thee.", 
+      "number": "10", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.", 
+      "contentHtml": "Sing praises to the <span class=\"small-caps\">Lord</span>, which dwelleth in Zion: declare among the people his doings.", 
+      "number": "11", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.", 
+      "contentHtml": "When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.", 
+      "number": "12", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, thou that liftest me up from the gates of death:", 
+      "contentHtml": "Have mercy upon me, O <span class=\"small-caps\">Lord</span>; consider my trouble <span class=\"clarity-word\">which I suffer</span> of them that hate me, thou that liftest me up from the gates of death:", 
+      "number": "13", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.", 
+      "contentHtml": "That I may shew forth all thy praise in the gates of the daughter of Zion: I will rejoice in thy salvation.", 
+      "number": "14", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.", 
+      "contentHtml": "The heathen are sunk down in the pit <span class=\"clarity-word\">that</span> they made: in the net which they hid is their own foot taken.", 
+      "number": "15", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "The LORD is known by the judgment which he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> is known <span class=\"clarity-word\">by</span> the judgment <span class=\"clarity-word\">which</span> he executeth: the wicked is snared in the work of his own hands. Higgaion. Selah.", 
+      "number": "16", 
+      "pageNumber": "718", 
+      "compareId": "psalm-9_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "The wicked shall be turned into hell, and all the nations that forget God.", 
+      "contentHtml": "The wicked shall be turned into hell, <span class=\"clarity-word\">and</span> all the nations that forget God.", 
+      "number": "17", 
+      "pageNumber": "719", 
+      "compareId": "psalm-9_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.", 
+      "contentHtml": "For the needy shall not alway be forgotten: the expectation of the poor shall <span class=\"clarity-word\">not</span> perish for ever.", 
+      "number": "18", 
+      "pageNumber": "719", 
+      "compareId": "psalm-9_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Arise, O LORD; let not man prevail: let the heathen be judged in thy sight.", 
+      "contentHtml": "Arise, O <span class=\"small-caps\">Lord</span>; let not man prevail: let the heathen be judged in thy sight.", 
+      "number": "19", 
+      "pageNumber": "719", 
+      "compareId": "psalm-9_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Put them in fear, O LORD: that the nations may know themselves to be but men. Selah.", 
+      "contentHtml": "Put them in fear, O <span class=\"small-caps\">Lord</span>: <span class=\"clarity-word\">that</span> the nations may know themselves <span class=\"clarity-word\">to be but</span> men. Selah.", 
+      "number": "20", 
+      "pageNumber": "719", 
+      "compareId": "psalm-9_v20", 
+      "churchId": "p20"
+    }
+  ], 
+  "media": []
+}

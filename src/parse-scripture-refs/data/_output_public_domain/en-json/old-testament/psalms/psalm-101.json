@@ -1,0 +1,109 @@
+{
+  "name": "Psalm 101", 
+  "abbrev": "Ps. 101", 
+  "number": "101", 
+  "churchUri": "/scriptures/ot/ps/101", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 101", 
+      "contentHtml": "Psalm 101", 
+      "number": null, 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Psalm of David.", 
+      "contentHtml": "A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "I will sing of mercy and judgment: unto thee, O LORD, will I sing.", 
+      "contentHtml": "I will sing of mercy and judgment: unto thee, O <span class=\"small-caps\">Lord</span>, will I sing.", 
+      "number": "1", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.", 
+      "contentHtml": "I will behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.", 
+      "number": "2", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.", 
+      "contentHtml": "I will set no wicked thing before mine eyes: I hate the work of them that turn aside; <span class=\"clarity-word\">it</span> shall not cleave to me.", 
+      "number": "3", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "A froward heart shall depart from me: I will not know a wicked person.", 
+      "contentHtml": "A froward heart shall depart from me: I will not know a wicked <span class=\"clarity-word\">person.</span>", 
+      "number": "4", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.", 
+      "contentHtml": "Whoso privily slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.", 
+      "number": "5", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.", 
+      "contentHtml": "Mine eyes <span class=\"clarity-word\">shall be</span> upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.", 
+      "number": "6", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.", 
+      "contentHtml": "He that worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.", 
+      "number": "7", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.", 
+      "contentHtml": "I will early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the <span class=\"small-caps\">Lord</span>.", 
+      "number": "8", 
+      "pageNumber": "779", 
+      "compareId": "psalm-101_v8", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": []
+}

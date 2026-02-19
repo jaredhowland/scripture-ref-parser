@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 120", 
+  "abbrev": "Ps. 120", 
+  "number": "120", 
+  "churchUri": "/scriptures/ot/ps/120", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 120", 
+      "contentHtml": "Psalm 120", 
+      "number": null, 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Song of degrees.", 
+      "contentHtml": "A Song of degrees.", 
+      "number": null, 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "In my distress I cried unto the LORD, and he heard me.", 
+      "contentHtml": "In my distress I cried unto the <span class=\"small-caps\">Lord</span>, and he heard me.", 
+      "number": "1", 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue.", 
+      "contentHtml": "Deliver my soul, O <span class=\"small-caps\">Lord</span>, from lying lips, <span class=\"clarity-word\">and</span> from a deceitful tongue.", 
+      "number": "2", 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?", 
+      "contentHtml": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?", 
+      "number": "3", 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Sharp arrows of the mighty, with coals of juniper.", 
+      "contentHtml": "Sharp arrows of the mighty, with coals of juniper.", 
+      "number": "4", 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!", 
+      "contentHtml": "Woe is me, that I sojourn in Mesech, <span class=\"clarity-word\">that</span> I dwell in the tents of Kedar!", 
+      "number": "5", 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "My soul hath long dwelt with him that hateth peace.", 
+      "contentHtml": "My soul hath long dwelt with him that hateth peace.", 
+      "number": "6", 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "I am for peace: but when I speak, they are for war.", 
+      "contentHtml": "I <span class=\"clarity-word\">am for</span> peace: but when I speak, they <span class=\"clarity-word\">are</span> for war.", 
+      "number": "7", 
+      "pageNumber": "798", 
+      "compareId": "psalm-120_v7", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": []
+}

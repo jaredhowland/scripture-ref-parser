@@ -1,0 +1,149 @@
+{
+  "name": "Psalm 76", 
+  "abbrev": "Ps. 76", 
+  "number": "76", 
+  "churchUri": "/scriptures/ot/ps/76", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 76", 
+      "contentHtml": "Psalm 76", 
+      "number": null, 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician on Neginoth, A Psalm or Song of Asaph.", 
+      "contentHtml": "To the chief Musician on Neginoth, A Psalm <span class=\"clarity-word\">or</span> Song of Asaph.", 
+      "number": null, 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "In Judah is God known: his name is great in Israel.", 
+      "contentHtml": "In Judah <span class=\"clarity-word\">is</span> God known: his name <span class=\"clarity-word\">is</span> great in Israel.", 
+      "number": "1", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "In Salem also is his tabernacle, and his dwelling place in Zion.", 
+      "contentHtml": "In Salem also is his tabernacle, and his dwelling place in Zion.", 
+      "number": "2", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.", 
+      "contentHtml": "There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.", 
+      "number": "3", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Thou art more glorious and excellent than the mountains of prey.", 
+      "contentHtml": "Thou <span class=\"clarity-word\">art</span> more glorious <span class=\"clarity-word\">and</span> excellent than the mountains of prey.", 
+      "number": "4", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.", 
+      "contentHtml": "The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.", 
+      "number": "5", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.", 
+      "contentHtml": "At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.", 
+      "number": "6", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Thou, even thou, art to be feared: and who may stand in thy sight when once thou art angry?", 
+      "contentHtml": "Thou, <span class=\"clarity-word\">even</span> thou, <span class=\"clarity-word\">art</span> to be feared: and who may stand in thy sight when once thou art angry?", 
+      "number": "7", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Thou didst cause judgment to be heard from heaven; the earth feared, and was still,", 
+      "contentHtml": "Thou didst cause judgment to be heard from heaven; the earth feared, and was still,", 
+      "number": "8", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "When God arose to judgment, to save all the meek of the earth. Selah.", 
+      "contentHtml": "When God arose to judgment, to save all the meek of the earth. Selah.", 
+      "number": "9", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.", 
+      "contentHtml": "Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.", 
+      "number": "10", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Vow, and pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.", 
+      "contentHtml": "Vow, and pay unto the <span class=\"small-caps\">Lord</span> your God: let all that be round about him bring presents unto him that ought to be feared.", 
+      "number": "11", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "He shall cut off the spirit of princes: he is terrible to the kings of the earth.", 
+      "contentHtml": "He shall cut off the spirit of princes: <span class=\"clarity-word\">he is</span> terrible to the kings of the earth.", 
+      "number": "12", 
+      "pageNumber": "762", 
+      "compareId": "psalm-76_v12", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": []
+}

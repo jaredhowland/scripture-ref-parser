@@ -1,0 +1,169 @@
+{
+  "name": "Hosea 5", 
+  "abbrev": "Hosea 5", 
+  "number": "5", 
+  "churchUri": "/scriptures/ot/hosea/5", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 5", 
+      "contentHtml": "Chapter 5", 
+      "number": null, 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.", 
+      "contentHtml": "Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment <span class=\"clarity-word\">is</span> toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor.", 
+      "number": "1", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And the revolters are profound to make slaughter, though I have been a rebuker of them all.", 
+      "contentHtml": "And the revolters are profound to make slaughter, though I <span class=\"clarity-word\">have been</span> a rebuker of them all.", 
+      "number": "2", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled.", 
+      "contentHtml": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, <span class=\"clarity-word\">and</span> Israel is defiled.", 
+      "number": "3", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD.", 
+      "contentHtml": "They will not frame their doings to turn unto their God: for the spirit of whoredoms <span class=\"clarity-word\">is</span> in the midst of them, and they have not known the <span class=\"small-caps\">Lord</span>.", 
+      "number": "4", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.", 
+      "contentHtml": "And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them.", 
+      "number": "5", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them.", 
+      "contentHtml": "They shall go with their flocks and with their herds to seek the <span class=\"small-caps\">Lord</span>; but they shall not find <span class=\"clarity-word\">him;</span> he hath withdrawn himself from them.", 
+      "number": "6", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions.", 
+      "contentHtml": "They have dealt treacherously against the <span class=\"small-caps\">Lord</span>: for they have begotten strange children: now shall a month devour them with their portions.", 
+      "number": "7", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Beth-aven, after thee, O Benjamin.", 
+      "contentHtml": "Blow ye the cornet in Gibeah, <span class=\"clarity-word\">and</span> the trumpet in Ramah: cry aloud <span class=\"clarity-word\">at</span> Beth-aven, after thee, O Benjamin.", 
+      "number": "8", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.", 
+      "contentHtml": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel have I made known that which shall surely be.", 
+      "number": "9", 
+      "pageNumber": "1125", 
+      "compareId": "hosea-5_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "The princes of Judah were like them that remove the bound: therefore I will pour out my wrath upon them like water.", 
+      "contentHtml": "The princes of Judah were like them that remove the bound: <span class=\"clarity-word\">therefore</span> I will pour out my wrath upon them like water.", 
+      "number": "10", 
+      "pageNumber": "1126", 
+      "compareId": "hosea-5_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Ephraim is oppressed and broken in judgment, because he willingly walked after the commandment.", 
+      "contentHtml": "Ephraim <span class=\"clarity-word\">is</span> oppressed <span class=\"clarity-word\">and</span> broken in judgment, because he willingly walked after the commandment.", 
+      "number": "11", 
+      "pageNumber": "1126", 
+      "compareId": "hosea-5_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Therefore will I be unto Ephraim as a moth, and to the house of Judah as rottenness.", 
+      "contentHtml": "Therefore <span class=\"clarity-word\">will</span> I <span class=\"clarity-word\">be</span> unto Ephraim as a moth, and to the house of Judah as rottenness.", 
+      "number": "12", 
+      "pageNumber": "1126", 
+      "compareId": "hosea-5_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "When Ephraim saw his sickness, and Judah saw his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.", 
+      "contentHtml": "When Ephraim saw his sickness, and Judah <span class=\"clarity-word\">saw</span> his wound, then went Ephraim to the Assyrian, and sent to king Jareb: yet could he not heal you, nor cure you of your wound.", 
+      "number": "13", 
+      "pageNumber": "1126", 
+      "compareId": "hosea-5_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "For I will be unto Ephraim as a lion, and as a young lion to the house of Judah: I, even I, will tear and go away; I will take away, and none shall rescue him.", 
+      "contentHtml": "For I <span class=\"clarity-word\">will be</span> unto Ephraim as a lion, and as a young lion to the house of Judah: I, <span class=\"clarity-word\">even</span> I, will tear and go away; I will take away, and none shall rescue <span class=\"clarity-word\">him.</span>", 
+      "number": "14", 
+      "pageNumber": "1126", 
+      "compareId": "hosea-5_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "¶ I will go and return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.", 
+      "contentHtml": "¶ I will go <span class=\"clarity-word\">and</span> return to my place, till they acknowledge their offence, and seek my face: in their affliction they will seek me early.", 
+      "number": "15", 
+      "pageNumber": "1126", 
+      "compareId": "hosea-5_v15", 
+      "churchId": "p15"
+    }
+  ], 
+  "media": []
+}

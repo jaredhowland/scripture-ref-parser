@@ -1,0 +1,89 @@
+{
+  "name": "Psalm 23", 
+  "abbrev": "Ps. 23", 
+  "number": "23", 
+  "churchUri": "/scriptures/ot/ps/23", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 23", 
+      "contentHtml": "Psalm 23", 
+      "number": null, 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Psalm of David.", 
+      "contentHtml": "A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The LORD is my shepherd; I shall not want.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> my shepherd; I shall not want.", 
+      "number": "1", 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.", 
+      "contentHtml": "He maketh me to lie down in green pastures: he leadeth me beside the still waters.", 
+      "number": "2", 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.", 
+      "contentHtml": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.", 
+      "number": "3", 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me.", 
+      "contentHtml": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou <span class=\"clarity-word\">art</span> with me; thy rod and thy staff they comfort me.", 
+      "number": "4", 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.", 
+      "contentHtml": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over.", 
+      "number": "5", 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.", 
+      "contentHtml": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the <span class=\"small-caps\">Lord</span> for ever.", 
+      "number": "6", 
+      "pageNumber": "727", 
+      "compareId": "psalm-23_v6", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": []
+}

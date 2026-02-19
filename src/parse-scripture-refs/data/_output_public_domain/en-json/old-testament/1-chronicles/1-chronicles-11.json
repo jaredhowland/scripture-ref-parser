@@ -1,0 +1,489 @@
+{
+  "name": "1 Chronicles 11", 
+  "abbrev": "1 Chr. 11", 
+  "number": "11", 
+  "churchUri": "/scriptures/ot/1-chr/11", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 11", 
+      "contentHtml": "Chapter 11", 
+      "number": null, 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.", 
+      "contentHtml": "Then all Israel gathered themselves to David unto Hebron, saying, Behold, we <span class=\"clarity-word\">are</span> thy bone and thy flesh.", 
+      "number": "1", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.", 
+      "contentHtml": "And moreover in time past, even when Saul was king, thou <span class=\"clarity-word\">wast</span> he that leddest out and broughtest in Israel: and the <span class=\"small-caps\">Lord</span> thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.", 
+      "number": "2", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.", 
+      "contentHtml": "Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the <span class=\"small-caps\">Lord</span>; and they anointed David king over Israel, according to the word of the <span class=\"small-caps\">Lord</span> by Samuel.", 
+      "number": "3", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "¶ And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.", 
+      "contentHtml": "¶ And David and all Israel went to Jerusalem, which <span class=\"clarity-word\">is</span> Jebus; where the Jebusites <span class=\"clarity-word\">were,</span> the inhabitants of the land.", 
+      "number": "4", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David.", 
+      "contentHtml": "And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which <span class=\"clarity-word\">is</span> the city of David.", 
+      "number": "5", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.", 
+      "contentHtml": "And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.", 
+      "number": "6", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And David dwelt in the castle; therefore they called it the city of David.", 
+      "contentHtml": "And David dwelt in the castle; therefore they called it the city of David.", 
+      "number": "7", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.", 
+      "contentHtml": "And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.", 
+      "number": "8", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "So David waxed greater and greater: for the LORD of hosts was with him.", 
+      "contentHtml": "So David waxed greater and greater: for the <span class=\"small-caps\">Lord</span> of hosts <span class=\"clarity-word\">was</span> with him.", 
+      "number": "9", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "¶ These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel.", 
+      "contentHtml": "¶ These also <span class=\"clarity-word\">are</span> the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, <span class=\"clarity-word\">and</span> with all Israel, to make him king, according to the word of the <span class=\"small-caps\">Lord</span> concerning Israel.", 
+      "number": "10", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.", 
+      "contentHtml": "And this <span class=\"clarity-word\">is</span> the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain <span class=\"clarity-word\">by him</span> at one time.", 
+      "number": "11", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties.", 
+      "contentHtml": "And after him <span class=\"clarity-word\">was</span> Eleazar the son of Dodo, the Ahohite, who <span class=\"clarity-word\">was one</span> of the three mighties.", 
+      "number": "12", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.", 
+      "contentHtml": "He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.", 
+      "number": "13", 
+      "pageNumber": "563", 
+      "compareId": "1-chronicles-11_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the LORD saved them by a great deliverance.", 
+      "contentHtml": "And they set themselves in the midst of <span class=\"clarity-word\">that</span> parcel, and delivered it, and slew the Philistines; and the <span class=\"small-caps\">Lord</span> saved <span class=\"clarity-word\">them</span> by a great deliverance.", 
+      "number": "14", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "¶ Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.", 
+      "contentHtml": "¶ Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.", 
+      "number": "15", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And David was then in the hold, and the Philistines’ garrison was then at Beth-lehem.", 
+      "contentHtml": "And David <span class=\"clarity-word\">was</span> then in the hold, and the Philistines’ garrison <span class=\"clarity-word\">was</span> then at Beth-lehem.", 
+      "number": "16", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that is at the gate!", 
+      "contentHtml": "And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that <span class=\"clarity-word\">is</span> at the gate!", 
+      "number": "17", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD,", 
+      "contentHtml": "And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that <span class=\"clarity-word\">was</span> by the gate, and took <span class=\"clarity-word\">it,</span> and brought <span class=\"clarity-word\">it</span> to David: but David would not drink <span class=\"clarity-word\">of</span> it, but poured it out to the <span class=\"small-caps\">Lord</span>,", 
+      "number": "18", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest.", 
+      "contentHtml": "And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with <span class=\"clarity-word\">the jeopardy of</span> their lives they brought it. Therefore he would not drink it. These things did these three mightiest.", 
+      "number": "19", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "¶ And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew them, and had a name among the three.", 
+      "contentHtml": "¶ And Abishai the brother of Joab, he was chief of the three: for lifting up his spear against three hundred, he slew <span class=\"clarity-word\">them,</span> and had a name among the three.", 
+      "number": "20", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the first three.", 
+      "contentHtml": "Of the three, he was more honourable than the two; for he was their captain: howbeit he attained not to the <span class=\"clarity-word\">first</span> three.", 
+      "number": "21", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.", 
+      "contentHtml": "Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done many acts; he slew two lionlike men of Moab: also he went down and slew a lion in a pit in a snowy day.", 
+      "number": "22", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And he slew an Egyptian, a man of great stature, five cubits high; and in the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.", 
+      "contentHtml": "And he slew an Egyptian, a man of <span class=\"clarity-word\">great</span> stature, five cubits high; and in the Egyptian’s hand <span class=\"clarity-word\">was</span> a spear like a weaver’s beam; and he went down to him with a staff, and plucked the spear out of the Egyptian’s hand, and slew him with his own spear.", 
+      "number": "23", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "These things did Benaiah the son of Jehoiada, and had the name among the three mighties.", 
+      "contentHtml": "These <span class=\"clarity-word\">things</span> did Benaiah the son of Jehoiada, and had the name among the three mighties.", 
+      "number": "24", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Behold, he was honourable among the thirty, but attained not to the first three: and David set him over his guard.", 
+      "contentHtml": "Behold, he was honourable among the thirty, but attained not to the <span class=\"clarity-word\">first</span> three: and David set him over his guard.", 
+      "number": "25", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "¶ Also the valiant men of the armies were, Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem,", 
+      "contentHtml": "¶ Also the valiant men of the armies <span class=\"clarity-word\">were,</span> Asahel the brother of Joab, Elhanan the son of Dodo of Beth-lehem,", 
+      "number": "26", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "Shammoth the Harorite, Helez the Pelonite,", 
+      "contentHtml": "Shammoth the Harorite, Helez the Pelonite,", 
+      "number": "27", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite,", 
+      "contentHtml": "Ira the son of Ikkesh the Tekoite, Abi-ezer the Antothite,", 
+      "number": "28", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "Sibbecai the Hushathite, Ilai the Ahohite,", 
+      "contentHtml": "Sibbecai the Hushathite, Ilai the Ahohite,", 
+      "number": "29", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "Maharai the Netophathite, Heled the son of Baanah the Netophathite,", 
+      "contentHtml": "Maharai the Netophathite, Heled the son of Baanah the Netophathite,", 
+      "number": "30", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "Ithai the son of Ribai of Gibeah, that pertained to the children of Benjamin, Benaiah the Pirathonite,", 
+      "contentHtml": "Ithai the son of Ribai of Gibeah, <span class=\"clarity-word\">that pertained</span> to the children of Benjamin, Benaiah the Pirathonite,", 
+      "number": "31", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "Hurai of the brooks of Gaash, Abiel the Arbathite,", 
+      "contentHtml": "Hurai of the brooks of Gaash, Abiel the Arbathite,", 
+      "number": "32", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "Azmaveth the Baharumite, Eliahba the Shaalbonite,", 
+      "contentHtml": "Azmaveth the Baharumite, Eliahba the Shaalbonite,", 
+      "number": "33", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,", 
+      "contentHtml": "The sons of Hashem the Gizonite, Jonathan the son of Shage the Hararite,", 
+      "number": "34", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,", 
+      "contentHtml": "Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,", 
+      "number": "35", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "Hepher the Mecherathite, Ahijah the Pelonite,", 
+      "contentHtml": "Hepher the Mecherathite, Ahijah the Pelonite,", 
+      "number": "36", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "Hezro the Carmelite, Naarai the son of Ezbai,", 
+      "contentHtml": "Hezro the Carmelite, Naarai the son of Ezbai,", 
+      "number": "37", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "Joel the brother of Nathan, Mibhar the son of Haggeri,", 
+      "contentHtml": "Joel the brother of Nathan, Mibhar the son of Haggeri,", 
+      "number": "38", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,", 
+      "contentHtml": "Zelek the Ammonite, Naharai the Berothite, the armourbearer of Joab the son of Zeruiah,", 
+      "number": "39", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "Ira the Ithrite, Gareb the Ithrite,", 
+      "contentHtml": "Ira the Ithrite, Gareb the Ithrite,", 
+      "number": "40", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "Uriah the Hittite, Zabad the son of Ahlai,", 
+      "contentHtml": "Uriah the Hittite, Zabad the son of Ahlai,", 
+      "number": "41", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,", 
+      "contentHtml": "Adina the son of Shiza the Reubenite, a captain of the Reubenites, and thirty with him,", 
+      "number": "42", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "Hanan the son of Maachah, and Joshaphat the Mithnite,", 
+      "contentHtml": "Hanan the son of Maachah, and Joshaphat the Mithnite,", 
+      "number": "43", 
+      "pageNumber": "564", 
+      "compareId": "1-chronicles-11_v43", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v44", 
+      "content": "Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,", 
+      "contentHtml": "Uzzia the Ashterathite, Shama and Jehiel the sons of Hothan the Aroerite,", 
+      "number": "44", 
+      "pageNumber": "564,565", 
+      "compareId": "1-chronicles-11_v44", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v45", 
+      "content": "Jediael the son of Shimri, and Joha his brother, the Tizite,", 
+      "contentHtml": "Jediael the son of Shimri, and Joha his brother, the Tizite,", 
+      "number": "45", 
+      "pageNumber": "565", 
+      "compareId": "1-chronicles-11_v45", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v46", 
+      "content": "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,", 
+      "contentHtml": "Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,", 
+      "number": "46", 
+      "pageNumber": "565", 
+      "compareId": "1-chronicles-11_v46", 
+      "churchId": "p46"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v47", 
+      "content": "Eliel, and Obed, and Jasiel the Mesobaite.", 
+      "contentHtml": "Eliel, and Obed, and Jasiel the Mesobaite.", 
+      "number": "47", 
+      "pageNumber": "565", 
+      "compareId": "1-chronicles-11_v47", 
+      "churchId": "p47"
+    }
+  ], 
+  "media": []
+}

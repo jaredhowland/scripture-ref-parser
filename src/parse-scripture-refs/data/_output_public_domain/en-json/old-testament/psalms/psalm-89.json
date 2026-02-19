@@ -1,0 +1,549 @@
+{
+  "name": "Psalm 89", 
+  "abbrev": "Ps. 89", 
+  "number": "89", 
+  "churchUri": "/scriptures/ot/ps/89", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 89", 
+      "contentHtml": "Psalm 89", 
+      "number": null, 
+      "pageNumber": "771", 
+      "compareId": "psalm-89_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "Maschil of Ethan the Ezrahite.", 
+      "contentHtml": "Maschil of Ethan the Ezrahite.", 
+      "number": null, 
+      "pageNumber": "771", 
+      "compareId": "psalm-89_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.", 
+      "contentHtml": "I will sing of the mercies of the <span class=\"small-caps\">Lord</span> for ever: with my mouth will I make known thy faithfulness to all generations.", 
+      "number": "1", 
+      "pageNumber": "771", 
+      "compareId": "psalm-89_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.", 
+      "contentHtml": "For I have said, Mercy shall be built up for ever: thy faithfulness shalt thou establish in the very heavens.", 
+      "number": "2", 
+      "pageNumber": "771,772", 
+      "compareId": "psalm-89_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "I have made a covenant with my chosen, I have sworn unto David my servant,", 
+      "contentHtml": "I have made a covenant with my chosen, I have sworn unto David my servant,", 
+      "number": "3", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.", 
+      "contentHtml": "Thy seed will I establish for ever, and build up thy throne to all generations. Selah.", 
+      "number": "4", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the heavens shall praise thy wonders, O LORD: thy faithfulness also in the congregation of the saints.", 
+      "contentHtml": "And the heavens shall praise thy wonders, O <span class=\"small-caps\">Lord</span>: thy faithfulness also in the congregation of the saints.", 
+      "number": "5", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For who in the heaven can be compared unto the LORD? who among the sons of the mighty can be likened unto the LORD?", 
+      "contentHtml": "For who in the heaven can be compared unto the <span class=\"small-caps\">Lord</span>? <span class=\"clarity-word\">who</span> among the sons of the mighty can be likened unto the <span class=\"small-caps\">Lord</span>?", 
+      "number": "6", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him.", 
+      "contentHtml": "God is greatly to be feared in the assembly of the saints, and to be had in reverence of all <span class=\"clarity-word\">them that are</span> about him.", 
+      "number": "7", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "O LORD God of hosts, who is a strong LORD like unto thee? or to thy faithfulness round about thee?", 
+      "contentHtml": "O <span class=\"small-caps\">Lord</span> God of hosts, who <span class=\"clarity-word\">is</span> a strong <span class=\"small-caps\">Lord</span> like unto thee? or to thy faithfulness round about thee?", 
+      "number": "8", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.", 
+      "contentHtml": "Thou rulest the raging of the sea: when the waves thereof arise, thou stillest them.", 
+      "number": "9", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.", 
+      "contentHtml": "Thou hast broken Rahab in pieces, as one that is slain; thou hast scattered thine enemies with thy strong arm.", 
+      "number": "10", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "The heavens are thine, the earth also is thine: as for the world and the fulness thereof, thou hast founded them.", 
+      "contentHtml": "The heavens <span class=\"clarity-word\">are</span> thine, the earth also <span class=\"clarity-word\">is</span> thine: <span class=\"clarity-word\">as for</span> the world and the fulness thereof, thou hast founded them.", 
+      "number": "11", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.", 
+      "contentHtml": "The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.", 
+      "number": "12", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Thou hast a mighty arm: strong is thy hand, and high is thy right hand.", 
+      "contentHtml": "Thou hast a mighty arm: strong is thy hand, <span class=\"clarity-word\">and</span> high is thy right hand.", 
+      "number": "13", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Justice and judgment are the habitation of thy throne: mercy and truth shall go before thy face.", 
+      "contentHtml": "Justice and judgment <span class=\"clarity-word\">are</span> the habitation of thy throne: mercy and truth shall go before thy face.", 
+      "number": "14", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of thy countenance.", 
+      "contentHtml": "Blessed <span class=\"clarity-word\">is</span> the people that know the joyful sound: they shall walk, O <span class=\"small-caps\">Lord</span>, in the light of thy countenance.", 
+      "number": "15", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.", 
+      "contentHtml": "In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.", 
+      "number": "16", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For thou art the glory of their strength: and in thy favour our horn shall be exalted.", 
+      "contentHtml": "For thou <span class=\"clarity-word\">art</span> the glory of their strength: and in thy favour our horn shall be exalted.", 
+      "number": "17", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For the LORD is our defence; and the Holy One of Israel is our king.", 
+      "contentHtml": "For the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> our defence; and the Holy One of Israel <span class=\"clarity-word\">is</span> our king.", 
+      "number": "18", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon one that is mighty; I have exalted one chosen out of the people.", 
+      "contentHtml": "Then thou spakest in vision to thy holy one, and saidst, I have laid help upon <span class=\"clarity-word\">one that is</span> mighty; I have exalted <span class=\"clarity-word\">one</span> chosen out of the people.", 
+      "number": "19", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "I have found David my servant; with my holy oil have I anointed him:", 
+      "contentHtml": "I have found David my servant; with my holy oil have I anointed him:", 
+      "number": "20", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "With whom my hand shall be established: mine arm also shall strengthen him.", 
+      "contentHtml": "With whom my hand shall be established: mine arm also shall strengthen him.", 
+      "number": "21", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "The enemy shall not exact upon him; nor the son of wickedness afflict him.", 
+      "contentHtml": "The enemy shall not exact upon him; nor the son of wickedness afflict him.", 
+      "number": "22", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And I will beat down his foes before his face, and plague them that hate him.", 
+      "contentHtml": "And I will beat down his foes before his face, and plague them that hate him.", 
+      "number": "23", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "But my faithfulness and my mercy shall be with him: and in my name shall his horn be exalted.", 
+      "contentHtml": "But my faithfulness and my mercy <span class=\"clarity-word\">shall be</span> with him: and in my name shall his horn be exalted.", 
+      "number": "24", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "I will set his hand also in the sea, and his right hand in the rivers.", 
+      "contentHtml": "I will set his hand also in the sea, and his right hand in the rivers.", 
+      "number": "25", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "He shall cry unto me, Thou art my father, my God, and the rock of my salvation.", 
+      "contentHtml": "He shall cry unto me, Thou <span class=\"clarity-word\">art</span> my father, my God, and the rock of my salvation.", 
+      "number": "26", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "Also I will make him my firstborn, higher than the kings of the earth.", 
+      "contentHtml": "Also I will make him <span class=\"clarity-word\">my</span> firstborn, higher than the kings of the earth.", 
+      "number": "27", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.", 
+      "contentHtml": "My mercy will I keep for him for evermore, and my covenant shall stand fast with him.", 
+      "number": "28", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "His seed also will I make to endure for ever, and his throne as the days of heaven.", 
+      "contentHtml": "His seed also will I make <span class=\"clarity-word\">to endure</span> for ever, and his throne as the days of heaven.", 
+      "number": "29", 
+      "pageNumber": "772", 
+      "compareId": "psalm-89_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "If his children forsake my law, and walk not in my judgments;", 
+      "contentHtml": "If his children forsake my law, and walk not in my judgments;", 
+      "number": "30", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "If they break my statutes, and keep not my commandments;", 
+      "contentHtml": "If they break my statutes, and keep not my commandments;", 
+      "number": "31", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "Then will I visit their transgression with the rod, and their iniquity with stripes.", 
+      "contentHtml": "Then will I visit their transgression with the rod, and their iniquity with stripes.", 
+      "number": "32", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.", 
+      "contentHtml": "Nevertheless my lovingkindness will I not utterly take from him, nor suffer my faithfulness to fail.", 
+      "number": "33", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "My covenant will I not break, nor alter the thing that is gone out of my lips.", 
+      "contentHtml": "My covenant will I not break, nor alter the thing that is gone out of my lips.", 
+      "number": "34", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Once have I sworn by my holiness that I will not lie unto David.", 
+      "contentHtml": "Once have I sworn by my holiness that I will not lie unto David.", 
+      "number": "35", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "His seed shall endure for ever, and his throne as the sun before me.", 
+      "contentHtml": "His seed shall endure for ever, and his throne as the sun before me.", 
+      "number": "36", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "It shall be established for ever as the moon, and as a faithful witness in heaven. Selah.", 
+      "contentHtml": "It shall be established for ever as the moon, and <span class=\"clarity-word\">as</span> a faithful witness in heaven. Selah.", 
+      "number": "37", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.", 
+      "contentHtml": "But thou hast cast off and abhorred, thou hast been wroth with thine anointed.", 
+      "number": "38", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "Thou hast made void the covenant of thy servant: thou hast profaned his crown by casting it to the ground.", 
+      "contentHtml": "Thou hast made void the covenant of thy servant: thou hast profaned his crown <span class=\"clarity-word\">by </span><span class=\"clarity-word\">casting</span><span class=\"clarity-word\"> it</span> to the ground.", 
+      "number": "39", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.", 
+      "contentHtml": "Thou hast broken down all his hedges; thou hast brought his strong holds to ruin.", 
+      "number": "40", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "All that pass by the way spoil him: he is a reproach to his neighbours.", 
+      "contentHtml": "All that pass by the way spoil him: he is a reproach to his neighbours.", 
+      "number": "41", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.", 
+      "contentHtml": "Thou hast set up the right hand of his adversaries; thou hast made all his enemies to rejoice.", 
+      "number": "42", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.", 
+      "contentHtml": "Thou hast also turned the edge of his sword, and hast not made him to stand in the battle.", 
+      "number": "43", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v43", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v44", 
+      "content": "Thou hast made his glory to cease, and cast his throne down to the ground.", 
+      "contentHtml": "Thou hast made his glory to cease, and cast his throne down to the ground.", 
+      "number": "44", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v44", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v45", 
+      "content": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.", 
+      "contentHtml": "The days of his youth hast thou shortened: thou hast covered him with shame. Selah.", 
+      "number": "45", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v45", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v46", 
+      "content": "How long, LORD? wilt thou hide thyself for ever? shall thy wrath burn like fire?", 
+      "contentHtml": "How long, <span class=\"small-caps\">Lord</span>? wilt thou hide thyself for ever? shall thy wrath burn like fire?", 
+      "number": "46", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v46", 
+      "churchId": "p46"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v47", 
+      "content": "Remember how short my time is: wherefore hast thou made all men in vain?", 
+      "contentHtml": "Remember how short my time is: wherefore hast thou made all men in vain?", 
+      "number": "47", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v47", 
+      "churchId": "p47"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v48", 
+      "content": "What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.", 
+      "contentHtml": "What man <span class=\"clarity-word\">is he that</span> liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.", 
+      "number": "48", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v48", 
+      "churchId": "p48"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v49", 
+      "content": "Lord, where are thy former lovingkindnesses, which thou swarest unto David in thy truth?", 
+      "contentHtml": "Lord, where <span class=\"clarity-word\">are</span> thy former lovingkindnesses, <span class=\"clarity-word\">which</span> thou swarest unto David in thy truth?", 
+      "number": "49", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v49", 
+      "churchId": "p49"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v50", 
+      "content": "Remember, Lord, the reproach of thy servants; how I do bear in my bosom the reproach of all the mighty people;", 
+      "contentHtml": "Remember, Lord, the reproach of thy servants; <span class=\"clarity-word\">how</span> I do bear in my bosom <span class=\"clarity-word\">the reproach of</span> all the mighty people;", 
+      "number": "50", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v50", 
+      "churchId": "p50"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v51", 
+      "content": "Wherewith thine enemies have reproached, O LORD; wherewith they have reproached the footsteps of thine anointed.", 
+      "contentHtml": "Wherewith thine enemies have reproached, O <span class=\"small-caps\">Lord</span>; wherewith they have reproached the footsteps of thine anointed.", 
+      "number": "51", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v51", 
+      "churchId": "p51"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v52", 
+      "content": "Blessed be the LORD for evermore. Amen, and Amen.", 
+      "contentHtml": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span> for evermore. Amen, and Amen.", 
+      "number": "52", 
+      "pageNumber": "773", 
+      "compareId": "psalm-89_v52", 
+      "churchId": "p52"
+    }
+  ], 
+  "media": []
+}

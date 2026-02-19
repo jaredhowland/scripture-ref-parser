@@ -1,0 +1,753 @@
+{
+  "Matt": {
+    "names": [
+      "Matthew",
+      "Ma",
+      "Mt"
+    ],
+    "abbrs": [
+      "Mat",
+      "Matth",
+      "St Matt",
+      "St Matthew",
+      "Matt",
+      "Mt"
+    ],
+    "num_chaps": 28,
+    "num_verses": {
+      "1": 25,
+      "2": 23,
+      "3": 17,
+      "4": 25,
+      "5": 48,
+      "6": 34,
+      "7": 29,
+      "8": 34,
+      "9": 38,
+      "10": 42,
+      "11": 30,
+      "12": 50,
+      "13": 58,
+      "14": 36,
+      "15": 39,
+      "16": 28,
+      "17": 27,
+      "18": 35,
+      "19": 30,
+      "20": 34,
+      "21": 46,
+      "22": 46,
+      "23": 39,
+      "24": 51,
+      "25": 46,
+      "26": 75,
+      "27": 66,
+      "28": 20
+    },
+    "lds_id": "matt",
+    "osis_id": "Matt"
+  },
+  "Mark": {
+    "names": [
+      "Mark",
+      "Mk",
+      "Mrk"
+    ],
+    "abbrs": [
+      "Mar",
+      "Mr",
+      "St Mark",
+      "Mc",
+      "Mark",
+      "Mk"
+    ],
+    "num_chaps": 16,
+    "num_verses": {
+      "1": 45,
+      "2": 28,
+      "3": 35,
+      "4": 41,
+      "5": 43,
+      "6": 56,
+      "7": 37,
+      "8": 38,
+      "9": 50,
+      "10": 52,
+      "11": 33,
+      "12": 44,
+      "13": 37,
+      "14": 72,
+      "15": 47,
+      "16": 20
+    },
+    "lds_id": "mark",
+    "osis_id": "Mark"
+  },
+  "Luke": {
+    "names": [
+      "Luke",
+      "L",
+      "Lk"
+    ],
+    "abbrs": [
+      "Luk",
+      "Lu",
+      "St Luke",
+      "Lc",
+      "Luke",
+      "Lk"
+    ],
+    "num_chaps": 24,
+    "num_verses": {
+      "1": 80,
+      "2": 52,
+      "3": 38,
+      "4": 44,
+      "5": 39,
+      "6": 49,
+      "7": 50,
+      "8": 56,
+      "9": 62,
+      "10": 42,
+      "11": 54,
+      "12": 59,
+      "13": 35,
+      "14": 35,
+      "15": 32,
+      "16": 31,
+      "17": 37,
+      "18": 43,
+      "19": 48,
+      "20": 47,
+      "21": 38,
+      "22": 71,
+      "23": 56,
+      "24": 53
+    },
+    "lds_id": "luke",
+    "osis_id": "Luke"
+  },
+  "John": {
+    "names": [
+      "John",
+      "Jhn",
+      "Jn",
+      "Jo"
+    ],
+    "abbrs": [
+      "Joh",
+      "St John",
+      "John",
+      "Jn"
+    ],
+    "num_chaps": 21,
+    "num_verses": {
+      "1": 51,
+      "2": 25,
+      "3": 36,
+      "4": 54,
+      "5": 47,
+      "6": 71,
+      "7": 53,
+      "8": 59,
+      "9": 41,
+      "10": 42,
+      "11": 57,
+      "12": 50,
+      "13": 38,
+      "14": 31,
+      "15": 27,
+      "16": 33,
+      "17": 26,
+      "18": 40,
+      "19": 42,
+      "20": 31,
+      "21": 25
+    },
+    "lds_id": "john",
+    "osis_id": "John"
+  },
+  "Acts": {
+    "names": [
+      "Acts"
+    ],
+    "abbrs": [
+      "Act",
+      "Ac",
+      "Acts"
+    ],
+    "num_chaps": 28,
+    "num_verses": {
+      "1": 26,
+      "2": 47,
+      "3": 26,
+      "4": 37,
+      "5": 42,
+      "6": 15,
+      "7": 60,
+      "8": 40,
+      "9": 43,
+      "10": 48,
+      "11": 30,
+      "12": 25,
+      "13": 52,
+      "14": 28,
+      "15": 41,
+      "16": 40,
+      "17": 34,
+      "18": 28,
+      "19": 41,
+      "20": 38,
+      "21": 40,
+      "22": 30,
+      "23": 35,
+      "24": 27,
+      "25": 27,
+      "26": 32,
+      "27": 44,
+      "28": 31
+    },
+    "lds_id": "acts",
+    "osis_id": "Acts"
+  },
+  "Rom": {
+    "names": [
+      "Romans"
+    ],
+    "abbrs": [
+      "Ro",
+      "Rom"
+    ],
+    "num_chaps": 16,
+    "num_verses": {
+      "1": 32,
+      "2": 29,
+      "3": 31,
+      "4": 25,
+      "5": 21,
+      "6": 23,
+      "7": 25,
+      "8": 39,
+      "9": 33,
+      "10": 21,
+      "11": 36,
+      "12": 21,
+      "13": 14,
+      "14": 23,
+      "15": 33,
+      "16": 27
+    },
+    "lds_id": "rom",
+    "osis_id": "Rom"
+  },
+  "1Cor": {
+    "names": [
+      "1 Corinthians",
+      "I Corinthians",
+      "ICorinthians",
+      "1Corinthians",
+      "I C",
+      "IC",
+      "1 C",
+      "1C"
+    ],
+    "abbrs": [
+      "1Co",
+      "1Corinth",
+      "1Corin",
+      "1Cor"
+    ],
+    "num_chaps": 16,
+    "num_verses": {
+      "1": 31,
+      "2": 16,
+      "3": 23,
+      "4": 21,
+      "5": 13,
+      "6": 20,
+      "7": 40,
+      "8": 13,
+      "9": 27,
+      "10": 33,
+      "11": 34,
+      "12": 31,
+      "13": 13,
+      "14": 40,
+      "15": 58,
+      "16": 24
+    },
+    "lds_id": "1-cor",
+    "osis_id": "1Cor"
+  },
+  "2Cor": {
+    "names": [
+      "2 Corinthians",
+      "II Corinthians",
+      "IICorinthians",
+      "2Corinthians",
+      "II C",
+      "IIC",
+      "2 C",
+      "2C"
+    ],
+    "abbrs": [
+      "2Co",
+      "2Cor",
+      "2Corinth",
+      "2Corin"
+    ],
+    "num_chaps": 13,
+    "num_verses": {
+      "1": 24,
+      "2": 17,
+      "3": 18,
+      "4": 18,
+      "5": 21,
+      "6": 18,
+      "7": 16,
+      "8": 24,
+      "9": 15,
+      "10": 18,
+      "11": 33,
+      "12": 21,
+      "13": 14
+    },
+    "lds_id": "2-cor",
+    "osis_id": "2Cor"
+  },
+  "Gal": {
+    "names": [
+      "Galatians"
+    ],
+    "abbrs": [
+      "Ga",
+      "Gal",
+      "Galat"
+    ],
+    "num_chaps": 6,
+    "num_verses": {
+      "1": 24,
+      "2": 21,
+      "3": 29,
+      "4": 31,
+      "5": 26,
+      "6": 18
+    },
+    "lds_id": "gal",
+    "osis_id": "Gal"
+  },
+  "Eph": {
+    "names": [
+      "Ephesians"
+    ],
+    "abbrs": [
+      "Ephes",
+      "Eph",
+      "Ep"
+    ],
+    "num_chaps": 6,
+    "num_verses": {
+      "1": 23,
+      "2": 22,
+      "3": 21,
+      "4": 32,
+      "5": 33,
+      "6": 24
+    },
+    "lds_id": "eph",
+    "osis_id": "Eph"
+  },
+  "Phil": {
+    "names": [
+      "Philippians",
+      "Php",
+      "Phlp"
+    ],
+    "abbrs": [
+      "Phi",
+      "Philipp",
+      "Philip",
+      "Phili",
+      "Phil",
+      "Ph"
+    ],
+    "num_chaps": 4,
+    "num_verses": {
+      "1": 30,
+      "2": 30,
+      "3": 21,
+      "4": 23
+    },
+    "lds_id": "philip",
+    "osis_id": "Phil"
+  },
+  "Col": {
+    "names": [
+      "Colossians",
+      "C"
+    ],
+    "abbrs": [
+      "Coloss",
+      "Colos",
+      "Colo",
+      "Col",
+      "Co"
+    ],
+    "num_chaps": 4,
+    "num_verses": {
+      "1": 29,
+      "2": 23,
+      "3": 25,
+      "4": 18
+    },
+    "lds_id": "col",
+    "osis_id": "Col"
+  },
+  "1Thess": {
+    "names": [
+      "1 Thessalonians",
+      "I Thessalonians",
+      "IThessalonians",
+      "1Thessalonians"
+    ],
+    "abbrs": [
+      "1Th",
+      "1Thes",
+      "1Thess",
+      "1The"
+    ],
+    "num_chaps": 5,
+    "num_verses": {
+      "1": 10,
+      "2": 20,
+      "3": 13,
+      "4": 18,
+      "5": 28
+    },
+    "lds_id": "1-thes",
+    "osis_id": "1Thess"
+  },
+  "2Thess": {
+    "names": [
+      "2 Thessalonians",
+      "II Thessalonians",
+      "IIThessalonians",
+      "2Thessalonians"
+    ],
+    "abbrs": [
+      "2Th",
+      "2Thes",
+      "2Thess",
+      "2The"
+    ],
+    "num_chaps": 3,
+    "num_verses": {
+      "1": 12,
+      "2": 17,
+      "3": 18
+    },
+    "lds_id": "2-thes",
+    "osis_id": "2Thess"
+  },
+  "1Tim": {
+    "names": [
+      "1 Timothy",
+      "I Timothy",
+      "ITimothy",
+      "1Timothy"
+    ],
+    "abbrs": [
+      "1Ti",
+      "1Tim"
+    ],
+    "num_chaps": 6,
+    "num_verses": {
+      "1": 20,
+      "2": 15,
+      "3": 16,
+      "4": 16,
+      "5": 25,
+      "6": 21
+    },
+    "lds_id": "1-tim",
+    "osis_id": "1Tim"
+  },
+  "2Tim": {
+    "names": [
+      "2 Timothy",
+      "II Timothy",
+      "IITimothy",
+      "2Timothy"
+    ],
+    "abbrs": [
+      "2Ti",
+      "2Tim"
+    ],
+    "num_chaps": 4,
+    "num_verses": {
+      "1": 18,
+      "2": 26,
+      "3": 17,
+      "4": 22
+    },
+    "lds_id": "2-tim",
+    "osis_id": "2Tim"
+  },
+  "Titus": {
+    "names": [
+      "Titus",
+      "T"
+    ],
+    "abbrs": [
+      "Tit",
+      "Titu"
+    ],
+    "num_chaps": 3,
+    "num_verses": {
+      "1": 16,
+      "2": 15,
+      "3": 15
+    },
+    "lds_id": "titus",
+    "osis_id": "Titus"
+  },
+  "Phlm": {
+    "names": [
+      "Philemon",
+      "Phm"
+    ],
+    "abbrs": [
+      "Philem",
+      "Phile",
+      "Phlm"
+    ],
+    "num_chaps": 1,
+    "num_verses": {
+      "1": 25
+    },
+    "lds_id": "philem",
+    "osis_id": "Phlm"
+  },
+  "Heb": {
+    "names": [
+      "Hebrews",
+      "H"
+    ],
+    "abbrs": [
+      "Hebr",
+      "He",
+      "Hbr"
+    ],
+    "num_chaps": 13,
+    "num_verses": {
+      "1": 14,
+      "2": 18,
+      "3": 19,
+      "4": 16,
+      "5": 14,
+      "6": 20,
+      "7": 28,
+      "8": 13,
+      "9": 28,
+      "10": 39,
+      "11": 40,
+      "12": 29,
+      "13": 25
+    },
+    "lds_id": "heb",
+    "osis_id": "Heb"
+  },
+  "Jas": {
+    "names": [
+      "James"
+    ],
+    "abbrs": [
+      "Jam",
+      "Jac"
+    ],
+    "num_chaps": 5,
+    "num_verses": {
+      "1": 27,
+      "2": 26,
+      "3": 18,
+      "4": 17,
+      "5": 20
+    },
+    "lds_id": "james",
+    "osis_id": "Jas"
+  },
+  "1Pet": {
+    "names": [
+      "1 Peter",
+      "I Peter",
+      "IPeter",
+      "1Peter",
+      "I Ptr",
+      "IPtr",
+      "1 Ptr",
+      "1Ptr",
+      "I P",
+      "IP",
+      "1 P",
+      "1P"
+    ],
+    "abbrs": [
+      "1Pe"
+    ],
+    "num_chaps": 5,
+    "num_verses": {
+      "1": 25,
+      "2": 25,
+      "3": 22,
+      "4": 19,
+      "5": 14
+    },
+    "lds_id": "1-pet",
+    "osis_id": "1Pet"
+  },
+  "2Pet": {
+    "names": [
+      "2 Peter",
+      "II Peter",
+      "IIPeter",
+      "2Peter",
+      "II Ptr",
+      "IIPtr",
+      "2 Ptr",
+      "2Ptr",
+      "II P",
+      "IIP",
+      "2 P",
+      "2P"
+    ],
+    "abbrs": [
+      "2Pe"
+    ],
+    "num_chaps": 3,
+    "num_verses": {
+      "1": 21,
+      "2": 22,
+      "3": 18
+    },
+    "lds_id": "2-pet",
+    "osis_id": "2Pet"
+  },
+  "1John": {
+    "names": [
+      "1 John",
+      "I John",
+      "IJohn",
+      "1John",
+      "I Jn",
+      "IJn",
+      "1 Jn",
+      "1Jn"
+    ],
+    "abbrs": [
+      "1Jo",
+      "1Joh"
+    ],
+    "num_chaps": 5,
+    "num_verses": {
+      "1": 10,
+      "2": 29,
+      "3": 24,
+      "4": 21,
+      "5": 21
+    },
+    "lds_id": "1-jn",
+    "osis_id": "1John"
+  },
+  "2John": {
+    "names": [
+      "2 John",
+      "II John",
+      "IIJohn",
+      "2John",
+      "II Jn",
+      "IIJn",
+      "2 Jn",
+      "2Jn"
+    ],
+    "abbrs": [
+      "2Jo",
+      "2Joh"
+    ],
+    "num_chaps": 1,
+    "num_verses": {
+      "1": 13
+    },
+    "lds_id": "2-jn",
+    "osis_id": "2John"
+  },
+  "3John": {
+    "names": [
+      "3 John",
+      "III John",
+      "IIIJohn",
+      "3John",
+      "III Jn",
+      "IIIJn",
+      "3 Jn",
+      "3Jn"
+    ],
+    "abbrs": [
+      "3Jo",
+      "3Joh"
+    ],
+    "num_chaps": 1,
+    "num_verses": {
+      "1": 15
+    },
+    "lds_id": "3-jn",
+    "osis_id": "3John"
+  },
+  "Jude": {
+    "names": [
+      "Jude",
+      "Ju"
+    ],
+    "abbrs": [
+      "Jud"
+    ],
+    "num_chaps": 1,
+    "num_verses": {
+      "1": 25
+    },
+    "lds_id": "jude",
+    "osis_id": "Jude"
+  },
+  "Rev": {
+    "names": [
+      "Revelation"
+    ],
+    "abbrs": [],
+    "num_chaps": 22,
+    "num_verses": {
+      "1": 20,
+      "2": 29,
+      "3": 22,
+      "4": 11,
+      "5": 14,
+      "6": 17,
+      "7": 17,
+      "8": 13,
+      "9": 21,
+      "10": 11,
+      "11": 19,
+      "12": 18,
+      "13": 18,
+      "14": 20,
+      "15": 8,
+      "16": 21,
+      "17": 18,
+      "18": 24,
+      "19": 21,
+      "20": 15,
+      "21": 27,
+      "22": 21
+    },
+    "lds_id": "rev",
+    "osis_id": "Rev"
+  }
+}

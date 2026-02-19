@@ -1,0 +1,139 @@
+{
+  "name": "Psalm 2", 
+  "abbrev": "Ps. 2", 
+  "number": "2", 
+  "churchUri": "/scriptures/ot/ps/2", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 2", 
+      "contentHtml": "Psalm 2", 
+      "number": null, 
+      "pageNumber": "714", 
+      "compareId": "psalm-2_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Why do the heathen rage, and the people imagine a vain thing?", 
+      "contentHtml": "Why do the heathen rage, and the people imagine a vain thing?", 
+      "number": "1", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The kings of the earth set themselves, and the rulers take counsel together, against the LORD, and against his anointed, saying,", 
+      "contentHtml": "The kings of the earth set themselves, and the rulers take counsel together, against the <span class=\"small-caps\">Lord</span>, and against his anointed, <span class=\"clarity-word\">saying,</span>", 
+      "number": "2", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Let us break their bands asunder, and cast away their cords from us.", 
+      "contentHtml": "Let us break their bands asunder, and cast away their cords from us.", 
+      "number": "3", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.", 
+      "contentHtml": "He that sitteth in the heavens shall laugh: the Lord shall have them in derision.", 
+      "number": "4", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.", 
+      "contentHtml": "Then shall he speak unto them in his wrath, and vex them in his sore displeasure.", 
+      "number": "5", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Yet have I set my king upon my holy hill of Zion.", 
+      "contentHtml": "Yet have I set my king upon my holy hill of Zion.", 
+      "number": "6", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "I will declare the decree: the LORD hath said unto me, Thou art my Son; this day have I begotten thee.", 
+      "contentHtml": "I will declare the decree: the <span class=\"small-caps\">Lord</span> hath said unto me, Thou <span class=\"clarity-word\">art</span> my Son; this day have I begotten thee.", 
+      "number": "7", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Ask of me, and I shall give thee the heathen for thine inheritance, and the uttermost parts of the earth for thy possession.", 
+      "contentHtml": "Ask of me, and I shall give <span class=\"clarity-word\">thee</span> the heathen <span class=\"clarity-word\">for</span> thine inheritance, and the uttermost parts of the earth <span class=\"clarity-word\">for</span> thy possession.", 
+      "number": "8", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.", 
+      "contentHtml": "Thou shalt break them with a rod of iron; thou shalt dash them in pieces like a potter’s vessel.", 
+      "number": "9", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.", 
+      "contentHtml": "Be wise now therefore, O ye kings: be instructed, ye judges of the earth.", 
+      "number": "10", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Serve the LORD with fear, and rejoice with trembling.", 
+      "contentHtml": "Serve the <span class=\"small-caps\">Lord</span> with fear, and rejoice with trembling.", 
+      "number": "11", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.", 
+      "contentHtml": "Kiss the Son, lest he be angry, and ye perish <span class=\"clarity-word\">from</span> the way, when his wrath is kindled but a little. Blessed <span class=\"clarity-word\">are</span> all they that put their trust in him.", 
+      "number": "12", 
+      "pageNumber": "715", 
+      "compareId": "psalm-2_v12", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": []
+}

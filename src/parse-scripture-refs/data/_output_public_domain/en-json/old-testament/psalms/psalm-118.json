@@ -1,0 +1,309 @@
+{
+  "name": "Psalm 118", 
+  "abbrev": "Ps. 118", 
+  "number": "118", 
+  "churchUri": "/scriptures/ot/ps/118", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 118", 
+      "contentHtml": "Psalm 118", 
+      "number": null, 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "O give thanks unto the LORD; for he is good: because his mercy endureth for ever.", 
+      "contentHtml": "O give thanks unto the <span class=\"small-caps\">Lord</span>; for <span class=\"clarity-word\">he is</span> good: because his mercy <span class=\"clarity-word\">endureth</span> for ever.", 
+      "number": "1", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Let Israel now say, that his mercy endureth for ever.", 
+      "contentHtml": "Let Israel now say, that his mercy <span class=\"clarity-word\">endureth</span> for ever.", 
+      "number": "2", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Let the house of Aaron now say, that his mercy endureth for ever.", 
+      "contentHtml": "Let the house of Aaron now say, that his mercy <span class=\"clarity-word\">endureth</span> for ever.", 
+      "number": "3", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Let them now that fear the LORD say, that his mercy endureth for ever.", 
+      "contentHtml": "Let them now that fear the <span class=\"small-caps\">Lord</span> say, that his mercy <span class=\"clarity-word\">endureth</span> for ever.", 
+      "number": "4", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "I called upon the LORD in distress: the LORD answered me, and set me in a large place.", 
+      "contentHtml": "I called upon the <span class=\"small-caps\">Lord</span> in distress: the <span class=\"small-caps\">Lord</span> answered me, <span class=\"clarity-word\">and set me</span> in a large place.", 
+      "number": "5", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "The LORD is on my side; I will not fear: what can man do unto me?", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> on my side; I will not fear: what can man do unto me?", 
+      "number": "6", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "The LORD taketh my part with them that help me: therefore shall I see my desire upon them that hate me.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> taketh my part with them that help me: therefore shall I see <span class=\"clarity-word\">my </span><span class=\"clarity-word\">desire</span> upon them that hate me.", 
+      "number": "7", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "It is better to trust in the LORD than to put confidence in man.", 
+      "contentHtml": "<span class=\"clarity-word\">It is</span> better to trust in the <span class=\"small-caps\">Lord</span> than to put confidence in man.", 
+      "number": "8", 
+      "pageNumber": "791", 
+      "compareId": "psalm-118_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "It is better to trust in the LORD than to put confidence in princes.", 
+      "contentHtml": "<span class=\"clarity-word\">It is</span> better to trust in the <span class=\"small-caps\">Lord</span> than to put confidence in princes.", 
+      "number": "9", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "All nations compassed me about: but in the name of the LORD will I destroy them.", 
+      "contentHtml": "All nations compassed me about: but in the name of the <span class=\"small-caps\">Lord</span> will I destroy them.", 
+      "number": "10", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.", 
+      "contentHtml": "They compassed me about; yea, they compassed me about: but in the name of the <span class=\"small-caps\">Lord</span> I will destroy them.", 
+      "number": "11", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.", 
+      "contentHtml": "They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the <span class=\"small-caps\">Lord</span> I will destroy them.", 
+      "number": "12", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Thou hast thrust sore at me that I might fall: but the LORD helped me.", 
+      "contentHtml": "Thou hast thrust sore at me that I might fall: but the <span class=\"small-caps\">Lord</span> helped me.", 
+      "number": "13", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "The LORD is my strength and song, and is become my salvation.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> my strength and song, and is become my salvation.", 
+      "number": "14", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.", 
+      "contentHtml": "The voice of rejoicing and salvation <span class=\"clarity-word\">is</span> in the tabernacles of the righteous: the right hand of the <span class=\"small-caps\">Lord</span> doeth valiantly.", 
+      "number": "15", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "The right hand of the LORD is exalted: the right hand of the LORD doeth valiantly.", 
+      "contentHtml": "The right hand of the <span class=\"small-caps\">Lord</span> is exalted: the right hand of the <span class=\"small-caps\">Lord</span> doeth valiantly.", 
+      "number": "16", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "I shall not die, but live, and declare the works of the LORD.", 
+      "contentHtml": "I shall not die, but live, and declare the works of the <span class=\"small-caps\">Lord</span>.", 
+      "number": "17", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "The LORD hath chastened me sore: but he hath not given me over unto death.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> hath chastened me sore: but he hath not given me over unto death.", 
+      "number": "18", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Open to me the gates of righteousness: I will go into them, and I will praise the LORD:", 
+      "contentHtml": "Open to me the gates of righteousness: I will go into them, <span class=\"clarity-word\">and</span> I will praise the <span class=\"small-caps\">Lord</span>:", 
+      "number": "19", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "This gate of the LORD, into which the righteous shall enter.", 
+      "contentHtml": "This gate of the <span class=\"small-caps\">Lord</span>, into which the righteous shall enter.", 
+      "number": "20", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "I will praise thee: for thou hast heard me, and art become my salvation.", 
+      "contentHtml": "I will praise thee: for thou hast heard me, and art become my salvation.", 
+      "number": "21", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "The stone which the builders refused is become the head stone of the corner.", 
+      "contentHtml": "The stone <span class=\"clarity-word\">which</span> the builders refused is become the head <span class=\"clarity-word\">stone</span> of the corner.", 
+      "number": "22", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "This is the LORD’s doing; it is marvellous in our eyes.", 
+      "contentHtml": "This is the <span class=\"small-caps\">Lord</span>’s doing; it <span class=\"clarity-word\">is</span> marvellous in our eyes.", 
+      "number": "23", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "This is the day which the LORD hath made; we will rejoice and be glad in it.", 
+      "contentHtml": "This <span class=\"clarity-word\">is</span> the day <span class=\"clarity-word\">which</span> the <span class=\"small-caps\">Lord</span> hath made; we will rejoice and be glad in it.", 
+      "number": "24", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Save now, I beseech thee, O LORD: O LORD, I beseech thee, send now prosperity.", 
+      "contentHtml": "Save now, I beseech thee, O <span class=\"small-caps\">Lord</span>: O <span class=\"small-caps\">Lord</span>, I beseech thee, send now prosperity.", 
+      "number": "25", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "Blessed be he that cometh in the name of the LORD: we have blessed you out of the house of the LORD.", 
+      "contentHtml": "Blessed <span class=\"clarity-word\">be</span> he that cometh in the name of the <span class=\"small-caps\">Lord</span>: we have blessed you out of the house of the <span class=\"small-caps\">Lord</span>.", 
+      "number": "26", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "God is the LORD, which hath shewed us light: bind the sacrifice with cords, even unto the horns of the altar.", 
+      "contentHtml": "God <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span>, which hath shewed us light: bind the sacrifice with cords, <span class=\"clarity-word\">even</span> unto the horns of the altar.", 
+      "number": "27", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Thou art my God, and I will praise thee: thou art my God, I will exalt thee.", 
+      "contentHtml": "Thou <span class=\"clarity-word\">art</span> my God, and I will praise thee: <span class=\"clarity-word\">thou art</span> my God, I will exalt thee.", 
+      "number": "28", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "O give thanks unto the LORD; for he is good: for his mercy endureth for ever.", 
+      "contentHtml": "O give thanks unto the <span class=\"small-caps\">Lord</span>; for <span class=\"clarity-word\">he is</span> good: for his mercy <span class=\"clarity-word\">endureth</span> for ever.", 
+      "number": "29", 
+      "pageNumber": "792", 
+      "compareId": "psalm-118_v29", 
+      "churchId": "p29"
+    }
+  ], 
+  "media": []
+}

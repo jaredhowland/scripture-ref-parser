@@ -1,0 +1,339 @@
+{
+  "name": "Alma 8", 
+  "abbrev": "Alma 8", 
+  "number": "8", 
+  "churchUri": "/scriptures/bofm/alma/8", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 8", 
+      "contentHtml": "Chapter 8", 
+      "number": null, 
+      "pageNumber": "226", 
+      "compareId": "alma-8_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And now it came to pass that Alma returned from the land of Gideon, after having taught the people of Gideon many things which cannot be written, having established the order of the church, according as he had before done in the land of Zarahemla, yea, he returned to his own house at Zarahemla to rest himself from the labors which he had performed.", 
+      "contentHtml": "And now it came to pass that Alma returned from the land of Gideon, after having taught the people of Gideon many things which cannot be written, having established the order of the church, according as he had before done in the land of Zarahemla, yea, he returned to his own house at Zarahemla to rest himself from the labors which he had performed.", 
+      "number": "1", 
+      "pageNumber": "226", 
+      "compareId": "alma-8_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And thus ended the ninth year of the reign of the judges over the people of Nephi.", 
+      "contentHtml": "And thus ended the ninth year of the reign of the judges over the people of Nephi.", 
+      "number": "2", 
+      "pageNumber": "226", 
+      "compareId": "alma-8_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And it came to pass in the commencement of the tenth year of the reign of the judges over the people of Nephi, that Alma departed from thence and took his journey over into the land of Melek, on the west of the river Sidon, on the west by the borders of the wilderness.", 
+      "contentHtml": "And it came to pass in the commencement of the tenth year of the reign of the judges over the people of Nephi, that Alma departed from thence and took his journey over into the land of Melek, on the west of the river Sidon, on the west by the borders of the wilderness.", 
+      "number": "3", 
+      "pageNumber": "226", 
+      "compareId": "alma-8_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And he began to teach the people in the land of Melek according to the holy order of God, by which he had been called; and he began to teach the people throughout all the land of Melek.", 
+      "contentHtml": "And he began to teach the people in the land of Melek according to the holy order of God, by which he had been called; and he began to teach the people throughout all the land of Melek.", 
+      "number": "4", 
+      "pageNumber": "226", 
+      "compareId": "alma-8_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And it came to pass that the people came to him throughout all the borders of the land which was by the wilderness side. And they were baptized throughout all the land;", 
+      "contentHtml": "And it came to pass that the people came to him throughout all the borders of the land which was by the wilderness side. And they were baptized throughout all the land;", 
+      "number": "5", 
+      "pageNumber": "226,227", 
+      "compareId": "alma-8_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "So that when he had finished his work at Melek he departed thence, and traveled three days’ journey on the north of the land of Melek; and he came to a city which was called Ammonihah.", 
+      "contentHtml": "So that when he had finished his work at Melek he departed thence, and traveled three days’ journey on the north of the land of Melek; and he came to a city which was called Ammonihah.", 
+      "number": "6", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Now it was the custom of the people of Nephi to call their lands, and their cities, and their villages, yea, even all their small villages, after the name of him who first possessed them; and thus it was with the land of Ammonihah.", 
+      "contentHtml": "Now it was the custom of the people of Nephi to call their lands, and their cities, and their villages, yea, even all their small villages, after the name of him who first possessed them; and thus it was with the land of Ammonihah.", 
+      "number": "7", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And it came to pass that when Alma had come to the city of Ammonihah he began to preach the word of God unto them.", 
+      "contentHtml": "And it came to pass that when Alma had come to the city of Ammonihah he began to preach the word of God unto them.", 
+      "number": "8", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Now Satan had gotten great hold upon the hearts of the people of the city of Ammonihah; therefore they would not hearken unto the words of Alma.", 
+      "contentHtml": "Now Satan had gotten great hold upon the hearts of the people of the city of Ammonihah; therefore they would not hearken unto the words of Alma.", 
+      "number": "9", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Nevertheless Alma labored much in the spirit, wrestling with God in mighty prayer, that he would pour out his Spirit upon the people who were in the city; that he would also grant that he might baptize them unto repentance.", 
+      "contentHtml": "Nevertheless Alma labored much in the spirit, wrestling with God in mighty prayer, that he would pour out his Spirit upon the people who were in the city; that he would also grant that he might baptize them unto repentance.", 
+      "number": "10", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Nevertheless, they hardened their hearts, saying unto him: Behold, we know that thou art Alma; and we know that thou art high priest over the church which thou hast established in many parts of the land, according to your tradition; and we are not of thy church, and we do not believe in such foolish traditions.", 
+      "contentHtml": "Nevertheless, they hardened their hearts, saying unto him: Behold, we know that thou art Alma; and we know that thou art high priest over the church which thou hast established in many parts of the land, according to your tradition; and we are not of thy church, and we do not believe in such foolish traditions.", 
+      "number": "11", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And now we know that because we are not of thy church we know that thou hast no power over us; and thou hast delivered up the judgment-seat unto Nephihah; therefore thou art not the chief judge over us.", 
+      "contentHtml": "And now we know that because we are not of thy church we know that thou hast no power over us; and thou hast delivered up the judgment-seat unto Nephihah; therefore thou art not the chief judge over us.", 
+      "number": "12", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Now when the people had said this, and withstood all his words, and reviled him, and spit upon him, and caused that he should be cast out of their city, he departed thence and took his journey towards the city which was called Aaron.", 
+      "contentHtml": "Now when the people had said this, and withstood all his words, and reviled him, and spit upon him, and caused that he should be cast out of their city, he departed thence and took his journey towards the city which was called Aaron.", 
+      "number": "13", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And it came to pass that while he was journeying thither, being weighed down with sorrow, wading through much tribulation and anguish of soul, because of the wickedness of the people who were in the city of Ammonihah, it came to pass while Alma was thus weighed down with sorrow, behold an angel of the Lord appeared unto him, saying:", 
+      "contentHtml": "And it came to pass that while he was journeying thither, being weighed down with sorrow, wading through much tribulation and anguish of soul, because of the wickedness of the people who were in the city of Ammonihah, it came to pass while Alma was thus weighed down with sorrow, behold an angel of the Lord appeared unto him, saying:", 
+      "number": "14", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Blessed art thou, Alma; therefore, lift up thy head and rejoice, for thou hast great cause to rejoice; for thou hast been faithful in keeping the commandments of God from the time which thou receivedst thy first message from him. Behold, I am he that delivered it unto you.", 
+      "contentHtml": "Blessed art thou, Alma; therefore, lift up thy head and rejoice, for thou hast great cause to rejoice; for thou hast been faithful in keeping the commandments of God from the time which thou receivedst thy first message from him. Behold, I am he that delivered it unto you.", 
+      "number": "15", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And behold, I am sent to command thee that thou return to the city of Ammonihah, and preach again unto the people of the city; yea, preach unto them. Yea, say unto them, except they repent the Lord God will destroy them.", 
+      "contentHtml": "And behold, I am sent to command thee that thou return to the city of Ammonihah, and preach again unto the people of the city; yea, preach unto them. Yea, say unto them, except they repent the Lord God will destroy them.", 
+      "number": "16", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For behold, they do study at this time that they may destroy the liberty of thy people, (for thus saith the Lord) which is contrary to the statutes, and judgments, and commandments which he has given unto his people.", 
+      "contentHtml": "For behold, they do study at this time that they may destroy the liberty of thy people, (for thus saith the Lord) which is contrary to the statutes, and judgments, and commandments which he has given unto his people.", 
+      "number": "17", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Now it came to pass that after Alma had received his message from the angel of the Lord he returned speedily to the land of Ammonihah. And he entered the city by another way, yea, by the way which is on the south of the city of Ammonihah.", 
+      "contentHtml": "Now it came to pass that after Alma had received his message from the angel of the Lord he returned speedily to the land of Ammonihah. And he entered the city by another way, yea, by the way which is on the south of the city of Ammonihah.", 
+      "number": "18", 
+      "pageNumber": "227", 
+      "compareId": "alma-8_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And as he entered the city he was an hungered, and he said to a man: Will ye give to an humble servant of God something to eat?", 
+      "contentHtml": "And as he entered the city he was an hungered, and he said to a man: Will ye give to an humble servant of God something to eat?", 
+      "number": "19", 
+      "pageNumber": "227,228", 
+      "compareId": "alma-8_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And the man said unto him: I am a Nephite, and I know that thou art a holy prophet of God, for thou art the man whom an angel said in a vision: Thou shalt receive. Therefore, go with me into my house and I will impart unto thee of my food; and I know that thou wilt be a blessing unto me and my house.", 
+      "contentHtml": "And the man said unto him: I am a Nephite, and I know that thou art a holy prophet of God, for thou art the man whom an angel said in a vision: Thou shalt receive. Therefore, go with me into my house and I will impart unto thee of my food; and I know that thou wilt be a blessing unto me and my house.", 
+      "number": "20", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "And it came to pass that the man received him into his house; and the man was called Amulek; and he brought forth bread and meat and set before Alma.", 
+      "contentHtml": "And it came to pass that the man received him into his house; and the man was called Amulek; and he brought forth bread and meat and set before Alma.", 
+      "number": "21", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And it came to pass that Alma ate bread and was filled; and he blessed Amulek and his house, and he gave thanks unto God.", 
+      "contentHtml": "And it came to pass that Alma ate bread and was filled; and he blessed Amulek and his house, and he gave thanks unto God.", 
+      "number": "22", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And after he had eaten and was filled he said unto Amulek: I am Alma, and am the high priest over the church of God throughout the land.", 
+      "contentHtml": "And after he had eaten and was filled he said unto Amulek: I am Alma, and am the high priest over the church of God throughout the land.", 
+      "number": "23", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And behold, I have been called to preach the word of God among all this people, according to the spirit of revelation and prophecy; and I was in this land and they would not receive me, but they cast me out and I was about to set my back towards this land forever.", 
+      "contentHtml": "And behold, I have been called to preach the word of God among all this people, according to the spirit of revelation and prophecy; and I was in this land and they would not receive me, but they cast me out and I was about to set my back towards this land forever.", 
+      "number": "24", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "But behold, I have been commanded that I should turn again and prophesy unto this people, yea, and to testify against them concerning their iniquities.", 
+      "contentHtml": "But behold, I have been commanded that I should turn again and prophesy unto this people, yea, and to testify against them concerning their iniquities.", 
+      "number": "25", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And now, Amulek, because thou hast fed me and taken me in, thou art blessed; for I was an hungered, for I had fasted many days.", 
+      "contentHtml": "And now, Amulek, because thou hast fed me and taken me in, thou art blessed; for I was an hungered, for I had fasted many days.", 
+      "number": "26", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And Alma tarried many days with Amulek before he began to preach unto the people.", 
+      "contentHtml": "And Alma tarried many days with Amulek before he began to preach unto the people.", 
+      "number": "27", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "And it came to pass that the people did wax more gross in their iniquities.", 
+      "contentHtml": "And it came to pass that the people did wax more gross in their iniquities.", 
+      "number": "28", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "And the word came to Alma, saying: Go; and also say unto my servant Amulek, go forth and prophesy unto this people, saying—Repent ye, for thus saith the Lord, except ye repent I will visit this people in mine anger; yea, and I will not turn my fierce anger away.", 
+      "contentHtml": "And the word came to Alma, saying: Go; and also say unto my servant Amulek, go forth and prophesy unto this people, saying—Repent ye, for thus saith the Lord, except ye repent I will visit this people in mine anger; yea, and I will not turn my fierce anger away.", 
+      "number": "29", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "And Alma went forth, and also Amulek, among the people, to declare the words of God unto them; and they were filled with the Holy Ghost.", 
+      "contentHtml": "And Alma went forth, and also Amulek, among the people, to declare the words of God unto them; and they were filled with the Holy Ghost.", 
+      "number": "30", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And they had power given unto them, insomuch that they could not be confined in dungeons; neither was it possible that any man could slay them; nevertheless they did not exercise their power until they were bound in bands and cast into prison. Now, this was done that the Lord might show forth his power in them.", 
+      "contentHtml": "And they had power given unto them, insomuch that they could not be confined in dungeons; neither was it possible that any man could slay them; nevertheless they did not exercise their power until they were bound in bands and cast into prison. Now, this was done that the Lord might show forth his power in them.", 
+      "number": "31", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And it came to pass that they went forth and began to preach and to prophesy unto the people, according to the spirit and power which the Lord had given them.", 
+      "contentHtml": "And it came to pass that they went forth and began to preach and to prophesy unto the people, according to the spirit and power which the Lord had given them.", 
+      "number": "32", 
+      "pageNumber": "228", 
+      "compareId": "alma-8_v32", 
+      "churchId": "p32"
+    }
+  ], 
+  "media": []
+}

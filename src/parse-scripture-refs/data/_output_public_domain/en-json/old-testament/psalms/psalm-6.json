@@ -1,0 +1,129 @@
+{
+  "name": "Psalm 6", 
+  "abbrev": "Ps. 6", 
+  "number": "6", 
+  "churchUri": "/scriptures/ot/ps/6", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 6", 
+      "contentHtml": "Psalm 6", 
+      "number": null, 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician on Neginoth upon Sheminith, A Psalm of David.", 
+      "contentHtml": "To the chief Musician on Neginoth upon Sheminith, A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "O LORD, rebuke me not in thine anger, neither chasten me in thy hot displeasure.", 
+      "contentHtml": "O <span class=\"small-caps\">Lord</span>, rebuke me not in thine anger, neither chasten me in thy hot displeasure.", 
+      "number": "1", 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Have mercy upon me, O LORD; for I am weak: O LORD, heal me; for my bones are vexed.", 
+      "contentHtml": "Have mercy upon me, O <span class=\"small-caps\">Lord</span>; for I <span class=\"clarity-word\">am</span> weak: O <span class=\"small-caps\">Lord</span>, heal me; for my bones are vexed.", 
+      "number": "2", 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "My soul is also sore vexed: but thou, O LORD, how long?", 
+      "contentHtml": "My soul is also sore vexed: but thou, O <span class=\"small-caps\">Lord</span>, how long?", 
+      "number": "3", 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Return, O LORD, deliver my soul: oh save me for thy mercies’ sake.", 
+      "contentHtml": "Return, O <span class=\"small-caps\">Lord</span>, deliver my soul: oh save me for thy mercies’ sake.", 
+      "number": "4", 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For in death there is no remembrance of thee: in the grave who shall give thee thanks?", 
+      "contentHtml": "For in death <span class=\"clarity-word\">there is</span> no remembrance of thee: in the grave who shall give thee thanks?", 
+      "number": "5", 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.", 
+      "contentHtml": "I am weary with my groaning; all the night make I my bed to swim; I water my couch with my tears.", 
+      "number": "6", 
+      "pageNumber": "716", 
+      "compareId": "psalm-6_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.", 
+      "contentHtml": "Mine eye is consumed because of grief; it waxeth old because of all mine enemies.", 
+      "number": "7", 
+      "pageNumber": "717", 
+      "compareId": "psalm-6_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Depart from me, all ye workers of iniquity; for the LORD hath heard the voice of my weeping.", 
+      "contentHtml": "Depart from me, all ye workers of iniquity; for the <span class=\"small-caps\">Lord</span> hath heard the voice of my weeping.", 
+      "number": "8", 
+      "pageNumber": "717", 
+      "compareId": "psalm-6_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "The LORD hath heard my supplication; the LORD will receive my prayer.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> hath heard my supplication; the <span class=\"small-caps\">Lord</span> will receive my prayer.", 
+      "number": "9", 
+      "pageNumber": "717", 
+      "compareId": "psalm-6_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.", 
+      "contentHtml": "Let all mine enemies be ashamed and sore vexed: let them return <span class=\"clarity-word\">and</span> be ashamed suddenly.", 
+      "number": "10", 
+      "pageNumber": "717", 
+      "compareId": "psalm-6_v10", 
+      "churchId": "p10"
+    }
+  ], 
+  "media": []
+}

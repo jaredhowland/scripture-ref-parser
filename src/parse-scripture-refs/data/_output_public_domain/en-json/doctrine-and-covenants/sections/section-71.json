@@ -1,0 +1,129 @@
+{
+  "name": "Doctrine and Covenants 71", 
+  "abbrev": "D&C 71", 
+  "number": "71", 
+  "churchUri": "/scriptures/dc-testament/dc/71", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 71", 
+      "contentHtml": "Section 71", 
+      "number": null, 
+      "pageNumber": "130", 
+      "compareId": "section-71_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, thus saith the Lord unto you my servants Joseph Smith, Jun., and Sidney Rigdon, that the time has verily come that it is necessary and expedient in me that you should open your mouths in proclaiming my gospel, the things of the kingdom, expounding the mysteries thereof out of the scriptures, according to that portion of Spirit and power which shall be given unto you, even as I will.", 
+      "contentHtml": "Behold, thus saith the Lord unto you my servants Joseph Smith, Jun., and Sidney Rigdon, that the time has verily come that it is necessary and expedient in me that you should open your mouths in proclaiming my gospel, the things of the kingdom, expounding the mysteries thereof out of the scriptures, according to that portion of Spirit and power which shall be given unto you, even as I will.", 
+      "number": "1", 
+      "pageNumber": "130", 
+      "compareId": "section-71_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Verily I say unto you, proclaim unto the world in the regions round about, and in the church also, for the space of a season, even until it shall be made known unto you.", 
+      "contentHtml": "Verily I say unto you, proclaim unto the world in the regions round about, and in the church also, for the space of a season, even until it shall be made known unto you.", 
+      "number": "2", 
+      "pageNumber": "130", 
+      "compareId": "section-71_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Verily this is a mission for a season, which I give unto you.", 
+      "contentHtml": "Verily this is a mission for a season, which I give unto you.", 
+      "number": "3", 
+      "pageNumber": "130", 
+      "compareId": "section-71_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Wherefore, labor ye in my vineyard. Call upon the inhabitants of the earth, and bear record, and prepare the way for the commandments and revelations which are to come.", 
+      "contentHtml": "Wherefore, labor ye in my vineyard. Call upon the inhabitants of the earth, and bear record, and prepare the way for the commandments and revelations which are to come.", 
+      "number": "4", 
+      "pageNumber": "130", 
+      "compareId": "section-71_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Now, behold this is wisdom; whoso readeth, let him understand and receive also;", 
+      "contentHtml": "Now, behold this is wisdom; whoso readeth, let him understand and receive also;", 
+      "number": "5", 
+      "pageNumber": "130", 
+      "compareId": "section-71_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For unto him that receiveth it shall be given more abundantly, even power.", 
+      "contentHtml": "For unto him that receiveth it shall be given more abundantly, even power.", 
+      "number": "6", 
+      "pageNumber": "130,131", 
+      "compareId": "section-71_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Wherefore, confound your enemies; call upon them to meet you both in public and in private; and inasmuch as ye are faithful their shame shall be made manifest.", 
+      "contentHtml": "Wherefore, confound your enemies; call upon them to meet you both in public and in private; and inasmuch as ye are faithful their shame shall be made manifest.", 
+      "number": "7", 
+      "pageNumber": "131", 
+      "compareId": "section-71_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Wherefore, let them bring forth their strong reasons against the Lord.", 
+      "contentHtml": "Wherefore, let them bring forth their strong reasons against the Lord.", 
+      "number": "8", 
+      "pageNumber": "131", 
+      "compareId": "section-71_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Verily, thus saith the Lord unto you—there is no weapon that is formed against you shall prosper;", 
+      "contentHtml": "Verily, thus saith the Lord unto you—there is no weapon that is formed against you shall prosper;", 
+      "number": "9", 
+      "pageNumber": "131", 
+      "compareId": "section-71_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And if any man lift his voice against you he shall be confounded in mine own due time.", 
+      "contentHtml": "And if any man lift his voice against you he shall be confounded in mine own due time.", 
+      "number": "10", 
+      "pageNumber": "131", 
+      "compareId": "section-71_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Wherefore, keep my commandments; they are true and faithful. Even so. Amen.", 
+      "contentHtml": "Wherefore, keep my commandments; they are true and faithful. Even so. Amen.", 
+      "number": "11", 
+      "pageNumber": "131", 
+      "compareId": "section-71_v11", 
+      "churchId": "p11"
+    }
+  ], 
+  "media": []
+}

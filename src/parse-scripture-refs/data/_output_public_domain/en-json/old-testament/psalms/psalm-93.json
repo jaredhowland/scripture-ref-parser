@@ -1,0 +1,69 @@
+{
+  "name": "Psalm 93", 
+  "abbrev": "Ps. 93", 
+  "number": "93", 
+  "churchUri": "/scriptures/ot/ps/93", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 93", 
+      "contentHtml": "Psalm 93", 
+      "number": null, 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The LORD reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> reigneth, he is clothed with majesty; the <span class=\"small-caps\">Lord</span> is clothed with strength, <span class=\"clarity-word\">wherewith</span> he hath girded himself: the world also is stablished, that it cannot be moved.", 
+      "number": "1", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Thy throne is established of old: thou art from everlasting.", 
+      "contentHtml": "Thy throne <span class=\"clarity-word\">is</span> established of old: thou <span class=\"clarity-word\">art</span> from everlasting.", 
+      "number": "2", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "The floods have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.", 
+      "contentHtml": "The floods have lifted up, O <span class=\"small-caps\">Lord</span>, the floods have lifted up their voice; the floods lift up their waves.", 
+      "number": "3", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "The LORD on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> on high <span class=\"clarity-word\">is</span> mightier than the noise of many waters, <span class=\"clarity-word\">yea, than</span> the mighty waves of the sea.", 
+      "number": "4", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Thy testimonies are very sure: holiness becometh thine house, O LORD, for ever.", 
+      "contentHtml": "Thy testimonies are very sure: holiness becometh thine house, O <span class=\"small-caps\">Lord</span>, for ever.", 
+      "number": "5", 
+      "pageNumber": "775", 
+      "compareId": "psalm-93_v5", 
+      "churchId": "p5"
+    }
+  ], 
+  "media": []
+}

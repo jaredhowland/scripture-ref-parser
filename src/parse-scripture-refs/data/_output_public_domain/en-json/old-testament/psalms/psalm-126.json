@@ -1,0 +1,89 @@
+{
+  "name": "Psalm 126", 
+  "abbrev": "Ps. 126", 
+  "number": "126", 
+  "churchUri": "/scriptures/ot/ps/126", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 126", 
+      "contentHtml": "Psalm 126", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Song of degrees.", 
+      "contentHtml": "A Song of degrees.", 
+      "number": null, 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "When the LORD turned again the captivity of Zion, we were like them that dream.", 
+      "contentHtml": "When the <span class=\"small-caps\">Lord</span> turned again the captivity of Zion, we were like them that dream.", 
+      "number": "1", 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The LORD hath done great things for them.", 
+      "contentHtml": "Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The <span class=\"small-caps\">Lord</span> hath done great things for them.", 
+      "number": "2", 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "The LORD hath done great things for us; whereof we are glad.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> hath done great things for us; <span class=\"clarity-word\">whereof</span> we are glad.", 
+      "number": "3", 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Turn again our captivity, O LORD, as the streams in the south.", 
+      "contentHtml": "Turn again our captivity, O <span class=\"small-caps\">Lord</span>, as the streams in the south.", 
+      "number": "4", 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "They that sow in tears shall reap in joy.", 
+      "contentHtml": "They that sow in tears shall reap in joy.", 
+      "number": "5", 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves with him.", 
+      "contentHtml": "He that goeth forth and weepeth, bearing precious seed, shall doubtless come again with rejoicing, bringing his sheaves <span class=\"clarity-word\">with him.</span>", 
+      "number": "6", 
+      "pageNumber": "800", 
+      "compareId": "psalm-126_v6", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": []
+}

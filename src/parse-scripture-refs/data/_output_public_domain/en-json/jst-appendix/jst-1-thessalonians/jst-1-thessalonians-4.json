@@ -1,0 +1,29 @@
+{
+  "name": "JST, 1 Thessalonians 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-1-thes/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Thessalonians 4:15. Compare 1 Thessalonians 4:15", 
+      "contentHtml": "<strong>JST, 1 Thessalonians 4:15.</strong> Compare 1 Thessalonians 4:15", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-thessalonians-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For this we say unto you by the word of the Lord, that they who are alive at the coming of the Lord, shall not prevent them who remain unto the coming of the Lord, who are asleep.", 
+      "contentHtml": "For this we say unto you by the word of the Lord, that <em>they who</em> are alive <em>at</em> the coming of the Lord, shall not prevent them <em>who remain unto the coming of the Lord, who</em> are asleep.", 
+      "number": "15", 
+      "pageNumber": null, 
+      "compareId": "jst-1-thessalonians-4_v1", 
+      "churchId": "p15"
+    }
+  ], 
+  "media": []
+}

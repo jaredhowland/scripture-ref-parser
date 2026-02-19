@@ -1,0 +1,59 @@
+{
+  "name": "Moroni 3", 
+  "abbrev": "Moro. 3", 
+  "number": "3", 
+  "churchUri": "/scriptures/bofm/moro/3", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 3", 
+      "contentHtml": "Chapter 3", 
+      "number": null, 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers—", 
+      "contentHtml": "The manner which the disciples, who were called the elders of the church, ordained priests and teachers—", 
+      "number": "1", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:", 
+      "contentHtml": "After they had prayed unto the Father in the name of Christ, they laid their hands upon them, and said:", 
+      "number": "2", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.", 
+      "contentHtml": "In the name of Jesus Christ I ordain you to be a priest (or if he be a teacher, I ordain you to be a teacher) to preach repentance and remission of sins through Jesus Christ, by the endurance of faith on his name to the end. Amen.", 
+      "number": "3", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.", 
+      "contentHtml": "And after this manner did they ordain priests and teachers, according to the gifts and callings of God unto men; and they ordained them by the power of the Holy Ghost, which was in them.", 
+      "number": "4", 
+      "pageNumber": "519", 
+      "compareId": "moroni-3_v4", 
+      "churchId": "p4"
+    }
+  ], 
+  "media": []
+}

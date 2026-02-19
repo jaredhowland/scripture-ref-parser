@@ -1,0 +1,239 @@
+{
+  "name": "Exodus 13", 
+  "abbrev": "Ex. 13", 
+  "number": "13", 
+  "churchUri": "/scriptures/ot/ex/13", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 13", 
+      "contentHtml": "Chapter 13", 
+      "number": null, 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And the LORD spake unto Moses, saying,", 
+      "contentHtml": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,", 
+      "number": "1", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine.", 
+      "contentHtml": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, <span class=\"clarity-word\">both</span> of man and of beast: it <span class=\"clarity-word\">is</span> mine.", 
+      "number": "2", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "¶ And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten.", 
+      "contentHtml": "¶ And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the <span class=\"small-caps\">Lord</span> brought you out from this <span class=\"clarity-word\">place:</span> there shall no leavened bread be eaten.", 
+      "number": "3", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "This day came ye out in the month Abib.", 
+      "contentHtml": "This day came ye out in the month Abib.", 
+      "number": "4", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "¶ And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.", 
+      "contentHtml": "¶ And it shall be when the <span class=\"small-caps\">Lord</span> shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.", 
+      "number": "5", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the LORD.", 
+      "contentHtml": "Seven days thou shalt eat unleavened bread, and in the seventh day <span class=\"clarity-word\">shall be</span> a feast to the <span class=\"small-caps\">Lord</span>.", 
+      "number": "6", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.", 
+      "contentHtml": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.", 
+      "number": "7", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "¶ And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt.", 
+      "contentHtml": "¶ And thou shalt shew thy son in that day, saying, <span class=\"clarity-word\">This is done</span> because of that <span class=\"clarity-word\">which</span> the <span class=\"small-caps\">Lord</span> did unto me when I came forth out of Egypt.", 
+      "number": "8", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD’s law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt.", 
+      "contentHtml": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the <span class=\"small-caps\">Lord</span>’s law may be in thy mouth: for with a strong hand hath the <span class=\"small-caps\">Lord</span> brought thee out of Egypt.", 
+      "number": "9", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Thou shalt therefore keep this ordinance in his season from year to year.", 
+      "contentHtml": "Thou shalt therefore keep this ordinance in his season from year to year.", 
+      "number": "10", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "¶ And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,", 
+      "contentHtml": "¶ And it shall be when the <span class=\"small-caps\">Lord</span> shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,", 
+      "number": "11", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD’s.", 
+      "contentHtml": "That thou shalt set apart unto the <span class=\"small-caps\">Lord</span> all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males <span class=\"clarity-word\">shall be</span> the <span class=\"small-caps\">Lord</span>’s.", 
+      "number": "12", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.", 
+      "contentHtml": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.", 
+      "number": "13", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "¶ And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:", 
+      "contentHtml": "¶ And it shall be when thy son asketh thee in time to come, saying, What <span class=\"clarity-word\">is</span> this? that thou shalt say unto him, By strength of hand the <span class=\"small-caps\">Lord</span> brought us out from Egypt, from the house of bondage:", 
+      "number": "14", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.", 
+      "contentHtml": "And it came to pass, when Pharaoh would hardly let us go, that the <span class=\"small-caps\">Lord</span> slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the <span class=\"small-caps\">Lord</span> all that openeth the matrix, being males; but all the firstborn of my children I redeem.", 
+      "number": "15", 
+      "pageNumber": "98", 
+      "compareId": "exodus-13_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.", 
+      "contentHtml": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the <span class=\"small-caps\">Lord</span> brought us forth out of Egypt.", 
+      "number": "16", 
+      "pageNumber": "99", 
+      "compareId": "exodus-13_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "¶ And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:", 
+      "contentHtml": "¶ And it came to pass, when Pharaoh had let the people go, that God led them not <span class=\"clarity-word\">through</span> the way of the land of the Philistines, although that <span class=\"clarity-word\">was</span> near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:", 
+      "number": "17", 
+      "pageNumber": "99", 
+      "compareId": "exodus-13_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.", 
+      "contentHtml": "But God led the people about, <span class=\"clarity-word\">through</span> the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.", 
+      "number": "18", 
+      "pageNumber": "99", 
+      "compareId": "exodus-13_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.", 
+      "contentHtml": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.", 
+      "number": "19", 
+      "pageNumber": "99", 
+      "compareId": "exodus-13_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "¶ And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.", 
+      "contentHtml": "¶ And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.", 
+      "number": "20", 
+      "pageNumber": "99", 
+      "compareId": "exodus-13_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:", 
+      "contentHtml": "And the <span class=\"small-caps\">Lord</span> went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:", 
+      "number": "21", 
+      "pageNumber": "99", 
+      "compareId": "exodus-13_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.", 
+      "contentHtml": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, <span class=\"clarity-word\">from</span> before the people.", 
+      "number": "22", 
+      "pageNumber": "99", 
+      "compareId": "exodus-13_v22", 
+      "churchId": "p22"
+    }
+  ], 
+  "media": []
+}

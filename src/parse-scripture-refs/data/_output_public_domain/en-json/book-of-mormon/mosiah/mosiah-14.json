@@ -1,0 +1,139 @@
+{
+  "name": "Mosiah 14", 
+  "abbrev": "Mosiah 14", 
+  "number": "14", 
+  "churchUri": "/scriptures/bofm/mosiah/14", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 14", 
+      "contentHtml": "Chapter 14", 
+      "number": null, 
+      "pageNumber": "174", 
+      "compareId": "mosiah-14_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Yea, even doth not Isaiah say: Who hath believed our report, and to whom is the arm of the Lord revealed?", 
+      "contentHtml": "Yea, even doth not Isaiah say: Who hath believed our report, and to whom is the arm of the Lord revealed?", 
+      "number": "1", 
+      "pageNumber": "174", 
+      "compareId": "mosiah-14_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For he shall grow up before him as a tender plant, and as a root out of dry ground; he hath no form nor comeliness; and when we shall see him there is no beauty that we should desire him.", 
+      "contentHtml": "For he shall grow up before him as a tender plant, and as a root out of dry ground; he hath no form nor comeliness; and when we shall see him there is no beauty that we should desire him.", 
+      "number": "2", 
+      "pageNumber": "174", 
+      "compareId": "mosiah-14_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "He is despised and rejected of men; a man of sorrows, and acquainted with grief; and we hid as it were our faces from him; he was despised, and we esteemed him not.", 
+      "contentHtml": "He is despised and rejected of men; a man of sorrows, and acquainted with grief; and we hid as it were our faces from him; he was despised, and we esteemed him not.", 
+      "number": "3", 
+      "pageNumber": "174", 
+      "compareId": "mosiah-14_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Surely he has borne our griefs, and carried our sorrows; yet we did esteem him stricken, smitten of God, and afflicted.", 
+      "contentHtml": "Surely he has borne our griefs, and carried our sorrows; yet we did esteem him stricken, smitten of God, and afflicted.", 
+      "number": "4", 
+      "pageNumber": "174", 
+      "compareId": "mosiah-14_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.", 
+      "contentHtml": "But he was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.", 
+      "number": "5", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "All we, like sheep, have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquities of us all.", 
+      "contentHtml": "All we, like sheep, have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquities of us all.", 
+      "number": "6", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "He was oppressed, and he was afflicted, yet he opened not his mouth; he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb so he opened not his mouth.", 
+      "contentHtml": "He was oppressed, and he was afflicted, yet he opened not his mouth; he is brought as a lamb to the slaughter, and as a sheep before her shearers is dumb so he opened not his mouth.", 
+      "number": "7", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "He was taken from prison and from judgment; and who shall declare his generation? For he was cut off out of the land of the living; for the transgressions of my people was he stricken.", 
+      "contentHtml": "He was taken from prison and from judgment; and who shall declare his generation? For he was cut off out of the land of the living; for the transgressions of my people was he stricken.", 
+      "number": "8", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And he made his grave with the wicked, and with the rich in his death; because he had done no evil, neither was any deceit in his mouth.", 
+      "contentHtml": "And he made his grave with the wicked, and with the rich in his death; because he had done no evil, neither was any deceit in his mouth.", 
+      "number": "9", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Yet it pleased the Lord to bruise him; he hath put him to grief; when thou shalt make his soul an offering for sin he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.", 
+      "contentHtml": "Yet it pleased the Lord to bruise him; he hath put him to grief; when thou shalt make his soul an offering for sin he shall see his seed, he shall prolong his days, and the pleasure of the Lord shall prosper in his hand.", 
+      "number": "10", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "He shall see the travail of his soul, and shall be satisfied; by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.", 
+      "contentHtml": "He shall see the travail of his soul, and shall be satisfied; by his knowledge shall my righteous servant justify many; for he shall bear their iniquities.", 
+      "number": "11", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death; and he was numbered with the transgressors; and he bore the sins of many, and made intercession for the transgressors.", 
+      "contentHtml": "Therefore will I divide him a portion with the great, and he shall divide the spoil with the strong; because he hath poured out his soul unto death; and he was numbered with the transgressors; and he bore the sins of many, and made intercession for the transgressors.", 
+      "number": "12", 
+      "pageNumber": "175", 
+      "compareId": "mosiah-14_v12", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": []
+}

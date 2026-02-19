@@ -1,0 +1,29 @@
+{
+  "name": "JST, 1 Corinthians 15", 
+  "abbrev": null, 
+  "number": "15", 
+  "churchUri": "/scriptures/jst/jst-1-cor/15", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 Corinthians 15:40. Compare 1 Corinthians 15:40", 
+      "contentHtml": "<strong>JST, 1 Corinthians 15:40.</strong> Compare 1 Corinthians 15:40", 
+      "number": null, 
+      "pageNumber": "797", 
+      "compareId": "jst-1-corinthians-15_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Also celestial bodies, and bodies terrestrial, and bodies telestial; but the glory of the celestial, one; and the terrestrial, another; and the telestial, another.", 
+      "contentHtml": "Also celestial bodies, and bodies terrestrial, <em>and bodies telestial;</em> but the glory of the celestial, one; and the terrestrial, another; <em>and the telestial, another.</em>", 
+      "number": "40", 
+      "pageNumber": "798", 
+      "compareId": "jst-1-corinthians-15_v1", 
+      "churchId": "p40"
+    }
+  ], 
+  "media": []
+}

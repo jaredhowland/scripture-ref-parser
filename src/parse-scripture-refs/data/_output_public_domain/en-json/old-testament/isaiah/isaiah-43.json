@@ -1,0 +1,299 @@
+{
+  "name": "Isaiah 43", 
+  "abbrev": "Isa. 43", 
+  "number": "43", 
+  "churchUri": "/scriptures/ot/isa/43", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 43", 
+      "contentHtml": "Chapter 43", 
+      "number": null, 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.", 
+      "contentHtml": "But now thus saith the <span class=\"small-caps\">Lord</span> that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called <span class=\"clarity-word\">thee</span> by thy name; thou <span class=\"clarity-word\">art</span> mine.", 
+      "number": "1", 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.", 
+      "contentHtml": "When thou passest through the waters, I <span class=\"clarity-word\">will be</span> with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.", 
+      "number": "2", 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For I am the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.", 
+      "contentHtml": "For I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> thy God, the Holy One of Israel, thy Saviour: I gave Egypt <span class=\"clarity-word\">for</span> thy ransom, Ethiopia and Seba for thee.", 
+      "number": "3", 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.", 
+      "contentHtml": "Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.", 
+      "number": "4", 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;", 
+      "contentHtml": "Fear not: for I <span class=\"clarity-word\">am</span> with thee: I will bring thy seed from the east, and gather thee from the west;", 
+      "number": "5", 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;", 
+      "contentHtml": "I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;", 
+      "number": "6", 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.", 
+      "contentHtml": "<span class=\"clarity-word\">Even</span> every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.", 
+      "number": "7", 
+      "pageNumber": "912", 
+      "compareId": "isaiah-43_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "¶ Bring forth the blind people that have eyes, and the deaf that have ears.", 
+      "contentHtml": "¶ Bring forth the blind people that have eyes, and the deaf that have ears.", 
+      "number": "8", 
+      "pageNumber": "912,913", 
+      "compareId": "isaiah-43_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.", 
+      "contentHtml": "Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, <span class=\"clarity-word\">It is</span> truth.", 
+      "number": "9", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Ye are my witnesses, saith the LORD, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.", 
+      "contentHtml": "Ye <span class=\"clarity-word\">are</span> my witnesses, saith the <span class=\"small-caps\">Lord</span>, and my servant whom I have chosen: that ye may know and believe me, and understand that I <span class=\"clarity-word\">am</span> he: before me there was no God formed, neither shall there be after me.", 
+      "number": "10", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "I, even I, am the LORD; and beside me there is no saviour.", 
+      "contentHtml": "I, <span class=\"clarity-word\">even</span> I, <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>; and beside me <span class=\"clarity-word\">there is</span> no saviour.", 
+      "number": "11", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "I have declared, and have saved, and I have shewed, when there was no strange god among you: therefore ye are my witnesses, saith the LORD, that I am God.", 
+      "contentHtml": "I have declared, and have saved, and I have shewed, when <span class=\"clarity-word\">there was</span> no strange <span class=\"clarity-word\">god</span> among you: therefore ye <span class=\"clarity-word\">are</span> my witnesses, saith the <span class=\"small-caps\">Lord</span>, that I <span class=\"clarity-word\">am</span> God.", 
+      "number": "12", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?", 
+      "contentHtml": "Yea, before the day <span class=\"clarity-word\">was</span> I <span class=\"clarity-word\">am</span> he; and <span class=\"clarity-word\">there is</span> none that can deliver out of my hand: I will work, and who shall let it?", 
+      "number": "13", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "¶ Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry is in the ships.", 
+      "contentHtml": "¶ Thus saith the <span class=\"small-caps\">Lord</span>, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry <span class=\"clarity-word\">is</span> in the ships.", 
+      "number": "14", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "I am the LORD, your Holy One, the creator of Israel, your King.", 
+      "contentHtml": "I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span>, your Holy One, the creator of Israel, your King.", 
+      "number": "15", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Thus saith the LORD, which maketh a way in the sea, and a path in the mighty waters;", 
+      "contentHtml": "Thus saith the <span class=\"small-caps\">Lord</span>, which maketh a way in the sea, and a path in the mighty waters;", 
+      "number": "16", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow.", 
+      "contentHtml": "Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow.", 
+      "number": "17", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "¶ Remember ye not the former things, neither consider the things of old.", 
+      "contentHtml": "¶ Remember ye not the former things, neither consider the things of old.", 
+      "number": "18", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.", 
+      "contentHtml": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, <span class=\"clarity-word\">and</span> rivers in the desert.", 
+      "number": "19", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.", 
+      "contentHtml": "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, <span class=\"clarity-word\">and</span> rivers in the desert, to give drink to my people, my chosen.", 
+      "number": "20", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "This people have I formed for myself; they shall shew forth my praise.", 
+      "contentHtml": "This people have I formed for myself; they shall shew forth my praise.", 
+      "number": "21", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "¶ But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.", 
+      "contentHtml": "¶ But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.", 
+      "number": "22", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.", 
+      "contentHtml": "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.", 
+      "number": "23", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Thou hast bought me no sweet cane with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities.", 
+      "contentHtml": "Thou hast bought me no sweet cane with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities.", 
+      "number": "24", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.", 
+      "contentHtml": "I, <span class=\"clarity-word\">even</span> I, <span class=\"clarity-word\">am</span> he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.", 
+      "number": "25", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.", 
+      "contentHtml": "Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.", 
+      "number": "26", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "Thy first father hath sinned, and thy teachers have transgressed against me.", 
+      "contentHtml": "Thy first father hath sinned, and thy teachers have transgressed against me.", 
+      "number": "27", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.", 
+      "contentHtml": "Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.", 
+      "number": "28", 
+      "pageNumber": "913", 
+      "compareId": "isaiah-43_v28", 
+      "churchId": "p28"
+    }
+  ], 
+  "media": []
+}

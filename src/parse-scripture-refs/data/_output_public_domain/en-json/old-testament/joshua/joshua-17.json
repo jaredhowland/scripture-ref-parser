@@ -1,0 +1,199 @@
+{
+  "name": "Joshua 17", 
+  "abbrev": "Josh. 17", 
+  "number": "17", 
+  "churchUri": "/scriptures/ot/josh/17", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 17", 
+      "contentHtml": "Chapter 17", 
+      "number": null, 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.", 
+      "contentHtml": "There was also a lot for the tribe of Manasseh; for he <span class=\"clarity-word\">was</span> the firstborn of Joseph; <span class=\"clarity-word\">to wit,</span> for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.", 
+      "number": "1", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families.", 
+      "contentHtml": "There was also <span class=\"clarity-word\">a lot</span> for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these <span class=\"clarity-word\">were</span> the male children of Manasseh the son of Joseph by their families.", 
+      "number": "2", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "¶ But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these are the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.", 
+      "contentHtml": "¶ But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these <span class=\"clarity-word\">are</span> the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.", 
+      "number": "3", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father.", 
+      "contentHtml": "And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The <span class=\"small-caps\">Lord</span> commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the <span class=\"small-caps\">Lord</span> he gave them an inheritance among the brethren of their father.", 
+      "number": "4", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which were on the other side Jordan;", 
+      "contentHtml": "And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which <span class=\"clarity-word\">were</span> on the other side Jordan;", 
+      "number": "5", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh’s sons had the land of Gilead.", 
+      "contentHtml": "Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh’s sons had the land of Gilead.", 
+      "number": "6", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "¶ And the coast of Manasseh was from Asher to Michmethah, that lieth before Shechem; and the border went along on the right hand unto the inhabitants of En-tappuah.", 
+      "contentHtml": "¶ And the coast of Manasseh was from Asher to Michmethah, that <span class=\"clarity-word\">lieth</span> before Shechem; and the border went along on the right hand unto the inhabitants of En-tappuah.", 
+      "number": "7", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Now Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh belonged to the children of Ephraim;", 
+      "contentHtml": "<span class=\"clarity-word\">Now</span> Manasseh had the land of Tappuah: but Tappuah on the border of Manasseh <span class=\"clarity-word\">belonged</span> to the children of Ephraim;", 
+      "number": "8", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim are among the cities of Manasseh: the coast of Manasseh also was on the north side of the river, and the outgoings of it were at the sea:", 
+      "contentHtml": "And the coast descended unto the river Kanah, southward of the river: these cities of Ephraim <span class=\"clarity-word\">are</span> among the cities of Manasseh: the coast of Manasseh also <span class=\"clarity-word\">was</span> on the north side of the river, and the outgoings of it were at the sea:", 
+      "number": "9", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Southward it was Ephraim’s, and northward it was Manasseh’s, and the sea is his border; and they met together in Asher on the north, and in Issachar on the east.", 
+      "contentHtml": "Southward <span class=\"clarity-word\">it was</span> Ephraim’s, and northward <span class=\"clarity-word\">it was</span> Manasseh’s, and the sea is his border; and they met together in Asher on the north, and in Issachar on the east.", 
+      "number": "10", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And Manasseh had in Issachar and in Asher Beth-shean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of En-dor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, even three countries.", 
+      "contentHtml": "And Manasseh had in Issachar and in Asher Beth-shean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of En-dor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, <span class=\"clarity-word\">even</span> three countries.", 
+      "number": "11", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Yet the children of Manasseh could not drive out the inhabitants of those cities; but the Canaanites would dwell in that land.", 
+      "contentHtml": "Yet the children of Manasseh could not drive out <span class=\"clarity-word\">the inhabitants of</span> those cities; but the Canaanites would dwell in that land.", 
+      "number": "12", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute; but did not utterly drive them out.", 
+      "contentHtml": "Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute; but did not utterly drive them out.", 
+      "number": "13", 
+      "pageNumber": "331", 
+      "compareId": "joshua-17_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the LORD hath blessed me hitherto?", 
+      "contentHtml": "And the children of Joseph spake unto Joshua, saying, Why hast thou given me <span class=\"clarity-word\">but</span> one lot and one portion to inherit, seeing I <span class=\"clarity-word\">am</span> a great people, forasmuch as the <span class=\"small-caps\">Lord</span> hath blessed me hitherto?", 
+      "number": "14", 
+      "pageNumber": "331,332", 
+      "compareId": "joshua-17_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And Joshua answered them, If thou be a great people, then get thee up to the wood country, and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for thee.", 
+      "contentHtml": "And Joshua answered them, If thou <span class=\"clarity-word\">be</span> a great people, <span class=\"clarity-word\">then</span> get thee up to the wood <span class=\"clarity-word\">country,</span> and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for thee.", 
+      "number": "15", 
+      "pageNumber": "332", 
+      "compareId": "joshua-17_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Beth-shean and her towns, and they who are of the valley of Jezreel.", 
+      "contentHtml": "And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, <span class=\"clarity-word\">both they</span> who <span class=\"clarity-word\">are</span> of Beth-shean and her towns, and <span class=\"clarity-word\">they</span> who <span class=\"clarity-word\">are</span> of the valley of Jezreel.", 
+      "number": "16", 
+      "pageNumber": "332", 
+      "compareId": "joshua-17_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And Joshua spake unto the house of Joseph, even to Ephraim and to Manasseh, saying, Thou art a great people, and hast great power: thou shalt not have one lot only:", 
+      "contentHtml": "And Joshua spake unto the house of Joseph, <span class=\"clarity-word\">even</span> to Ephraim and to Manasseh, saying, Thou <span class=\"clarity-word\">art</span> a great people, and hast great power: thou shalt not have one lot <span class=\"clarity-word\">only:</span>", 
+      "number": "17", 
+      "pageNumber": "332", 
+      "compareId": "joshua-17_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "But the mountain shall be thine; for it is a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong.", 
+      "contentHtml": "But the mountain shall be thine; for it <span class=\"clarity-word\">is</span> a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, <span class=\"clarity-word\">and</span> though they <span class=\"clarity-word\">be</span> strong.", 
+      "number": "18", 
+      "pageNumber": "332", 
+      "compareId": "joshua-17_v18", 
+      "churchId": "p18"
+    }
+  ], 
+  "media": []
+}

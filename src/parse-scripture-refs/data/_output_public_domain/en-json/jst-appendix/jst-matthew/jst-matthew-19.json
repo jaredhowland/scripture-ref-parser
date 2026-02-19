@@ -1,0 +1,29 @@
+{
+  "name": "JST, Matthew 19", 
+  "abbrev": null, 
+  "number": "19", 
+  "churchUri": "/scriptures/jst/jst-matt/19", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Matthew 19:13. Compare Matthew 19:13", 
+      "contentHtml": "<strong>JST, Matthew 19:13.</strong> Compare Matthew 19:13", 
+      "number": null, 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-19_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then were there brought unto him little children, that he should put his hands on them and pray. And the disciples rebuked them, saying, There is no need, for Jesus hath said, Such shall be saved.", 
+      "contentHtml": "Then were there brought unto him little children, that he should put his hands on them and pray. And the disciples rebuked them, <em>saying, There is no need, for Jesus hath said, Such shall be saved.</em>", 
+      "number": "13", 
+      "pageNumber": "785", 
+      "compareId": "jst-matthew-19_v1", 
+      "churchId": "p13"
+    }
+  ], 
+  "media": []
+}

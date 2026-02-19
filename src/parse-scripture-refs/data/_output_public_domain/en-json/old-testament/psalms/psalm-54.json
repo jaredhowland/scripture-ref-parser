@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 54", 
+  "abbrev": "Ps. 54", 
+  "number": "54", 
+  "churchUri": "/scriptures/ot/ps/54", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 54", 
+      "contentHtml": "Psalm 54", 
+      "number": null, 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?", 
+      "contentHtml": "To the chief Musician on Neginoth, Maschil, <span class=\"clarity-word\">A Psalm</span> of David, when the Ziphims came and said to Saul, Doth not David hide himself with us?", 
+      "number": null, 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Save me, O God, by thy name, and judge me by thy strength.", 
+      "contentHtml": "Save me, O God, by thy name, and judge me by thy strength.", 
+      "number": "1", 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Hear my prayer, O God; give ear to the words of my mouth.", 
+      "contentHtml": "Hear my prayer, O God; give ear to the words of my mouth.", 
+      "number": "2", 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.", 
+      "contentHtml": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.", 
+      "number": "3", 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Behold, God is mine helper: the Lord is with them that uphold my soul.", 
+      "contentHtml": "Behold, God <span class=\"clarity-word\">is</span> mine helper: the Lord <span class=\"clarity-word\">is</span> with them that uphold my soul.", 
+      "number": "4", 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "He shall reward evil unto mine enemies: cut them off in thy truth.", 
+      "contentHtml": "He shall reward evil unto mine enemies: cut them off in thy truth.", 
+      "number": "5", 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good.", 
+      "contentHtml": "I will freely sacrifice unto thee: I will praise thy name, O <span class=\"small-caps\">Lord</span>; for <span class=\"clarity-word\">it is</span> good.", 
+      "number": "6", 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.", 
+      "contentHtml": "For he hath delivered me out of all trouble: and mine eye hath seen <span class=\"clarity-word\">his </span><span class=\"clarity-word\">desire</span> upon mine enemies.", 
+      "number": "7", 
+      "pageNumber": "748", 
+      "compareId": "psalm-54_v7", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,199 @@
+{
+  "name": "2 Corinthians 3", 
+  "abbrev": "2 Cor. 3", 
+  "number": "3", 
+  "churchUri": "/scriptures/nt/2-cor/3", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 3", 
+      "contentHtml": "Chapter 3", 
+      "number": null, 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?", 
+      "contentHtml": "Do we begin again to commend ourselves? or need we, as some <span class=\"clarity-word\">others,</span> epistles of commendation to you, or <span class=\"clarity-word\">letters</span> of commendation from you?", 
+      "number": "1", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Ye are our epistle written in our hearts, known and read of all men:", 
+      "contentHtml": "Ye are our epistle written in our hearts, known and read of all men:", 
+      "number": "2", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.", 
+      "contentHtml": "<span class=\"clarity-word\">Forasmuch as ye are</span> manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.", 
+      "number": "3", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And such trust have we through Christ to God-ward:", 
+      "contentHtml": "And such trust have we through Christ to God-ward:", 
+      "number": "4", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;", 
+      "contentHtml": "Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency <span class=\"clarity-word\">is</span> of God;", 
+      "number": "5", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.", 
+      "contentHtml": "Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.", 
+      "number": "6", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "But if the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not steadfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:", 
+      "contentHtml": "But if the ministration of death, written <span class=\"clarity-word\">and</span> engraven in stones, was glorious, so that the children of Israel could not steadfastly behold the face of Moses for the glory of his countenance; which <span class=\"clarity-word\">glory</span> was to be done away:", 
+      "number": "7", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "How shall not the ministration of the spirit be rather glorious?", 
+      "contentHtml": "How shall not the ministration of the spirit be rather glorious?", 
+      "number": "8", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.", 
+      "contentHtml": "For if the ministration of condemnation <span class=\"clarity-word\">be</span> glory, much more doth the ministration of righteousness exceed in glory.", 
+      "number": "9", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.", 
+      "contentHtml": "For even that which was made glorious had no glory in this respect, by reason of the glory that excelleth.", 
+      "number": "10", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "For if that which is done away was glorious, much more that which remaineth is glorious.", 
+      "contentHtml": "For if that which is done away <span class=\"clarity-word\">was</span> glorious, much more that which remaineth <span class=\"clarity-word\">is</span> glorious.", 
+      "number": "11", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Seeing then that we have such hope, we use great plainness of speech:", 
+      "contentHtml": "Seeing then that we have such hope, we use great plainness of speech:", 
+      "number": "12", 
+      "pageNumber": "1462", 
+      "compareId": "2-corinthians-3_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And not as Moses, which put a veil over his face, that the children of Israel could not steadfastly look to the end of that which is abolished:", 
+      "contentHtml": "And not as Moses, <span class=\"clarity-word\">which</span> put a veil over his face, that the children of Israel could not steadfastly look to the end of that which is abolished:", 
+      "number": "13", 
+      "pageNumber": "1462,1463", 
+      "compareId": "2-corinthians-3_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "But their minds were blinded: for until this day remaineth the same veil untaken away in the reading of the old testament; which veil is done away in Christ.", 
+      "contentHtml": "But their minds were blinded: for until this day remaineth the same veil untaken away in the reading of the old testament; which <span class=\"clarity-word\">veil</span> is done away in Christ.", 
+      "number": "14", 
+      "pageNumber": "1463", 
+      "compareId": "2-corinthians-3_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "But even unto this day, when Moses is read, the veil is upon their heart.", 
+      "contentHtml": "But even unto this day, when Moses is read, the veil is upon their heart.", 
+      "number": "15", 
+      "pageNumber": "1463", 
+      "compareId": "2-corinthians-3_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Nevertheless when it shall turn to the Lord, the veil shall be taken away.", 
+      "contentHtml": "Nevertheless when it shall turn to the Lord, the veil shall be taken away.", 
+      "number": "16", 
+      "pageNumber": "1463", 
+      "compareId": "2-corinthians-3_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Now the Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.", 
+      "contentHtml": "Now the Lord is that Spirit: and where the Spirit of the Lord <span class=\"clarity-word\">is,</span> there <span class=\"clarity-word\">is</span> liberty.", 
+      "number": "17", 
+      "pageNumber": "1463", 
+      "compareId": "2-corinthians-3_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.", 
+      "contentHtml": "But we all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, <span class=\"clarity-word\">even</span> as by the Spirit of the Lord.", 
+      "number": "18", 
+      "pageNumber": "1463", 
+      "compareId": "2-corinthians-3_v18", 
+      "churchId": "p18"
+    }
+  ], 
+  "media": []
+}

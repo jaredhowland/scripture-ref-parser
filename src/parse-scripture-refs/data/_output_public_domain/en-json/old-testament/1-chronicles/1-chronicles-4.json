@@ -1,0 +1,449 @@
+{
+  "name": "1 Chronicles 4", 
+  "abbrev": "1 Chr. 4", 
+  "number": "4", 
+  "churchUri": "/scriptures/ot/1-chr/4", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 4", 
+      "contentHtml": "Chapter 4", 
+      "number": null, 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.", 
+      "contentHtml": "The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.", 
+      "number": "1", 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These are the families of the Zorathites.", 
+      "contentHtml": "And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These <span class=\"clarity-word\">are</span> the families of the Zorathites.", 
+      "number": "2", 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And these were of the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister was Hazelelponi:", 
+      "contentHtml": "And these <span class=\"clarity-word\">were of</span> the father of Etam; Jezreel, and Ishma, and Idbash: and the name of their sister <span class=\"clarity-word\">was</span> Hazelelponi:", 
+      "number": "3", 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And Penuel the father of Gedor, and Ezer the father of Hushah. These are the sons of Hur, the firstborn of Ephratah, the father of Beth-lehem.", 
+      "contentHtml": "And Penuel the father of Gedor, and Ezer the father of Hushah. These <span class=\"clarity-word\">are</span> the sons of Hur, the firstborn of Ephratah, the father of Beth-lehem.", 
+      "number": "4", 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "¶ And Ashur the father of Tekoa had two wives, Helah and Naarah.", 
+      "contentHtml": "¶ And Ashur the father of Tekoa had two wives, Helah and Naarah.", 
+      "number": "5", 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These were the sons of Naarah.", 
+      "contentHtml": "And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These <span class=\"clarity-word\">were</span> the sons of Naarah.", 
+      "number": "6", 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And the sons of Helah were, Zereth, and Jezoar, and Ethnan.", 
+      "contentHtml": "And the sons of Helah <span class=\"clarity-word\">were,</span> Zereth, and Jezoar, and Ethnan.", 
+      "number": "7", 
+      "pageNumber": "552", 
+      "compareId": "1-chronicles-4_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.", 
+      "contentHtml": "And Coz begat Anub, and Zobebah, and the families of Aharhel the son of Harum.", 
+      "number": "8", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "¶ And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.", 
+      "contentHtml": "¶ And Jabez was more honourable than his brethren: and his mother called his name Jabez, saying, Because I bare him with sorrow.", 
+      "number": "9", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep me from evil, that it may not grieve me! And God granted him that which he requested.", 
+      "contentHtml": "And Jabez called on the God of Israel, saying, Oh that thou wouldest bless me indeed, and enlarge my coast, and that thine hand might be with me, and that thou wouldest keep <span class=\"clarity-word\">me</span> from evil, that it may not grieve me! And God granted him that which he requested.", 
+      "number": "10", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "¶ And Chelub the brother of Shuah begat Mehir, which was the father of Eshton.", 
+      "contentHtml": "¶ And Chelub the brother of Shuah begat Mehir, which <span class=\"clarity-word\">was</span> the father of Eshton.", 
+      "number": "11", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And Eshton begat Beth-rapha, and Paseah, and Tehinnah the father of Ir-nahash. These are the men of Rechah.", 
+      "contentHtml": "And Eshton begat Beth-rapha, and Paseah, and Tehinnah the father of Ir-nahash. These <span class=\"clarity-word\">are</span> the men of Rechah.", 
+      "number": "12", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.", 
+      "contentHtml": "And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.", 
+      "number": "13", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.", 
+      "contentHtml": "And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the valley of Charashim; for they were craftsmen.", 
+      "number": "14", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.", 
+      "contentHtml": "And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.", 
+      "number": "15", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.", 
+      "contentHtml": "And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.", 
+      "number": "16", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And the sons of Ezra were, Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.", 
+      "contentHtml": "And the sons of Ezra <span class=\"clarity-word\">were,</span> Jether, and Mered, and Epher, and Jalon: and she bare Miriam, and Shammai, and Ishbah the father of Eshtemoa.", 
+      "number": "17", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these are the sons of Bithiah the daughter of Pharaoh, which Mered took.", 
+      "contentHtml": "And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Socho, and Jekuthiel the father of Zanoah. And these <span class=\"clarity-word\">are</span> the sons of Bithiah the daughter of Pharaoh, which Mered took.", 
+      "number": "18", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And the sons of his wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.", 
+      "contentHtml": "And the sons of <span class=\"clarity-word\">his</span> wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.", 
+      "number": "19", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And the sons of Shimon were, Amnon, and Rinnah, Ben-hanan, and Tilon. And the sons of Ishi were, Zoheth, and Ben-zoheth.", 
+      "contentHtml": "And the sons of Shimon <span class=\"clarity-word\">were,</span> Amnon, and Rinnah, Ben-hanan, and Tilon. And the sons of Ishi <span class=\"clarity-word\">were,</span> Zoheth, and Ben-zoheth.", 
+      "number": "20", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "¶ The sons of Shelah the son of Judah were, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,", 
+      "contentHtml": "¶ The sons of Shelah the son of Judah <span class=\"clarity-word\">were,</span> Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,", 
+      "number": "21", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubi-lehem. And these are ancient things.", 
+      "contentHtml": "And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubi-lehem. And <span class=\"clarity-word\">these are</span> ancient things.", 
+      "number": "22", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "These were the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.", 
+      "contentHtml": "These <span class=\"clarity-word\">were</span> the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.", 
+      "number": "23", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "¶ The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:", 
+      "contentHtml": "¶ The sons of Simeon <span class=\"clarity-word\">were,</span> Nemuel, and Jamin, Jarib, Zerah, <span class=\"clarity-word\">and</span> Shaul:", 
+      "number": "24", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Shallum his son, Mibsam his son, Mishma his son.", 
+      "contentHtml": "Shallum his son, Mibsam his son, Mishma his son.", 
+      "number": "25", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son.", 
+      "contentHtml": "And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son.", 
+      "number": "26", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.", 
+      "contentHtml": "And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.", 
+      "number": "27", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "And they dwelt at Beer-sheba, and Moladah, and Hazar-shual,", 
+      "contentHtml": "And they dwelt at Beer-sheba, and Moladah, and Hazar-shual,", 
+      "number": "28", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "And at Bilhah, and at Ezem, and at Tolad,", 
+      "contentHtml": "And at Bilhah, and at Ezem, and at Tolad,", 
+      "number": "29", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "And at Bethuel, and at Hormah, and at Ziklag,", 
+      "contentHtml": "And at Bethuel, and at Hormah, and at Ziklag,", 
+      "number": "30", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And at Beth-marcaboth, and Hazar-susim, and at Beth-birei, and at Shaaraim. These were their cities unto the reign of David.", 
+      "contentHtml": "And at Beth-marcaboth, and Hazar-susim, and at Beth-birei, and at Shaaraim. These <span class=\"clarity-word\">were</span> their cities unto the reign of David.", 
+      "number": "31", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:", 
+      "contentHtml": "And their villages <span class=\"clarity-word\">were,</span> Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:", 
+      "number": "32", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "And all their villages that were round about the same cities, unto Baal. These were their habitations, and their genealogy.", 
+      "contentHtml": "And all their villages that <span class=\"clarity-word\">were</span> round about the same cities, unto Baal. These <span class=\"clarity-word\">were</span> their habitations, and their genealogy.", 
+      "number": "33", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "And Meshobab, and Jamlech, and Joshah the son of Amaziah,", 
+      "contentHtml": "And Meshobab, and Jamlech, and Joshah the son of Amaziah,", 
+      "number": "34", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,", 
+      "contentHtml": "And Joel, and Jehu the son of Josibiah, the son of Seraiah, the son of Asiel,", 
+      "number": "35", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "And Elioenai, and Jaakobah, and Jeshohaiah, and Asaiah, and Adiel, and Jesimiel, and Benaiah,", 
+      "contentHtml": "And Elioenai, and Jaakobah, and Jeshohaiah, and Asaiah, and Adiel, and Jesimiel, and Benaiah,", 
+      "number": "36", 
+      "pageNumber": "553", 
+      "compareId": "1-chronicles-4_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "And Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah;", 
+      "contentHtml": "And Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah;", 
+      "number": "37", 
+      "pageNumber": "553,554", 
+      "compareId": "1-chronicles-4_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "These mentioned by their names were princes in their families: and the house of their fathers increased greatly.", 
+      "contentHtml": "These mentioned by <span class=\"clarity-word\">their</span> names <span class=\"clarity-word\">were</span> princes in their families: and the house of their fathers increased greatly.", 
+      "number": "38", 
+      "pageNumber": "554", 
+      "compareId": "1-chronicles-4_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "¶ And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks.", 
+      "contentHtml": "¶ And they went to the entrance of Gedor, <span class=\"clarity-word\">even</span> unto the east side of the valley, to seek pasture for their flocks.", 
+      "number": "39", 
+      "pageNumber": "554", 
+      "compareId": "1-chronicles-4_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old.", 
+      "contentHtml": "And they found fat pasture and good, and the land <span class=\"clarity-word\">was</span> wide, and quiet, and peaceable; for <span class=\"clarity-word\">they</span> of Ham had dwelt there of old.", 
+      "number": "40", 
+      "pageNumber": "554", 
+      "compareId": "1-chronicles-4_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks.", 
+      "contentHtml": "And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because <span class=\"clarity-word\">there was</span> pasture there for their flocks.", 
+      "number": "41", 
+      "pageNumber": "554", 
+      "compareId": "1-chronicles-4_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "And some of them, even of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.", 
+      "contentHtml": "And <span class=\"clarity-word\">some</span> of them, <span class=\"clarity-word\">even</span> of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.", 
+      "number": "42", 
+      "pageNumber": "554", 
+      "compareId": "1-chronicles-4_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.", 
+      "contentHtml": "And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.", 
+      "number": "43", 
+      "pageNumber": "554", 
+      "compareId": "1-chronicles-4_v43", 
+      "churchId": "p43"
+    }
+  ], 
+  "media": []
+}

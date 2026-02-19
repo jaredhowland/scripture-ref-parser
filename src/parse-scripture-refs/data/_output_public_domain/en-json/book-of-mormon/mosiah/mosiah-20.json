@@ -1,0 +1,279 @@
+{
+  "name": "Mosiah 20", 
+  "abbrev": "Mosiah 20", 
+  "number": "20", 
+  "churchUri": "/scriptures/bofm/mosiah/20", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 20", 
+      "contentHtml": "Chapter 20", 
+      "number": null, 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now there was a place in Shemlon where the daughters of the Lamanites did gather themselves together to sing, and to dance, and to make themselves merry.", 
+      "contentHtml": "Now there was a place in Shemlon where the daughters of the Lamanites did gather themselves together to sing, and to dance, and to make themselves merry.", 
+      "number": "1", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And it came to pass that there was one day a small number of them gathered together to sing and to dance.", 
+      "contentHtml": "And it came to pass that there was one day a small number of them gathered together to sing and to dance.", 
+      "number": "2", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And now the priests of king Noah, being ashamed to return to the city of Nephi, yea, and also fearing that the people would slay them, therefore they durst not return to their wives and their children.", 
+      "contentHtml": "And now the priests of king Noah, being ashamed to return to the city of Nephi, yea, and also fearing that the people would slay them, therefore they durst not return to their wives and their children.", 
+      "number": "3", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And having tarried in the wilderness, and having discovered the daughters of the Lamanites, they laid and watched them;", 
+      "contentHtml": "And having tarried in the wilderness, and having discovered the daughters of the Lamanites, they laid and watched them;", 
+      "number": "4", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And when there were but few of them gathered together to dance, they came forth out of their secret places and took them and carried them into the wilderness; yea, twenty and four of the daughters of the Lamanites they carried into the wilderness.", 
+      "contentHtml": "And when there were but few of them gathered together to dance, they came forth out of their secret places and took them and carried them into the wilderness; yea, twenty and four of the daughters of the Lamanites they carried into the wilderness.", 
+      "number": "5", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And it came to pass that when the Lamanites found that their daughters had been missing, they were angry with the people of Limhi, for they thought it was the people of Limhi.", 
+      "contentHtml": "And it came to pass that when the Lamanites found that their daughters had been missing, they were angry with the people of Limhi, for they thought it was the people of Limhi.", 
+      "number": "6", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Therefore they sent their armies forth; yea, even the king himself went before his people; and they went up to the land of Nephi to destroy the people of Limhi.", 
+      "contentHtml": "Therefore they sent their armies forth; yea, even the king himself went before his people; and they went up to the land of Nephi to destroy the people of Limhi.", 
+      "number": "7", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And now Limhi had discovered them from the tower, even all their preparations for war did he discover; therefore he gathered his people together, and laid wait for them in the fields and in the forests.", 
+      "contentHtml": "And now Limhi had discovered them from the tower, even all their preparations for war did he discover; therefore he gathered his people together, and laid wait for them in the fields and in the forests.", 
+      "number": "8", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And it came to pass that when the Lamanites had come up, that the people of Limhi began to fall upon them from their waiting places, and began to slay them.", 
+      "contentHtml": "And it came to pass that when the Lamanites had come up, that the people of Limhi began to fall upon them from their waiting places, and began to slay them.", 
+      "number": "9", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And it came to pass that the battle became exceedingly sore, for they fought like lions for their prey.", 
+      "contentHtml": "And it came to pass that the battle became exceedingly sore, for they fought like lions for their prey.", 
+      "number": "10", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And it came to pass that the people of Limhi began to drive the Lamanites before them; yet they were not half so numerous as the Lamanites. But they fought for their lives, and for their wives, and for their children; therefore they exerted themselves and like dragons did they fight.", 
+      "contentHtml": "And it came to pass that the people of Limhi began to drive the Lamanites before them; yet they were not half so numerous as the Lamanites. But they fought for their lives, and for their wives, and for their children; therefore they exerted themselves and like dragons did they fight.", 
+      "number": "11", 
+      "pageNumber": "185", 
+      "compareId": "mosiah-20_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And it came to pass that they found the king of the Lamanites among the number of their dead; yet he was not dead, having been wounded and left upon the ground, so speedy was the flight of his people.", 
+      "contentHtml": "And it came to pass that they found the king of the Lamanites among the number of their dead; yet he was not dead, having been wounded and left upon the ground, so speedy was the flight of his people.", 
+      "number": "12", 
+      "pageNumber": "185,186", 
+      "compareId": "mosiah-20_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And they took him and bound up his wounds, and brought him before Limhi, and said: Behold, here is the king of the Lamanites; he having received a wound has fallen among their dead, and they have left him; and behold, we have brought him before you; and now let us slay him.", 
+      "contentHtml": "And they took him and bound up his wounds, and brought him before Limhi, and said: Behold, here is the king of the Lamanites; he having received a wound has fallen among their dead, and they have left him; and behold, we have brought him before you; and now let us slay him.", 
+      "number": "13", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "But Limhi said unto them: Ye shall not slay him, but bring him hither that I may see him. And they brought him. And Limhi said unto him: What cause have ye to come up to war against my people? Behold, my people have not broken the oath that I made unto you; therefore, why should ye break the oath which ye made unto my people?", 
+      "contentHtml": "But Limhi said unto them: Ye shall not slay him, but bring him hither that I may see him. And they brought him. And Limhi said unto him: What cause have ye to come up to war against my people? Behold, my people have not broken the oath that I made unto you; therefore, why should ye break the oath which ye made unto my people?", 
+      "number": "14", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And now the king said: I have broken the oath because thy people did carry away the daughters of my people; therefore, in my anger I did cause my people to come up to war against thy people.", 
+      "contentHtml": "And now the king said: I have broken the oath because thy people did carry away the daughters of my people; therefore, in my anger I did cause my people to come up to war against thy people.", 
+      "number": "15", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And now Limhi had heard nothing concerning this matter; therefore he said: I will search among my people and whosoever has done this thing shall perish. Therefore he caused a search to be made among his people.", 
+      "contentHtml": "And now Limhi had heard nothing concerning this matter; therefore he said: I will search among my people and whosoever has done this thing shall perish. Therefore he caused a search to be made among his people.", 
+      "number": "16", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Now when Gideon had heard these things, he being the king’s captain, he went forth and said unto the king: I pray thee forbear, and do not search this people, and lay not this thing to their charge.", 
+      "contentHtml": "Now when Gideon had heard these things, he being the king’s captain, he went forth and said unto the king: I pray thee forbear, and do not search this people, and lay not this thing to their charge.", 
+      "number": "17", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For do ye not remember the priests of thy father, whom this people sought to destroy? And are they not in the wilderness? And are not they the ones who have stolen the daughters of the Lamanites?", 
+      "contentHtml": "For do ye not remember the priests of thy father, whom this people sought to destroy? And are they not in the wilderness? And are not they the ones who have stolen the daughters of the Lamanites?", 
+      "number": "18", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And now, behold, and tell the king of these things, that he may tell his people that they may be pacified towards us; for behold they are already preparing to come against us; and behold also there are but few of us.", 
+      "contentHtml": "And now, behold, and tell the king of these things, that he may tell his people that they may be pacified towards us; for behold they are already preparing to come against us; and behold also there are but few of us.", 
+      "number": "19", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And behold, they come with their numerous hosts; and except the king doth pacify them towards us we must perish.", 
+      "contentHtml": "And behold, they come with their numerous hosts; and except the king doth pacify them towards us we must perish.", 
+      "number": "20", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "For are not the words of Abinadi fulfilled, which he prophesied against us—and all this because we would not hearken unto the words of the Lord, and turn from our iniquities?", 
+      "contentHtml": "For are not the words of Abinadi fulfilled, which he prophesied against us—and all this because we would not hearken unto the words of the Lord, and turn from our iniquities?", 
+      "number": "21", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And now let us pacify the king, and we fulfil the oath which we have made unto him; for it is better that we should be in bondage than that we should lose our lives; therefore, let us put a stop to the shedding of so much blood.", 
+      "contentHtml": "And now let us pacify the king, and we fulfil the oath which we have made unto him; for it is better that we should be in bondage than that we should lose our lives; therefore, let us put a stop to the shedding of so much blood.", 
+      "number": "22", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And now Limhi told the king all the things concerning his father, and the priests that had fled into the wilderness, and attributed the carrying away of their daughters to them.", 
+      "contentHtml": "And now Limhi told the king all the things concerning his father, and the priests that had fled into the wilderness, and attributed the carrying away of their daughters to them.", 
+      "number": "23", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And it came to pass that the king was pacified towards his people; and he said unto them: Let us go forth to meet my people, without arms; and I swear unto you with an oath that my people shall not slay thy people.", 
+      "contentHtml": "And it came to pass that the king was pacified towards his people; and he said unto them: Let us go forth to meet my people, without arms; and I swear unto you with an oath that my people shall not slay thy people.", 
+      "number": "24", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And it came to pass that they followed the king, and went forth without arms to meet the Lamanites. And it came to pass that they did meet the Lamanites; and the king of the Lamanites did bow himself down before them, and did plead in behalf of the people of Limhi.", 
+      "contentHtml": "And it came to pass that they followed the king, and went forth without arms to meet the Lamanites. And it came to pass that they did meet the Lamanites; and the king of the Lamanites did bow himself down before them, and did plead in behalf of the people of Limhi.", 
+      "number": "25", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And when the Lamanites saw the people of Limhi, that they were without arms, they had compassion on them and were pacified towards them, and returned with their king in peace to their own land.", 
+      "contentHtml": "And when the Lamanites saw the people of Limhi, that they were without arms, they had compassion on them and were pacified towards them, and returned with their king in peace to their own land.", 
+      "number": "26", 
+      "pageNumber": "186", 
+      "compareId": "mosiah-20_v26", 
+      "churchId": "p26"
+    }
+  ], 
+  "media": []
+}

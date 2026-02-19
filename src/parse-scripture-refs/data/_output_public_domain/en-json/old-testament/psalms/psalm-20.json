@@ -1,0 +1,119 @@
+{
+  "name": "Psalm 20", 
+  "abbrev": "Ps. 20", 
+  "number": "20", 
+  "churchUri": "/scriptures/ot/ps/20", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 20", 
+      "contentHtml": "Psalm 20", 
+      "number": null, 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician, A Psalm of David.", 
+      "contentHtml": "To the chief Musician, A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The LORD hear thee in the day of trouble; the name of the God of Jacob defend thee;", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> hear thee in the day of trouble; the name of the God of Jacob defend thee;", 
+      "number": "1", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Send thee help from the sanctuary, and strengthen thee out of Zion;", 
+      "contentHtml": "Send thee help from the sanctuary, and strengthen thee out of Zion;", 
+      "number": "2", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.", 
+      "contentHtml": "Remember all thy offerings, and accept thy burnt sacrifice; Selah.", 
+      "number": "3", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Grant thee according to thine own heart, and fulfil all thy counsel.", 
+      "contentHtml": "Grant thee according to thine own heart, and fulfil all thy counsel.", 
+      "number": "4", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "We will rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.", 
+      "contentHtml": "We will rejoice in thy salvation, and in the name of our God we will set up <span class=\"clarity-word\">our</span> banners: the <span class=\"small-caps\">Lord</span> fulfil all thy petitions.", 
+      "number": "5", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Now know I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.", 
+      "contentHtml": "Now know I that the <span class=\"small-caps\">Lord</span> saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.", 
+      "number": "6", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Some trust in chariots, and some in horses: but we will remember the name of the LORD our God.", 
+      "contentHtml": "Some <span class=\"clarity-word\">trust</span> in chariots, and some in horses: but we will remember the name of the <span class=\"small-caps\">Lord</span> our God.", 
+      "number": "7", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "They are brought down and fallen: but we are risen, and stand upright.", 
+      "contentHtml": "They are brought down and fallen: but we are risen, and stand upright.", 
+      "number": "8", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Save, LORD: let the king hear us when we call.", 
+      "contentHtml": "Save, <span class=\"small-caps\">Lord</span>: let the king hear us when we call.", 
+      "number": "9", 
+      "pageNumber": "725", 
+      "compareId": "psalm-20_v9", 
+      "churchId": "p9"
+    }
+  ], 
+  "media": []
+}

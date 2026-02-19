@@ -1,0 +1,179 @@
+{
+  "name": "Hebrews 4", 
+  "abbrev": "Heb. 4", 
+  "number": "4", 
+  "churchUri": "/scriptures/nt/heb/4", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 4", 
+      "contentHtml": "Chapter 4", 
+      "number": null, 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Let us therefore fear, lest, a promise being left us of entering into his rest, any of you should seem to come short of it.", 
+      "contentHtml": "Let us therefore fear, lest, a promise being left <span class=\"clarity-word\">us</span> of entering into his rest, any of you should seem to come short of it.", 
+      "number": "1", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.", 
+      "contentHtml": "For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard <span class=\"clarity-word\">it.</span>", 
+      "number": "2", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.", 
+      "contentHtml": "For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.", 
+      "number": "3", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For he spake in a certain place of the seventh day on this wise, And God did rest the seventh day from all his works.", 
+      "contentHtml": "For he spake in a certain place of the seventh <span class=\"clarity-word\">day</span> on this wise, And God did rest the seventh day from all his works.", 
+      "number": "4", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And in this place again, If they shall enter into my rest.", 
+      "contentHtml": "And in this <span class=\"clarity-word\">place</span> again, If they shall enter into my rest.", 
+      "number": "5", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:", 
+      "contentHtml": "Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:", 
+      "number": "6", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.", 
+      "contentHtml": "Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.", 
+      "number": "7", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "For if Jesus had given them rest, then would he not afterward have spoken of another day.", 
+      "contentHtml": "For if Jesus had given them rest, then would he not afterward have spoken of another day.", 
+      "number": "8", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "There remaineth therefore a rest to the people of God.", 
+      "contentHtml": "There remaineth therefore a rest to the people of God.", 
+      "number": "9", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For he that is entered into his rest, he also hath ceased from his own works, as God did from his.", 
+      "contentHtml": "For he that is entered into his rest, he also hath ceased from his own works, as God <span class=\"clarity-word\">did</span> from his.", 
+      "number": "10", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.", 
+      "contentHtml": "Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.", 
+      "number": "11", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.", 
+      "contentHtml": "For the word of God <span class=\"clarity-word\">is</span> quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and <span class=\"clarity-word\">is</span> a discerner of the thoughts and intents of the heart.", 
+      "number": "12", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Neither is there any creature that is not manifest in his sight: but all things are naked and opened unto the eyes of him with whom we have to do.", 
+      "contentHtml": "Neither is there any creature that is not manifest in his sight: but all things <span class=\"clarity-word\">are</span> naked and opened unto the eyes of him with whom we have to do.", 
+      "number": "13", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast our profession.", 
+      "contentHtml": "Seeing then that we have a great high priest, that is passed into the heavens, Jesus the Son of God, let us hold fast <span class=\"clarity-word\">our</span> profession.", 
+      "number": "14", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.", 
+      "contentHtml": "For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as <span class=\"clarity-word\">we are, yet</span> without sin.", 
+      "number": "15", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.", 
+      "contentHtml": "Let us therefore come boldly unto the throne of grace, that we may obtain mercy, and find grace to help in time of need.", 
+      "number": "16", 
+      "pageNumber": "1524", 
+      "compareId": "hebrews-4_v16", 
+      "churchId": "p16"
+    }
+  ], 
+  "media": []
+}

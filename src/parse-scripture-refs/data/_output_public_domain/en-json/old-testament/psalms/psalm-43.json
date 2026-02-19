@@ -1,0 +1,69 @@
+{
+  "name": "Psalm 43", 
+  "abbrev": "Ps. 43", 
+  "number": "43", 
+  "churchUri": "/scriptures/ot/ps/43", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 43", 
+      "contentHtml": "Psalm 43", 
+      "number": null, 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.", 
+      "contentHtml": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.", 
+      "number": "1", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?", 
+      "contentHtml": "For thou <span class=\"clarity-word\">art</span> the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?", 
+      "number": "2", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.", 
+      "contentHtml": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles.", 
+      "number": "3", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.", 
+      "contentHtml": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God.", 
+      "number": "4", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.", 
+      "contentHtml": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, <span class=\"clarity-word\">who is</span> the health of my countenance, and my God.", 
+      "number": "5", 
+      "pageNumber": "741", 
+      "compareId": "psalm-43_v5", 
+      "churchId": "p5"
+    }
+  ], 
+  "media": []
+}

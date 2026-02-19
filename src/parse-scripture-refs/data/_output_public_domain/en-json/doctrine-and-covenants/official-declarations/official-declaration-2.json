@@ -1,0 +1,19 @@
+{
+  "name": "Official Declaration 2", 
+  "abbrev": "OD 2", 
+  "number": "2", 
+  "churchUri": "/scriptures/dc-testament/od/2", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Official Declaration 2", 
+      "contentHtml": "Official Declaration 2", 
+      "number": null, 
+      "pageNumber": "294", 
+      "compareId": "official-declaration-2_ct1", 
+      "churchId": "title_number1"
+    }
+  ], 
+  "media": []
+}

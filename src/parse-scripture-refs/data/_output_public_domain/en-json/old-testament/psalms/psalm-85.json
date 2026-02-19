@@ -1,0 +1,159 @@
+{
+  "name": "Psalm 85", 
+  "abbrev": "Ps. 85", 
+  "number": "85", 
+  "churchUri": "/scriptures/ot/ps/85", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 85", 
+      "contentHtml": "Psalm 85", 
+      "number": null, 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician, A Psalm for the sons of Korah.", 
+      "contentHtml": "To the chief Musician, A Psalm for the sons of Korah.", 
+      "number": null, 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "LORD, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.", 
+      "contentHtml": "<span class=\"small-caps\">Lord</span>, thou hast been favourable unto thy land: thou hast brought back the captivity of Jacob.", 
+      "number": "1", 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.", 
+      "contentHtml": "Thou hast forgiven the iniquity of thy people, thou hast covered all their sin. Selah.", 
+      "number": "2", 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Thou hast taken away all thy wrath: thou hast turned thyself from the fierceness of thine anger.", 
+      "contentHtml": "Thou hast taken away all thy wrath: thou hast turned <span class=\"clarity-word\">thyself</span> from the fierceness of thine anger.", 
+      "number": "3", 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Turn us, O God of our salvation, and cause thine anger toward us to cease.", 
+      "contentHtml": "Turn us, O God of our salvation, and cause thine anger toward us to cease.", 
+      "number": "4", 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?", 
+      "contentHtml": "Wilt thou be angry with us for ever? wilt thou draw out thine anger to all generations?", 
+      "number": "5", 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Wilt thou not revive us again: that thy people may rejoice in thee?", 
+      "contentHtml": "Wilt thou not revive us again: that thy people may rejoice in thee?", 
+      "number": "6", 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Shew us thy mercy, O LORD, and grant us thy salvation.", 
+      "contentHtml": "Shew us thy mercy, O <span class=\"small-caps\">Lord</span>, and grant us thy salvation.", 
+      "number": "7", 
+      "pageNumber": "769", 
+      "compareId": "psalm-85_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "I will hear what God the LORD will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.", 
+      "contentHtml": "I will hear what God the <span class=\"small-caps\">Lord</span> will speak: for he will speak peace unto his people, and to his saints: but let them not turn again to folly.", 
+      "number": "8", 
+      "pageNumber": "770", 
+      "compareId": "psalm-85_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Surely his salvation is nigh them that fear him; that glory may dwell in our land.", 
+      "contentHtml": "Surely his salvation <span class=\"clarity-word\">is</span> nigh them that fear him; that glory may dwell in our land.", 
+      "number": "9", 
+      "pageNumber": "770", 
+      "compareId": "psalm-85_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Mercy and truth are met together; righteousness and peace have kissed each other.", 
+      "contentHtml": "Mercy and truth are met together; righteousness and peace have kissed <span class=\"clarity-word\">each other.</span>", 
+      "number": "10", 
+      "pageNumber": "770", 
+      "compareId": "psalm-85_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Truth shall spring out of the earth; and righteousness shall look down from heaven.", 
+      "contentHtml": "Truth shall spring out of the earth; and righteousness shall look down from heaven.", 
+      "number": "11", 
+      "pageNumber": "770", 
+      "compareId": "psalm-85_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Yea, the LORD shall give that which is good; and our land shall yield her increase.", 
+      "contentHtml": "Yea, the <span class=\"small-caps\">Lord</span> shall give <span class=\"clarity-word\">that which is</span> good; and our land shall yield her increase.", 
+      "number": "12", 
+      "pageNumber": "770", 
+      "compareId": "psalm-85_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Righteousness shall go before him; and shall set us in the way of his steps.", 
+      "contentHtml": "Righteousness shall go before him; and shall set <span class=\"clarity-word\">us</span> in the way of his steps.", 
+      "number": "13", 
+      "pageNumber": "770", 
+      "compareId": "psalm-85_v13", 
+      "churchId": "p13"
+    }
+  ], 
+  "media": []
+}

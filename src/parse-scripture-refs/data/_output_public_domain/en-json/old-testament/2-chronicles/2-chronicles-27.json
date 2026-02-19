@@ -1,0 +1,109 @@
+{
+  "name": "2 Chronicles 27", 
+  "abbrev": "2 Chr. 27", 
+  "number": "27", 
+  "churchUri": "/scriptures/ot/2-chr/27", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 27", 
+      "contentHtml": "Chapter 27", 
+      "number": null, 
+      "pageNumber": "618", 
+      "compareId": "2-chronicles-27_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also was Jerushah, the daughter of Zadok.", 
+      "contentHtml": "Jotham <span class=\"clarity-word\">was</span> twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also <span class=\"clarity-word\">was</span> Jerushah, the daughter of Zadok.", 
+      "number": "1", 
+      "pageNumber": "618", 
+      "compareId": "2-chronicles-27_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly.", 
+      "contentHtml": "And he did <span class=\"clarity-word\">that which was</span> right in the sight of the <span class=\"small-caps\">Lord</span>, according to all that his father Uzziah did: howbeit he entered not into the temple of the <span class=\"small-caps\">Lord</span>. And the people did yet corruptly.", 
+      "number": "2", 
+      "pageNumber": "618", 
+      "compareId": "2-chronicles-27_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "He built the high gate of the house of the LORD, and on the wall of Ophel he built much.", 
+      "contentHtml": "He built the high gate of the house of the <span class=\"small-caps\">Lord</span>, and on the wall of Ophel he built much.", 
+      "number": "3", 
+      "pageNumber": "618", 
+      "compareId": "2-chronicles-27_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.", 
+      "contentHtml": "Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers.", 
+      "number": "4", 
+      "pageNumber": "618", 
+      "compareId": "2-chronicles-27_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "¶ He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third.", 
+      "contentHtml": "¶ He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third.", 
+      "number": "5", 
+      "pageNumber": "618", 
+      "compareId": "2-chronicles-27_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "So Jotham became mighty, because he prepared his ways before the LORD his God.", 
+      "contentHtml": "So Jotham became mighty, because he prepared his ways before the <span class=\"small-caps\">Lord</span> his God.", 
+      "number": "6", 
+      "pageNumber": "618", 
+      "compareId": "2-chronicles-27_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "¶ Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah.", 
+      "contentHtml": "¶ Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they <span class=\"clarity-word\">are</span> written in the book of the kings of Israel and Judah.", 
+      "number": "7", 
+      "pageNumber": "619", 
+      "compareId": "2-chronicles-27_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.", 
+      "contentHtml": "He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.", 
+      "number": "8", 
+      "pageNumber": "619", 
+      "compareId": "2-chronicles-27_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "¶ And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.", 
+      "contentHtml": "¶ And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.", 
+      "number": "9", 
+      "pageNumber": "619", 
+      "compareId": "2-chronicles-27_v9", 
+      "churchId": "p9"
+    }
+  ], 
+  "media": []
+}

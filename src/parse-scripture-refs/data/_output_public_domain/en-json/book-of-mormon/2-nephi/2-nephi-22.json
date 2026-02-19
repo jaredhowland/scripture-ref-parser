@@ -1,0 +1,79 @@
+{
+  "name": "2 Nephi 22", 
+  "abbrev": "2 Ne. 22", 
+  "number": "22", 
+  "churchUri": "/scriptures/bofm/2-ne/22", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 22", 
+      "contentHtml": "Chapter 22", 
+      "number": null, 
+      "pageNumber": "93", 
+      "compareId": "2-nephi-22_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.", 
+      "contentHtml": "And in that day thou shalt say: O Lord, I will praise thee; though thou wast angry with me thine anger is turned away, and thou comfortedst me.", 
+      "number": "1", 
+      "pageNumber": "93", 
+      "compareId": "2-nephi-22_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Behold, God is my salvation; I will trust, and not be afraid; for the Lord JEHOVAH is my strength and my song; he also has become my salvation.", 
+      "contentHtml": "Behold, God is my salvation; I will trust, and not be afraid; for the Lord <span class=\"small-caps\">Jehovah</span> is my strength and my song; he also has become my salvation.", 
+      "number": "2", 
+      "pageNumber": "93", 
+      "compareId": "2-nephi-22_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Therefore, with joy shall ye draw water out of the wells of salvation.", 
+      "contentHtml": "Therefore, with joy shall ye draw water out of the wells of salvation.", 
+      "number": "3", 
+      "pageNumber": "93", 
+      "compareId": "2-nephi-22_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.", 
+      "contentHtml": "And in that day shall ye say: Praise the Lord, call upon his name, declare his doings among the people, make mention that his name is exalted.", 
+      "number": "4", 
+      "pageNumber": "93", 
+      "compareId": "2-nephi-22_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.", 
+      "contentHtml": "Sing unto the Lord; for he hath done excellent things; this is known in all the earth.", 
+      "number": "5", 
+      "pageNumber": "93", 
+      "compareId": "2-nephi-22_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.", 
+      "contentHtml": "Cry out and shout, thou inhabitant of Zion; for great is the Holy One of Israel in the midst of thee.", 
+      "number": "6", 
+      "pageNumber": "93", 
+      "compareId": "2-nephi-22_v6", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,369 @@
+{
+  "name": "Mark 3", 
+  "abbrev": "Mark 3", 
+  "number": "3", 
+  "churchUri": "/scriptures/nt/mark/3", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 3", 
+      "contentHtml": "Chapter 3", 
+      "number": null, 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And he entered again into the synagogue; and there was a man there which had a withered hand.", 
+      "contentHtml": "And he entered again into the synagogue; and there was a man there which had a withered hand.", 
+      "number": "1", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.", 
+      "contentHtml": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him.", 
+      "number": "2", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And he saith unto the man which had the withered hand, Stand forth.", 
+      "contentHtml": "And he saith unto the man which had the withered hand, Stand forth.", 
+      "number": "3", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.", 
+      "contentHtml": "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace.", 
+      "number": "4", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other.", 
+      "contentHtml": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched <span class=\"clarity-word\">it</span> out: and his hand was restored whole as the other.", 
+      "number": "5", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.", 
+      "contentHtml": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him.", 
+      "number": "6", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judæa,", 
+      "contentHtml": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judæa,", 
+      "number": "7", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And from Jerusalem, and from Idumæa, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.", 
+      "contentHtml": "And from Jerusalem, and from Idumæa, and <span class=\"clarity-word\">from</span> beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him.", 
+      "number": "8", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.", 
+      "contentHtml": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him.", 
+      "number": "9", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.", 
+      "contentHtml": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues.", 
+      "number": "10", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.", 
+      "contentHtml": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God.", 
+      "number": "11", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And he straitly charged them that they should not make him known.", 
+      "contentHtml": "And he straitly charged them that they should not make him known.", 
+      "number": "12", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him.", 
+      "contentHtml": "And he goeth up into a mountain, and calleth <span class=\"clarity-word\">unto him</span> whom he would: and they came unto him.", 
+      "number": "13", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,", 
+      "contentHtml": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,", 
+      "number": "14", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And to have power to heal sicknesses, and to cast out devils:", 
+      "contentHtml": "And to have power to heal sicknesses, and to cast out devils:", 
+      "number": "15", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And Simon he surnamed Peter;", 
+      "contentHtml": "And Simon he surnamed Peter;", 
+      "number": "16", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:", 
+      "contentHtml": "And James the <span class=\"clarity-word\">son</span> of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:", 
+      "number": "17", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphæus, and Thaddæus, and Simon the Canaanite,", 
+      "contentHtml": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the <span class=\"clarity-word\">son</span> of Alphæus, and Thaddæus, and Simon the Canaanite,", 
+      "number": "18", 
+      "pageNumber": "1245", 
+      "compareId": "mark-3_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And Judas Iscariot, which also betrayed him: and they went into an house.", 
+      "contentHtml": "And Judas Iscariot, which also betrayed him: and they went into an house.", 
+      "number": "19", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And the multitude cometh together again, so that they could not so much as eat bread.", 
+      "contentHtml": "And the multitude cometh together again, so that they could not so much as eat bread.", 
+      "number": "20", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself.", 
+      "contentHtml": "And when his friends heard <span class=\"clarity-word\">of it,</span> they went out to lay hold on him: for they said, He is beside himself.", 
+      "number": "21", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "¶ And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.", 
+      "contentHtml": "¶ And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.", 
+      "number": "22", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?", 
+      "contentHtml": "And he called them <span class=\"clarity-word\">unto him,</span> and said unto them in parables, How can Satan cast out Satan?", 
+      "number": "23", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And if a kingdom be divided against itself, that kingdom cannot stand.", 
+      "contentHtml": "And if a kingdom be divided against itself, that kingdom cannot stand.", 
+      "number": "24", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And if a house be divided against itself, that house cannot stand.", 
+      "contentHtml": "And if a house be divided against itself, that house cannot stand.", 
+      "number": "25", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.", 
+      "contentHtml": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end.", 
+      "number": "26", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.", 
+      "contentHtml": "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house.", 
+      "number": "27", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:", 
+      "contentHtml": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:", 
+      "number": "28", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:", 
+      "contentHtml": "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:", 
+      "number": "29", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "Because they said, He hath an unclean spirit.", 
+      "contentHtml": "Because they said, He hath an unclean spirit.", 
+      "number": "30", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "¶ There came then his brethren and his mother, and, standing without, sent unto him, calling him.", 
+      "contentHtml": "¶ There came then his brethren and his mother, and, standing without, sent unto him, calling him.", 
+      "number": "31", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.", 
+      "contentHtml": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee.", 
+      "number": "32", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "And he answered them, saying, Who is my mother, or my brethren?", 
+      "contentHtml": "And he answered them, saying, Who is my mother, or my brethren?", 
+      "number": "33", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!", 
+      "contentHtml": "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!", 
+      "number": "34", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother.", 
+      "contentHtml": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother.", 
+      "number": "35", 
+      "pageNumber": "1246", 
+      "compareId": "mark-3_v35", 
+      "churchId": "p35"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,99 @@
+{
+  "name": "Doctrine and Covenants 131", 
+  "abbrev": "D&C 131", 
+  "number": "131", 
+  "churchUri": "/scriptures/dc-testament/dc/131", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 131", 
+      "contentHtml": "Section 131", 
+      "number": null, 
+      "pageNumber": "265", 
+      "compareId": "section-131_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "In the celestial glory there are three heavens or degrees;", 
+      "contentHtml": "In the celestial glory there are three heavens or degrees;", 
+      "number": "1", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage];", 
+      "contentHtml": "And in order to obtain the highest, a man must enter into this order of the priesthood [meaning the new and everlasting covenant of marriage];", 
+      "number": "2", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And if he does not, he cannot obtain it.", 
+      "contentHtml": "And if he does not, he cannot obtain it.", 
+      "number": "3", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "He may enter into the other, but that is the end of his kingdom; he cannot have an increase.", 
+      "contentHtml": "He may enter into the other, but that is the end of his kingdom; he cannot have an increase.", 
+      "number": "4", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "(May 17th, 1843.) The more sure word of prophecy means a man’s knowing that he is sealed up unto eternal life, by revelation and the spirit of prophecy, through the power of the Holy Priesthood.", 
+      "contentHtml": "(May 17th, 1843.) The more sure word of prophecy means a man’s knowing that he is sealed up unto eternal life, by revelation and the spirit of prophecy, through the power of the Holy Priesthood.", 
+      "number": "5", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "It is impossible for a man to be saved in ignorance.", 
+      "contentHtml": "It is impossible for a man to be saved in ignorance.", 
+      "number": "6", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "There is no such thing as immaterial matter. All spirit is matter, but it is more fine or pure, and can only be discerned by purer eyes;", 
+      "contentHtml": "There is no such thing as immaterial matter. All spirit is matter, but it is more fine or pure, and can only be discerned by purer eyes;", 
+      "number": "7", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "We cannot see it; but when our bodies are purified we shall see that it is all matter.", 
+      "contentHtml": "We cannot see it; but when our bodies are purified we shall see that it is all matter.", 
+      "number": "8", 
+      "pageNumber": "266", 
+      "compareId": "section-131_v8", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": []
+}

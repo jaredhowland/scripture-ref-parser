@@ -1,0 +1,329 @@
+{
+  "name": "1 Chronicles 24", 
+  "abbrev": "1 Chr. 24", 
+  "number": "24", 
+  "churchUri": "/scriptures/ot/1-chr/24", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 24", 
+      "contentHtml": "Chapter 24", 
+      "number": null, 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.", 
+      "contentHtml": "Now <span class=\"clarity-word\">these are</span> the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.", 
+      "number": "1", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.", 
+      "contentHtml": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office.", 
+      "number": "2", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service.", 
+      "contentHtml": "And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service.", 
+      "number": "3", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and thus were they divided. Among the sons of Eleazar there were sixteen chief men of the house of their fathers, and eight among the sons of Ithamar according to the house of their fathers.", 
+      "contentHtml": "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and <span class=\"clarity-word\">thus</span> were they divided. Among the sons of Eleazar <span class=\"clarity-word\">there were</span> sixteen chief men of the house of <span class=\"clarity-word\">their</span> fathers, and eight among the sons of Ithamar according to the house of their fathers.", 
+      "number": "4", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors of the house of God, were of the sons of Eleazar, and of the sons of Ithamar.", 
+      "contentHtml": "Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors <span class=\"clarity-word\">of the house</span> of God, were of the sons of Eleazar, and of the sons of Ithamar.", 
+      "number": "5", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.", 
+      "contentHtml": "And Shemaiah the son of Nethaneel the scribe, <span class=\"clarity-word\">one</span> of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and <span class=\"clarity-word\">before</span> the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and <span class=\"clarity-word\">one</span> taken for Ithamar.", 
+      "number": "6", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Now the first lot came forth to Jehoiarib, the second to Jedaiah,", 
+      "contentHtml": "Now the first lot came forth to Jehoiarib, the second to Jedaiah,", 
+      "number": "7", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "The third to Harim, the fourth to Seorim,", 
+      "contentHtml": "The third to Harim, the fourth to Seorim,", 
+      "number": "8", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "The fifth to Malchijah, the sixth to Mijamin,", 
+      "contentHtml": "The fifth to Malchijah, the sixth to Mijamin,", 
+      "number": "9", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "The seventh to Hakkoz, the eighth to Abijah,", 
+      "contentHtml": "The seventh to Hakkoz, the eighth to Abijah,", 
+      "number": "10", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "The ninth to Jeshua, the tenth to Shecaniah,", 
+      "contentHtml": "The ninth to Jeshua, the tenth to Shecaniah,", 
+      "number": "11", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "The eleventh to Eliashib, the twelfth to Jakim,", 
+      "contentHtml": "The eleventh to Eliashib, the twelfth to Jakim,", 
+      "number": "12", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "The thirteenth to Huppah, the fourteenth to Jeshebeab,", 
+      "contentHtml": "The thirteenth to Huppah, the fourteenth to Jeshebeab,", 
+      "number": "13", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "The fifteenth to Bilgah, the sixteenth to Immer,", 
+      "contentHtml": "The fifteenth to Bilgah, the sixteenth to Immer,", 
+      "number": "14", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "The seventeenth to Hezir, the eighteenth to Aphses,", 
+      "contentHtml": "The seventeenth to Hezir, the eighteenth to Aphses,", 
+      "number": "15", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "The nineteenth to Pethahiah, the twentieth to Jehezekel,", 
+      "contentHtml": "The nineteenth to Pethahiah, the twentieth to Jehezekel,", 
+      "number": "16", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "The one and twentieth to Jachin, the two and twentieth to Gamul,", 
+      "contentHtml": "The one and twentieth to Jachin, the two and twentieth to Gamul,", 
+      "number": "17", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "The three and twentieth to Delaiah, the four and twentieth to Maaziah.", 
+      "contentHtml": "The three and twentieth to Delaiah, the four and twentieth to Maaziah.", 
+      "number": "18", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him.", 
+      "contentHtml": "These <span class=\"clarity-word\">were</span> the orderings of them in their service to come into the house of the <span class=\"small-caps\">Lord</span>, according to their manner, under Aaron their father, as the <span class=\"small-caps\">Lord</span> God of Israel had commanded him.", 
+      "number": "19", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "¶ And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.", 
+      "contentHtml": "¶ And the rest of the sons of Levi <span class=\"clarity-word\">were these:</span> Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.", 
+      "number": "20", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Concerning Rehabiah: of the sons of Rehabiah, the first was Isshiah.", 
+      "contentHtml": "Concerning Rehabiah: of the sons of Rehabiah, the first <span class=\"clarity-word\">was</span> Isshiah.", 
+      "number": "21", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.", 
+      "contentHtml": "Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.", 
+      "number": "22", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth.", 
+      "contentHtml": "And the sons <span class=\"clarity-word\">of </span><span class=\"clarity-word\">Hebron</span><span class=\"clarity-word\">;</span> Jeriah <span class=\"clarity-word\">the first,</span> Amariah the second, Jahaziel the third, Jekameam the fourth.", 
+      "number": "23", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Of the sons of Uzziel; Michah: of the sons of Michah; Shamir.", 
+      "contentHtml": "<span class=\"clarity-word\">Of</span> the sons of Uzziel; Michah: of the sons of Michah; Shamir.", 
+      "number": "24", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah.", 
+      "contentHtml": "The brother of Michah <span class=\"clarity-word\">was</span> Isshiah: of the sons of Isshiah; Zechariah.", 
+      "number": "25", 
+      "pageNumber": "579", 
+      "compareId": "1-chronicles-24_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno.", 
+      "contentHtml": "The sons of Merari <span class=\"clarity-word\">were</span> Mahli and Mushi: the sons of Jaaziah; Beno.", 
+      "number": "26", 
+      "pageNumber": "579,580", 
+      "compareId": "1-chronicles-24_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "¶ The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri.", 
+      "contentHtml": "¶ The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri.", 
+      "number": "27", 
+      "pageNumber": "580", 
+      "compareId": "1-chronicles-24_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Of Mahli came Eleazar, who had no sons.", 
+      "contentHtml": "Of Mahli <span class=\"clarity-word\">came</span> Eleazar, who had no sons.", 
+      "number": "28", 
+      "pageNumber": "580", 
+      "compareId": "1-chronicles-24_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "Concerning Kish: the son of Kish was Jerahmeel.", 
+      "contentHtml": "Concerning Kish: the son of Kish <span class=\"clarity-word\">was</span> Jerahmeel.", 
+      "number": "29", 
+      "pageNumber": "580", 
+      "compareId": "1-chronicles-24_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers.", 
+      "contentHtml": "The sons also of Mushi; Mahli, and Eder, and Jerimoth. These <span class=\"clarity-word\">were</span> the sons of the Levites after the house of their fathers.", 
+      "number": "30", 
+      "pageNumber": "580", 
+      "compareId": "1-chronicles-24_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.", 
+      "contentHtml": "These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.", 
+      "number": "31", 
+      "pageNumber": "580", 
+      "compareId": "1-chronicles-24_v31", 
+      "churchId": "p31"
+    }
+  ], 
+  "media": []
+}

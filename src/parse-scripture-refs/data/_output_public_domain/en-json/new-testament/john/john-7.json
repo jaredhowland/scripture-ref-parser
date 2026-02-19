@@ -1,0 +1,549 @@
+{
+  "name": "John 7", 
+  "abbrev": "John 7", 
+  "number": "7", 
+  "churchUri": "/scriptures/nt/john/7", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 7", 
+      "contentHtml": "Chapter 7", 
+      "number": null, 
+      "pageNumber": "1337", 
+      "compareId": "john-7_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.", 
+      "contentHtml": "After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.", 
+      "number": "1", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Now the Jews’ feast of tabernacles was at hand.", 
+      "contentHtml": "Now the Jews’ feast of tabernacles was at hand.", 
+      "number": "2", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "His brethren therefore said unto him, Depart hence, and go into Judæa, that thy disciples also may see the works that thou doest.", 
+      "contentHtml": "His brethren therefore said unto him, Depart hence, and go into Judæa, that thy disciples also may see the works that thou doest.", 
+      "number": "3", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.", 
+      "contentHtml": "For <span class=\"clarity-word\">there is</span> no man <span class=\"clarity-word\">that</span> doeth any thing in secret, and he himself seeketh to be known openly. If thou do these things, shew thyself to the world.", 
+      "number": "4", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For neither did his brethren believe in him.", 
+      "contentHtml": "For neither did his brethren believe in him.", 
+      "number": "5", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Then Jesus said unto them, My time is not yet come: but your time is alway ready.", 
+      "contentHtml": "Then Jesus said unto them, My time is not yet come: but your time is alway ready.", 
+      "number": "6", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.", 
+      "contentHtml": "The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.", 
+      "number": "7", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.", 
+      "contentHtml": "Go ye up unto this feast: I go not up yet unto this feast; for my time is not yet full come.", 
+      "number": "8", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "When he had said these words unto them, he abode still in Galilee.", 
+      "contentHtml": "When he had said these words unto them, he abode <span class=\"clarity-word\">still</span> in Galilee.", 
+      "number": "9", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "¶ But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.", 
+      "contentHtml": "¶ But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.", 
+      "number": "10", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Then the Jews sought him at the feast, and said, Where is he?", 
+      "contentHtml": "Then the Jews sought him at the feast, and said, Where is he?", 
+      "number": "11", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.", 
+      "contentHtml": "And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.", 
+      "number": "12", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Howbeit no man spake openly of him for fear of the Jews.", 
+      "contentHtml": "Howbeit no man spake openly of him for fear of the Jews.", 
+      "number": "13", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "¶ Now about the midst of the feast Jesus went up into the temple, and taught.", 
+      "contentHtml": "¶ Now about the midst of the feast Jesus went up into the temple, and taught.", 
+      "number": "14", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And the Jews marvelled, saying, How knoweth this man letters, having never learned?", 
+      "contentHtml": "And the Jews marvelled, saying, How knoweth this man letters, having never learned?", 
+      "number": "15", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Jesus answered them, and said, My doctrine is not mine, but his that sent me.", 
+      "contentHtml": "Jesus answered them, and said, My doctrine is not mine, but his that sent me.", 
+      "number": "16", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "If any man will do his will, he shall know of the doctrine, whether it be of God, or whether I speak of myself.", 
+      "contentHtml": "If any man will do his will, he shall know of the doctrine, whether it be of God, or <span class=\"clarity-word\">whether</span> I speak of myself.", 
+      "number": "17", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.", 
+      "contentHtml": "He that speaketh of himself seeketh his own glory: but he that seeketh his glory that sent him, the same is true, and no unrighteousness is in him.", 
+      "number": "18", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Did not Moses give you the law, and yet none of you keepeth the law? Why go ye about to kill me?", 
+      "contentHtml": "Did not Moses give you the law, and <span class=\"clarity-word\">yet</span> none of you keepeth the law? Why go ye about to kill me?", 
+      "number": "19", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "The people answered and said, Thou hast a devil: who goeth about to kill thee?", 
+      "contentHtml": "The people answered and said, Thou hast a devil: who goeth about to kill thee?", 
+      "number": "20", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Jesus answered and said unto them, I have done one work, and ye all marvel.", 
+      "contentHtml": "Jesus answered and said unto them, I have done one work, and ye all marvel.", 
+      "number": "21", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.", 
+      "contentHtml": "Moses therefore gave unto you circumcision; (not because it is of Moses, but of the fathers;) and ye on the sabbath day circumcise a man.", 
+      "number": "22", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?", 
+      "contentHtml": "If a man on the sabbath day receive circumcision, that the law of Moses should not be broken; are ye angry at me, because I have made a man every whit whole on the sabbath day?", 
+      "number": "23", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Judge not according to the appearance, but judge righteous judgment.", 
+      "contentHtml": "Judge not according to the appearance, but judge righteous judgment.", 
+      "number": "24", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?", 
+      "contentHtml": "Then said some of them of Jerusalem, Is not this he, whom they seek to kill?", 
+      "number": "25", 
+      "pageNumber": "1337", 
+      "compareId": "john-7_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?", 
+      "contentHtml": "But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?", 
+      "number": "26", 
+      "pageNumber": "1337,1339", 
+      "compareId": "john-7_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.", 
+      "contentHtml": "Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.", 
+      "number": "27", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.", 
+      "contentHtml": "Then cried Jesus in the temple as he taught, saying, Ye both know me, and ye know whence I am: and I am not come of myself, but he that sent me is true, whom ye know not.", 
+      "number": "28", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "But I know him: for I am from him, and he hath sent me.", 
+      "contentHtml": "But I know him: for I am from him, and he hath sent me.", 
+      "number": "29", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "Then they sought to take him: but no man laid hands on him, because his hour was not yet come.", 
+      "contentHtml": "Then they sought to take him: but no man laid hands on him, because his hour was not yet come.", 
+      "number": "30", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?", 
+      "contentHtml": "And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this <span class=\"clarity-word\">man</span> hath done?", 
+      "number": "31", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "¶ The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.", 
+      "contentHtml": "¶ The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.", 
+      "number": "32", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me.", 
+      "contentHtml": "Then said Jesus unto them, Yet a little while am I with you, and <span class=\"clarity-word\">then</span> I go unto him that sent me.", 
+      "number": "33", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "Ye shall seek me, and shall not find me: and where I am, thither ye cannot come.", 
+      "contentHtml": "Ye shall seek me, and shall not find <span class=\"clarity-word\">me:</span> and where I am, <span class=\"clarity-word\">thither</span> ye cannot come.", 
+      "number": "34", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?", 
+      "contentHtml": "Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?", 
+      "number": "35", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "What manner of saying is this that he said, Ye shall seek me, and shall not find me: and where I am, thither ye cannot come?", 
+      "contentHtml": "What <span class=\"clarity-word\">manner of</span> saying is this that he said, Ye shall seek me, and shall not find <span class=\"clarity-word\">me:</span> and where I am, <span class=\"clarity-word\">thither</span> ye cannot come?", 
+      "number": "36", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.", 
+      "contentHtml": "In the last day, that great <span class=\"clarity-word\">day</span> of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.", 
+      "number": "37", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.", 
+      "contentHtml": "He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.", 
+      "number": "38", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified.)", 
+      "contentHtml": "(But this spake he of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet <span class=\"clarity-word\">given;</span> because that Jesus was not yet glorified.)", 
+      "number": "39", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "¶ Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.", 
+      "contentHtml": "¶ Many of the people therefore, when they heard this saying, said, Of a truth this is the Prophet.", 
+      "number": "40", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?", 
+      "contentHtml": "Others said, This is the Christ. But some said, Shall Christ come out of Galilee?", 
+      "number": "41", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?", 
+      "contentHtml": "Hath not the scripture said, That Christ cometh of the seed of David, and out of the town of Bethlehem, where David was?", 
+      "number": "42", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "So there was a division among the people because of him.", 
+      "contentHtml": "So there was a division among the people because of him.", 
+      "number": "43", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v43", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v44", 
+      "content": "And some of them would have taken him; but no man laid hands on him.", 
+      "contentHtml": "And some of them would have taken him; but no man laid hands on him.", 
+      "number": "44", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v44", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v45", 
+      "content": "¶ Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?", 
+      "contentHtml": "¶ Then came the officers to the chief priests and Pharisees; and they said unto them, Why have ye not brought him?", 
+      "number": "45", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v45", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v46", 
+      "content": "The officers answered, Never man spake like this man.", 
+      "contentHtml": "The officers answered, Never man spake like this man.", 
+      "number": "46", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v46", 
+      "churchId": "p46"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v47", 
+      "content": "Then answered them the Pharisees, Are ye also deceived?", 
+      "contentHtml": "Then answered them the Pharisees, Are ye also deceived?", 
+      "number": "47", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v47", 
+      "churchId": "p47"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v48", 
+      "content": "Have any of the rulers or of the Pharisees believed on him?", 
+      "contentHtml": "Have any of the rulers or of the Pharisees believed on him?", 
+      "number": "48", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v48", 
+      "churchId": "p48"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v49", 
+      "content": "But this people who knoweth not the law are cursed.", 
+      "contentHtml": "But this people who knoweth not the law are cursed.", 
+      "number": "49", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v49", 
+      "churchId": "p49"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v50", 
+      "content": "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)", 
+      "contentHtml": "Nicodemus saith unto them, (he that came to Jesus by night, being one of them,)", 
+      "number": "50", 
+      "pageNumber": "1339", 
+      "compareId": "john-7_v50", 
+      "churchId": "p50"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v51", 
+      "content": "Doth our law judge any man, before it hear him, and know what he doeth?", 
+      "contentHtml": "Doth our law judge <span class=\"clarity-word\">any</span> man, before it hear him, and know what he doeth?", 
+      "number": "51", 
+      "pageNumber": "1339,1340", 
+      "compareId": "john-7_v51", 
+      "churchId": "p51"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v52", 
+      "content": "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.", 
+      "contentHtml": "They answered and said unto him, Art thou also of Galilee? Search, and look: for out of Galilee ariseth no prophet.", 
+      "number": "52", 
+      "pageNumber": "1340", 
+      "compareId": "john-7_v52", 
+      "churchId": "p52"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v53", 
+      "content": "And every man went unto his own house.", 
+      "contentHtml": "And every man went unto his own house.", 
+      "number": "53", 
+      "pageNumber": "1340", 
+      "compareId": "john-7_v53", 
+      "churchId": "p53"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,149 @@
+{
+  "name": "Psalm 5", 
+  "abbrev": "Ps. 5", 
+  "number": "5", 
+  "churchUri": "/scriptures/ot/ps/5", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 5", 
+      "contentHtml": "Psalm 5", 
+      "number": null, 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician upon Nehiloth, A Psalm of David.", 
+      "contentHtml": "To the chief Musician upon Nehiloth, A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Give ear to my words, O LORD, consider my meditation.", 
+      "contentHtml": "Give ear to my words, O <span class=\"small-caps\">Lord</span>, consider my meditation.", 
+      "number": "1", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.", 
+      "contentHtml": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray.", 
+      "number": "2", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up.", 
+      "contentHtml": "My voice shalt thou hear in the morning, O <span class=\"small-caps\">Lord</span>; in the morning will I direct <span class=\"clarity-word\">my prayer</span> unto thee, and will look up.", 
+      "number": "3", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee.", 
+      "contentHtml": "For thou <span class=\"clarity-word\">art</span> not a God that hath pleasure in wickedness: neither shall evil dwell with thee.", 
+      "number": "4", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.", 
+      "contentHtml": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity.", 
+      "number": "5", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man.", 
+      "contentHtml": "Thou shalt destroy them that speak leasing: the <span class=\"small-caps\">Lord</span> will abhor the bloody and deceitful man.", 
+      "number": "6", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple.", 
+      "contentHtml": "But as for me, I will come <span class=\"clarity-word\">into</span> thy house in the multitude of thy mercy: <span class=\"clarity-word\">and</span> in thy fear will I worship toward thy holy temple.", 
+      "number": "7", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face.", 
+      "contentHtml": "Lead me, O <span class=\"small-caps\">Lord</span>, in thy righteousness because of mine enemies; make thy way straight before my face.", 
+      "number": "8", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.", 
+      "contentHtml": "For <span class=\"clarity-word\">there is</span> no faithfulness in their mouth; their inward part <span class=\"clarity-word\">is</span> very wickedness; their throat <span class=\"clarity-word\">is</span> an open sepulchre; they flatter with their tongue.", 
+      "number": "9", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.", 
+      "contentHtml": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.", 
+      "number": "10", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.", 
+      "contentHtml": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee.", 
+      "number": "11", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield.", 
+      "contentHtml": "For thou, <span class=\"small-caps\">Lord</span>, wilt bless the righteous; with favour wilt thou compass him as <span class=\"clarity-word\">with</span> a shield.", 
+      "number": "12", 
+      "pageNumber": "716", 
+      "compareId": "psalm-5_v12", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": []
+}

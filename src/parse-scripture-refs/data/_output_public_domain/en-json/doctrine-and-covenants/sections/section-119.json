@@ -1,0 +1,89 @@
+{
+  "name": "Doctrine and Covenants 119", 
+  "abbrev": "D&C 119", 
+  "number": "119", 
+  "churchUri": "/scriptures/dc-testament/dc/119", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 119", 
+      "contentHtml": "Section 119", 
+      "number": null, 
+      "pageNumber": "238", 
+      "compareId": "section-119_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Verily, thus saith the Lord, I require all their surplus property to be put into the hands of the bishop of my church in Zion,", 
+      "contentHtml": "Verily, thus saith the Lord, I require all their surplus property to be put into the hands of the bishop of my church in Zion,", 
+      "number": "1", 
+      "pageNumber": "238", 
+      "compareId": "section-119_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For the building of mine house, and for the laying of the foundation of Zion and for the priesthood, and for the debts of the Presidency of my Church.", 
+      "contentHtml": "For the building of mine house, and for the laying of the foundation of Zion and for the priesthood, and for the debts of the Presidency of my Church.", 
+      "number": "2", 
+      "pageNumber": "238", 
+      "compareId": "section-119_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And this shall be the beginning of the tithing of my people.", 
+      "contentHtml": "And this shall be the beginning of the tithing of my people.", 
+      "number": "3", 
+      "pageNumber": "238", 
+      "compareId": "section-119_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And after that, those who have thus been tithed shall pay one-tenth of all their interest annually; and this shall be a standing law unto them forever, for my holy priesthood, saith the Lord.", 
+      "contentHtml": "And after that, those who have thus been tithed shall pay one-tenth of all their interest annually; and this shall be a standing law unto them forever, for my holy priesthood, saith the Lord.", 
+      "number": "4", 
+      "pageNumber": "238", 
+      "compareId": "section-119_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Verily I say unto you, it shall come to pass that all those who gather unto the land of Zion shall be tithed of their surplus properties, and shall observe this law, or they shall not be found worthy to abide among you.", 
+      "contentHtml": "Verily I say unto you, it shall come to pass that all those who gather unto the land of Zion shall be tithed of their surplus properties, and shall observe this law, or they shall not be found worthy to abide among you.", 
+      "number": "5", 
+      "pageNumber": "238", 
+      "compareId": "section-119_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And I say unto you, if my people observe not this law, to keep it holy, and by this law sanctify the land of Zion unto me, that my statutes and my judgments may be kept thereon, that it may be most holy, behold, verily I say unto you, it shall not be a land of Zion unto you.", 
+      "contentHtml": "And I say unto you, if my people observe not this law, to keep it holy, and by this law sanctify the land of Zion unto me, that my statutes and my judgments may be kept thereon, that it may be most holy, behold, verily I say unto you, it shall not be a land of Zion unto you.", 
+      "number": "6", 
+      "pageNumber": "239", 
+      "compareId": "section-119_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And this shall be an ensample unto all the stakes of Zion. Even so. Amen.", 
+      "contentHtml": "And this shall be an ensample unto all the stakes of Zion. Even so. Amen.", 
+      "number": "7", 
+      "pageNumber": "239", 
+      "compareId": "section-119_v7", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": []
+}

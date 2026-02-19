@@ -1,0 +1,109 @@
+{
+  "name": "Psalm 130", 
+  "abbrev": "Ps. 130", 
+  "number": "130", 
+  "churchUri": "/scriptures/ot/ps/130", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 130", 
+      "contentHtml": "Psalm 130", 
+      "number": null, 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Song of degrees.", 
+      "contentHtml": "A Song of degrees.", 
+      "number": null, 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Out of the depths have I cried unto thee, O LORD.", 
+      "contentHtml": "Out of the depths have I cried unto thee, O <span class=\"small-caps\">Lord</span>.", 
+      "number": "1", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.", 
+      "contentHtml": "Lord, hear my voice: let thine ears be attentive to the voice of my supplications.", 
+      "number": "2", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "If thou, LORD, shouldest mark iniquities, O Lord, who shall stand?", 
+      "contentHtml": "If thou, <span class=\"small-caps\">Lord</span>, shouldest mark iniquities, O Lord, who shall stand?", 
+      "number": "3", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "But there is forgiveness with thee, that thou mayest be feared.", 
+      "contentHtml": "But <span class=\"clarity-word\">there is</span> forgiveness with thee, that thou mayest be feared.", 
+      "number": "4", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "I wait for the LORD, my soul doth wait, and in his word do I hope.", 
+      "contentHtml": "I wait for the <span class=\"small-caps\">Lord</span>, my soul doth wait, and in his word do I hope.", 
+      "number": "5", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.", 
+      "contentHtml": "My soul <span class=\"clarity-word\">waiteth</span> for the Lord more than they that watch for the morning: <span class=\"clarity-word\">I say, more than</span> they that watch for the morning.", 
+      "number": "6", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.", 
+      "contentHtml": "Let Israel hope in the <span class=\"small-caps\">Lord</span>: for with the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">there is</span> mercy, and with him <span class=\"clarity-word\">is</span> plenteous redemption.", 
+      "number": "7", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And he shall redeem Israel from all his iniquities.", 
+      "contentHtml": "And he shall redeem Israel from all his iniquities.", 
+      "number": "8", 
+      "pageNumber": "801", 
+      "compareId": "psalm-130_v8", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": []
+}

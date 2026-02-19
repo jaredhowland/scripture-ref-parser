@@ -1,0 +1,169 @@
+{
+  "name": "1 Timothy 2", 
+  "abbrev": "1 Tim. 2", 
+  "number": "2", 
+  "churchUri": "/scriptures/nt/1-tim/2", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 2", 
+      "contentHtml": "Chapter 2", 
+      "number": null, 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;", 
+      "contentHtml": "I exhort therefore, that, first of all, supplications, prayers, intercessions, <span class=\"clarity-word\">and</span> giving of thanks, be made for all men;", 
+      "number": "1", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.", 
+      "contentHtml": "For kings, and <span class=\"clarity-word\">for</span> all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.", 
+      "number": "2", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For this is good and acceptable in the sight of God our Saviour;", 
+      "contentHtml": "For this <span class=\"clarity-word\">is</span> good and acceptable in the sight of God our Saviour;", 
+      "number": "3", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Who will have all men to be saved, and to come unto the knowledge of the truth.", 
+      "contentHtml": "Who will have all men to be saved, and to come unto the knowledge of the truth.", 
+      "number": "4", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For there is one God, and one mediator between God and men, the man Christ Jesus;", 
+      "contentHtml": "For <span class=\"clarity-word\">there is</span> one God, and one mediator between God and men, the man Christ Jesus;", 
+      "number": "5", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Who gave himself a ransom for all, to be testified in due time.", 
+      "contentHtml": "Who gave himself a ransom for all, to be testified in due time.", 
+      "number": "6", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.", 
+      "contentHtml": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, <span class=\"clarity-word\">and</span> lie not;) a teacher of the Gentiles in faith and verity.", 
+      "number": "7", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.", 
+      "contentHtml": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.", 
+      "number": "8", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;", 
+      "contentHtml": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;", 
+      "number": "9", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "But (which becometh women professing godliness) with good works.", 
+      "contentHtml": "But (which becometh women professing godliness) with good works.", 
+      "number": "10", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Let the woman learn in silence with all subjection.", 
+      "contentHtml": "Let the woman learn in silence with all subjection.", 
+      "number": "11", 
+      "pageNumber": "1507", 
+      "compareId": "1-timothy-2_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.", 
+      "contentHtml": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.", 
+      "number": "12", 
+      "pageNumber": "1507,1508", 
+      "compareId": "1-timothy-2_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "For Adam was first formed, then Eve.", 
+      "contentHtml": "For Adam was first formed, then Eve.", 
+      "number": "13", 
+      "pageNumber": "1508", 
+      "compareId": "1-timothy-2_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And Adam was not deceived, but the woman being deceived was in the transgression.", 
+      "contentHtml": "And Adam was not deceived, but the woman being deceived was in the transgression.", 
+      "number": "14", 
+      "pageNumber": "1508", 
+      "compareId": "1-timothy-2_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.", 
+      "contentHtml": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.", 
+      "number": "15", 
+      "pageNumber": "1508", 
+      "compareId": "1-timothy-2_v15", 
+      "churchId": "p15"
+    }
+  ], 
+  "media": []
+}

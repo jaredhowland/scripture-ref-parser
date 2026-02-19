@@ -1,0 +1,29 @@
+{
+  "name": "JST, 1 John 4", 
+  "abbrev": null, 
+  "number": "4", 
+  "churchUri": "/scriptures/jst/jst-1-jn/4", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, 1 John 4:12. Compare 1 John 4:12", 
+      "contentHtml": "<strong>JST, 1 John 4:12.</strong> Compare 1 John 4:12", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-1-john-4_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "No man hath seen God at any time, except them who believe. If we love one another, God dwelleth in us, and his love is perfected in us.", 
+      "contentHtml": "No man hath seen God at any time, <em>except them who believe.</em> If we love one another, God dwelleth in us, and his love is perfected in us.", 
+      "number": "12", 
+      "pageNumber": null, 
+      "compareId": "jst-1-john-4_v1", 
+      "churchId": "p12"
+    }
+  ], 
+  "media": []
+}

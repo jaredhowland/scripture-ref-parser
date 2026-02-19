@@ -1,0 +1,309 @@
+{
+  "name": "Job 20", 
+  "abbrev": "Job 20", 
+  "number": "20", 
+  "churchUri": "/scriptures/ot/job/20", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 20", 
+      "contentHtml": "Chapter 20", 
+      "number": null, 
+      "pageNumber": "694", 
+      "compareId": "job-20_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then answered Zophar the Naamathite, and said,", 
+      "contentHtml": "Then answered Zophar the Naamathite, and said,", 
+      "number": "1", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Therefore do my thoughts cause me to answer, and for this I make haste.", 
+      "contentHtml": "Therefore do my thoughts cause me to answer, and for <span class=\"clarity-word\">this</span> I make haste.", 
+      "number": "2", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.", 
+      "contentHtml": "I have heard the check of my reproach, and the spirit of my understanding causeth me to answer.", 
+      "number": "3", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Knowest thou not this of old, since man was placed upon earth,", 
+      "contentHtml": "Knowest thou <span class=\"clarity-word\">not</span> this of old, since man was placed upon earth,", 
+      "number": "4", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?", 
+      "contentHtml": "That the triumphing of the wicked <span class=\"clarity-word\">is</span> short, and the joy of the hypocrite <span class=\"clarity-word\">but</span> for a moment?", 
+      "number": "5", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Though his excellency mount up to the heavens, and his head reach unto the clouds;", 
+      "contentHtml": "Though his excellency mount up to the heavens, and his head reach unto the clouds;", 
+      "number": "6", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?", 
+      "contentHtml": "<span class=\"clarity-word\">Yet</span> he shall perish for ever like his own dung: they which have seen him shall say, Where <span class=\"clarity-word\">is</span> he?", 
+      "number": "7", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.", 
+      "contentHtml": "He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night.", 
+      "number": "8", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "The eye also which saw him shall see him no more; neither shall his place any more behold him.", 
+      "contentHtml": "The eye also <span class=\"clarity-word\">which</span> saw him shall <span class=\"clarity-word\">see him</span> no more; neither shall his place any more behold him.", 
+      "number": "9", 
+      "pageNumber": "694", 
+      "compareId": "job-20_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "His children shall seek to please the poor, and his hands shall restore their goods.", 
+      "contentHtml": "His children shall seek to please the poor, and his hands shall restore their goods.", 
+      "number": "10", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "His bones are full of the sin of his youth, which shall lie down with him in the dust.", 
+      "contentHtml": "His bones are full <span class=\"clarity-word\">of the </span><span class=\"clarity-word\">sin</span> of his youth, which shall lie down with him in the dust.", 
+      "number": "11", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Though wickedness be sweet in his mouth, though he hide it under his tongue;", 
+      "contentHtml": "Though wickedness be sweet in his mouth, <span class=\"clarity-word\">though</span> he hide it under his tongue;", 
+      "number": "12", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Though he spare it, and forsake it not; but keep it still within his mouth:", 
+      "contentHtml": "<span class=\"clarity-word\">Though</span> he spare it, and forsake it not; but keep it still within his mouth:", 
+      "number": "13", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Yet his meat in his bowels is turned, it is the gall of asps within him.", 
+      "contentHtml": "<span class=\"clarity-word\">Yet</span> his meat in his bowels is turned, <span class=\"clarity-word\">it is</span> the gall of asps within him.", 
+      "number": "14", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.", 
+      "contentHtml": "He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly.", 
+      "number": "15", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "He shall suck the poison of asps: the viper’s tongue shall slay him.", 
+      "contentHtml": "He shall suck the poison of asps: the viper’s tongue shall slay him.", 
+      "number": "16", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "He shall not see the rivers, the floods, the brooks of honey and butter.", 
+      "contentHtml": "He shall not see the rivers, the floods, the brooks of honey and butter.", 
+      "number": "17", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein.", 
+      "contentHtml": "That which he laboured for shall he restore, and shall not swallow <span class=\"clarity-word\">it</span> down: according to <span class=\"clarity-word\">his</span> substance <span class=\"clarity-word\">shall</span> the restitution <span class=\"clarity-word\">be,</span> and he shall not rejoice <span class=\"clarity-word\">therein.</span>", 
+      "number": "18", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;", 
+      "contentHtml": "Because he hath oppressed <span class=\"clarity-word\">and</span> hath forsaken the poor; <span class=\"clarity-word\">because</span> he hath violently taken away an house which he builded not;", 
+      "number": "19", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Surely he shall not feel quietness in his belly, he shall not save of that which he desired.", 
+      "contentHtml": "Surely he shall not feel quietness in his belly, he shall not save of that which he desired.", 
+      "number": "20", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "There shall none of his meat be left; therefore shall no man look for his goods.", 
+      "contentHtml": "There shall none of his meat be left; therefore shall no man look for his goods.", 
+      "number": "21", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.", 
+      "contentHtml": "In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him.", 
+      "number": "22", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating.", 
+      "contentHtml": "<span class=\"clarity-word\">When</span> he is about to fill his belly, <span class=\"clarity-word\">God</span> shall cast the fury of his wrath upon him, and shall rain <span class=\"clarity-word\">it</span> upon him while he is eating.", 
+      "number": "23", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "He shall flee from the iron weapon, and the bow of steel shall strike him through.", 
+      "contentHtml": "He shall flee from the iron weapon, <span class=\"clarity-word\">and</span> the bow of steel shall strike him through.", 
+      "number": "24", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him.", 
+      "contentHtml": "It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors <span class=\"clarity-word\">are</span> upon him.", 
+      "number": "25", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "All darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.", 
+      "contentHtml": "All darkness <span class=\"clarity-word\">shall be</span> hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle.", 
+      "number": "26", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "The heaven shall reveal his iniquity; and the earth shall rise up against him.", 
+      "contentHtml": "The heaven shall reveal his iniquity; and the earth shall rise up against him.", 
+      "number": "27", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "The increase of his house shall depart, and his goods shall flow away in the day of his wrath.", 
+      "contentHtml": "The increase of his house shall depart, <span class=\"clarity-word\">and his goods</span> shall flow away in the day of his wrath.", 
+      "number": "28", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "This is the portion of a wicked man from God, and the heritage appointed unto him by God.", 
+      "contentHtml": "This <span class=\"clarity-word\">is</span> the portion of a wicked man from God, and the heritage appointed unto him by God.", 
+      "number": "29", 
+      "pageNumber": "695", 
+      "compareId": "job-20_v29", 
+      "churchId": "p29"
+    }
+  ], 
+  "media": []
+}

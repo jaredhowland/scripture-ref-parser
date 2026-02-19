@@ -1,0 +1,89 @@
+{
+  "name": "Doctrine and Covenants 53", 
+  "abbrev": "D&C 53", 
+  "number": "53", 
+  "churchUri": "/scriptures/dc-testament/dc/53", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 53", 
+      "contentHtml": "Section 53", 
+      "number": null, 
+      "pageNumber": "98", 
+      "compareId": "section-53_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, I say unto you, my servant Sidney Gilbert, that I have heard your prayers; and you have called upon me that it should be made known unto you, of the Lord your God, concerning your calling and election in the church, which I, the Lord, have raised up in these last days.", 
+      "contentHtml": "Behold, I say unto you, my servant Sidney Gilbert, that I have heard your prayers; and you have called upon me that it should be made known unto you, of the Lord your God, concerning your calling and election in the church, which I, the Lord, have raised up in these last days.", 
+      "number": "1", 
+      "pageNumber": "98", 
+      "compareId": "section-53_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Behold, I, the Lord, who was crucified for the sins of the world, give unto you a commandment that you shall forsake the world.", 
+      "contentHtml": "Behold, I, the Lord, who was crucified for the sins of the world, give unto you a commandment that you shall forsake the world.", 
+      "number": "2", 
+      "pageNumber": "98", 
+      "compareId": "section-53_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Take upon you mine ordination, even that of an elder, to preach faith and repentance and remission of sins, according to my word, and the reception of the Holy Spirit by the laying on of hands;", 
+      "contentHtml": "Take upon you mine ordination, even that of an elder, to preach faith and repentance and remission of sins, according to my word, and the reception of the Holy Spirit by the laying on of hands;", 
+      "number": "3", 
+      "pageNumber": "98", 
+      "compareId": "section-53_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And also to be an agent unto this church in the place which shall be appointed by the bishop, according to commandments which shall be given hereafter.", 
+      "contentHtml": "And also to be an agent unto this church in the place which shall be appointed by the bishop, according to commandments which shall be given hereafter.", 
+      "number": "4", 
+      "pageNumber": "98", 
+      "compareId": "section-53_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And again, verily I say unto you, you shall take your journey with my servants Joseph Smith, Jun., and Sidney Rigdon.", 
+      "contentHtml": "And again, verily I say unto you, you shall take your journey with my servants Joseph Smith, Jun., and Sidney Rigdon.", 
+      "number": "5", 
+      "pageNumber": "98", 
+      "compareId": "section-53_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Behold, these are the first ordinances which you shall receive; and the residue shall be made known in a time to come, according to your labor in my vineyard.", 
+      "contentHtml": "Behold, these are the first ordinances which you shall receive; and the residue shall be made known in a time to come, according to your labor in my vineyard.", 
+      "number": "6", 
+      "pageNumber": "98", 
+      "compareId": "section-53_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And again, I would that ye should learn that he only is saved who endureth unto the end. Even so. Amen.", 
+      "contentHtml": "And again, I would that ye should learn that he only is saved who endureth unto the end. Even so. Amen.", 
+      "number": "7", 
+      "pageNumber": "98", 
+      "compareId": "section-53_v7", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": []
+}

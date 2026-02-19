@@ -1,0 +1,89 @@
+{
+  "name": "Psalm 13", 
+  "abbrev": "Ps. 13", 
+  "number": "13", 
+  "churchUri": "/scriptures/ot/ps/13", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 13", 
+      "contentHtml": "Psalm 13", 
+      "number": null, 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician, A Psalm of David.", 
+      "contentHtml": "To the chief Musician, A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?", 
+      "contentHtml": "How long wilt thou forget me, O <span class=\"small-caps\">Lord</span>? for ever? how long wilt thou hide thy face from me?", 
+      "number": "1", 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?", 
+      "contentHtml": "How long shall I take counsel in my soul, <span class=\"clarity-word\">having</span> sorrow in my heart daily? how long shall mine enemy be exalted over me?", 
+      "number": "2", 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;", 
+      "contentHtml": "Consider <span class=\"clarity-word\">and</span> hear me, O <span class=\"small-caps\">Lord</span> my God: lighten mine eyes, lest I sleep the <span class=\"clarity-word\">sleep of</span> death;", 
+      "number": "3", 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.", 
+      "contentHtml": "Lest mine enemy say, I have prevailed against him; <span class=\"clarity-word\">and</span> those that trouble me rejoice when I am moved.", 
+      "number": "4", 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.", 
+      "contentHtml": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation.", 
+      "number": "5", 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "I will sing unto the LORD, because he hath dealt bountifully with me.", 
+      "contentHtml": "I will sing unto the <span class=\"small-caps\">Lord</span>, because he hath dealt bountifully with me.", 
+      "number": "6", 
+      "pageNumber": "720", 
+      "compareId": "psalm-13_v6", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": []
+}

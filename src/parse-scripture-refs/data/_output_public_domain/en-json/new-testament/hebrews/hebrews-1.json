@@ -1,0 +1,169 @@
+{
+  "name": "Hebrews 1", 
+  "abbrev": "Heb. 1", 
+  "number": "1", 
+  "churchUri": "/scriptures/nt/heb/1", 
+  "paragraphs": [
+    {
+      "type": "book-title", 
+      "id": "bt1", 
+      "content": "The Epistle of Paul the Apostle to the Hebrews", 
+      "contentHtml": "<small>The Epistle of Paul the Apostle</small> <small>to the</small> Hebrews", 
+      "number": null, 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_bt1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 1", 
+      "contentHtml": "Chapter 1", 
+      "number": null, 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,", 
+      "contentHtml": "God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,", 
+      "number": "1", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;", 
+      "contentHtml": "Hath in these last days spoken unto us by <span class=\"clarity-word\">his</span> Son, whom he hath appointed heir of all things, by whom also he made the worlds;", 
+      "number": "2", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;", 
+      "contentHtml": "Who being the brightness of <span class=\"clarity-word\">his</span> glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;", 
+      "number": "3", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.", 
+      "contentHtml": "Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.", 
+      "number": "4", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?", 
+      "contentHtml": "For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?", 
+      "number": "5", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.", 
+      "contentHtml": "And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.", 
+      "number": "6", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.", 
+      "contentHtml": "And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.", 
+      "number": "7", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.", 
+      "contentHtml": "But unto the Son <span class=\"clarity-word\">he saith,</span> Thy throne, O God, <span class=\"clarity-word\">is</span> for ever and ever: a sceptre of righteousness <span class=\"clarity-word\">is</span> the sceptre of thy kingdom.", 
+      "number": "8", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.", 
+      "contentHtml": "Thou hast loved righteousness, and hated iniquity; therefore God, <span class=\"clarity-word\">even</span> thy God, hath anointed thee with the oil of gladness above thy fellows.", 
+      "number": "9", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:", 
+      "contentHtml": "And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:", 
+      "number": "10", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;", 
+      "contentHtml": "They shall perish; but thou remainest; and they all shall wax old as doth a garment;", 
+      "number": "11", 
+      "pageNumber": "1521", 
+      "compareId": "hebrews-1_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.", 
+      "contentHtml": "And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.", 
+      "number": "12", 
+      "pageNumber": "1521,1522", 
+      "compareId": "hebrews-1_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?", 
+      "contentHtml": "But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?", 
+      "number": "13", 
+      "pageNumber": "1522", 
+      "compareId": "hebrews-1_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?", 
+      "contentHtml": "Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?", 
+      "number": "14", 
+      "pageNumber": "1522", 
+      "compareId": "hebrews-1_v14", 
+      "churchId": "p14"
+    }
+  ], 
+  "media": []
+}

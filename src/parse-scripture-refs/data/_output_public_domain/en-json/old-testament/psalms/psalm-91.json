@@ -1,0 +1,179 @@
+{
+  "name": "Psalm 91", 
+  "abbrev": "Ps. 91", 
+  "number": "91", 
+  "churchUri": "/scriptures/ot/ps/91", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 91", 
+      "contentHtml": "Psalm 91", 
+      "number": null, 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.", 
+      "contentHtml": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.", 
+      "number": "1", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "I will say of the LORD, He is my refuge and my fortress: my God; in him will I trust.", 
+      "contentHtml": "I will say of the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">He is</span> my refuge and my fortress: my God; in him will I trust.", 
+      "number": "2", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Surely he shall deliver thee from the snare of the fowler, and from the noisome pestilence.", 
+      "contentHtml": "Surely he shall deliver thee from the snare of the fowler, <span class=\"clarity-word\">and</span> from the noisome pestilence.", 
+      "number": "3", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth shall be thy shield and buckler.", 
+      "contentHtml": "He shall cover thee with his feathers, and under his wings shalt thou trust: his truth <span class=\"clarity-word\">shall be thy</span> shield and buckler.", 
+      "number": "4", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Thou shalt not be afraid for the terror by night; nor for the arrow that flieth by day;", 
+      "contentHtml": "Thou shalt not be afraid for the terror by night; <span class=\"clarity-word\">nor</span> for the arrow <span class=\"clarity-word\">that</span> flieth by day;", 
+      "number": "5", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.", 
+      "contentHtml": "<span class=\"clarity-word\">Nor</span> for the pestilence <span class=\"clarity-word\">that</span> walketh in darkness; <span class=\"clarity-word\">nor</span> for the destruction <span class=\"clarity-word\">that</span> wasteth at noonday.", 
+      "number": "6", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.", 
+      "contentHtml": "A thousand shall fall at thy side, and ten thousand at thy right hand; <span class=\"clarity-word\">but</span> it shall not come nigh thee.", 
+      "number": "7", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Only with thine eyes shalt thou behold and see the reward of the wicked.", 
+      "contentHtml": "Only with thine eyes shalt thou behold and see the reward of the wicked.", 
+      "number": "8", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Because thou hast made the LORD, which is my refuge, even the most High, thy habitation;", 
+      "contentHtml": "Because thou hast made the <span class=\"small-caps\">Lord</span>, <span class=\"clarity-word\">which is</span> my refuge, <span class=\"clarity-word\">even</span> the most High, thy habitation;", 
+      "number": "9", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling.", 
+      "contentHtml": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling.", 
+      "number": "10", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "For he shall give his angels charge over thee, to keep thee in all thy ways.", 
+      "contentHtml": "For he shall give his angels charge over thee, to keep thee in all thy ways.", 
+      "number": "11", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "They shall bear thee up in their hands, lest thou dash thy foot against a stone.", 
+      "contentHtml": "They shall bear thee up in <span class=\"clarity-word\">their</span> hands, lest thou dash thy foot against a stone.", 
+      "number": "12", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.", 
+      "contentHtml": "Thou shalt tread upon the lion and adder: the young lion and the dragon shalt thou trample under feet.", 
+      "number": "13", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.", 
+      "contentHtml": "Because he hath set his love upon me, therefore will I deliver him: I will set him on high, because he hath known my name.", 
+      "number": "14", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "He shall call upon me, and I will answer him: I will be with him in trouble; I will deliver him, and honour him.", 
+      "contentHtml": "He shall call upon me, and I will answer him: I <span class=\"clarity-word\">will be</span> with him in trouble; I will deliver him, and honour him.", 
+      "number": "15", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "With long life will I satisfy him, and shew him my salvation.", 
+      "contentHtml": "With long life will I satisfy him, and shew him my salvation.", 
+      "number": "16", 
+      "pageNumber": "774", 
+      "compareId": "psalm-91_v16", 
+      "churchId": "p16"
+    }
+  ], 
+  "media": []
+}

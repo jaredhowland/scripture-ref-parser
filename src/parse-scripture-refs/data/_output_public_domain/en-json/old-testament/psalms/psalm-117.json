@@ -1,0 +1,39 @@
+{
+  "name": "Psalm 117", 
+  "abbrev": "Ps. 117", 
+  "number": "117", 
+  "churchUri": "/scriptures/ot/ps/117", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 117", 
+      "contentHtml": "Psalm 117", 
+      "number": null, 
+      "pageNumber": "791", 
+      "compareId": "psalm-117_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "O praise the LORD, all ye nations: praise him, all ye people.", 
+      "contentHtml": "O praise the <span class=\"small-caps\">Lord</span>, all ye nations: praise him, all ye people.", 
+      "number": "1", 
+      "pageNumber": "791", 
+      "compareId": "psalm-117_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.", 
+      "contentHtml": "For his merciful kindness is great toward us: and the truth of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">endureth</span> for ever. Praise ye the <span class=\"small-caps\">Lord</span>.", 
+      "number": "2", 
+      "pageNumber": "791", 
+      "compareId": "psalm-117_v2", 
+      "churchId": "p2"
+    }
+  ], 
+  "media": []
+}

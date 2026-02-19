@@ -1,0 +1,29 @@
+{
+  "name": "JST, James 1", 
+  "abbrev": null, 
+  "number": "1", 
+  "churchUri": "/scriptures/jst/jst-james/1", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, James 1:2. Compare James 1:2", 
+      "contentHtml": "<strong>JST, James 1:2.</strong> Compare James 1:2", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-james-1_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "My brethren, count it all joy when ye fall into many afflictions;", 
+      "contentHtml": "My brethren, count it all joy when ye fall into <em>many afflictions;</em>", 
+      "number": "2", 
+      "pageNumber": null, 
+      "compareId": "jst-james-1_v1", 
+      "churchId": "p2"
+    }
+  ], 
+  "media": []
+}

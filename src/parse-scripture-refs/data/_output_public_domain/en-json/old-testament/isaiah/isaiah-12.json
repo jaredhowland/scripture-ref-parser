@@ -1,0 +1,79 @@
+{
+  "name": "Isaiah 12", 
+  "abbrev": "Isa. 12", 
+  "number": "12", 
+  "churchUri": "/scriptures/ot/isa/12", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 12", 
+      "contentHtml": "Chapter 12", 
+      "number": null, 
+      "pageNumber": "877", 
+      "compareId": "isaiah-12_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And in that day thou shalt say, O LORD, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.", 
+      "contentHtml": "And in that day thou shalt say, O <span class=\"small-caps\">Lord</span>, I will praise thee: though thou wast angry with me, thine anger is turned away, and thou comfortedst me.", 
+      "number": "1", 
+      "pageNumber": "877", 
+      "compareId": "isaiah-12_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Behold, God is my salvation; I will trust, and not be afraid: for the LORD JEHOVAH is my strength and my song; he also is become my salvation.", 
+      "contentHtml": "Behold, God <span class=\"clarity-word\">is</span> my salvation; I will trust, and not be afraid: for the <span class=\"small-caps\">Lord</span> <span class=\"uppercase\">Jehovah</span> <span class=\"clarity-word\">is</span> my strength and <span class=\"clarity-word\">my</span> song; he also is become my salvation.", 
+      "number": "2", 
+      "pageNumber": "877", 
+      "compareId": "isaiah-12_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Therefore with joy shall ye draw water out of the wells of salvation.", 
+      "contentHtml": "Therefore with joy shall ye draw water out of the wells of salvation.", 
+      "number": "3", 
+      "pageNumber": "877", 
+      "compareId": "isaiah-12_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And in that day shall ye say, Praise the LORD, call upon his name, declare his doings among the people, make mention that his name is exalted.", 
+      "contentHtml": "And in that day shall ye say, Praise the <span class=\"small-caps\">Lord</span>, call upon his name, declare his doings among the people, make mention that his name is exalted.", 
+      "number": "4", 
+      "pageNumber": "877", 
+      "compareId": "isaiah-12_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Sing unto the LORD; for he hath done excellent things: this is known in all the earth.", 
+      "contentHtml": "Sing unto the <span class=\"small-caps\">Lord</span>; for he hath done excellent things: this <span class=\"clarity-word\">is</span> known in all the earth.", 
+      "number": "5", 
+      "pageNumber": "877", 
+      "compareId": "isaiah-12_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Cry out and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee.", 
+      "contentHtml": "Cry out and shout, thou inhabitant of Zion: for great <span class=\"clarity-word\">is</span> the Holy One of Israel in the midst of thee.", 
+      "number": "6", 
+      "pageNumber": "877", 
+      "compareId": "isaiah-12_v6", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": []
+}

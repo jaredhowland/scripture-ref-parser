@@ -1,0 +1,109 @@
+{
+  "name": "Psalm 99", 
+  "abbrev": "Ps. 99", 
+  "number": "99", 
+  "churchUri": "/scriptures/ot/ps/99", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 99", 
+      "contentHtml": "Psalm 99", 
+      "number": null, 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "The LORD reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> reigneth; let the people tremble: he sitteth <span class=\"clarity-word\">between</span> the cherubims; let the earth be moved.", 
+      "number": "1", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The LORD is great in Zion; and he is high above all the people.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> great in Zion; and he <span class=\"clarity-word\">is</span> high above all the people.", 
+      "number": "2", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Let them praise thy great and terrible name; for it is holy.", 
+      "contentHtml": "Let them praise thy great and terrible name; <span class=\"clarity-word\">for</span> it <span class=\"clarity-word\">is</span> holy.", 
+      "number": "3", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.", 
+      "contentHtml": "The king’s strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.", 
+      "number": "4", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Exalt ye the LORD our God, and worship at his footstool; for he is holy.", 
+      "contentHtml": "Exalt ye the <span class=\"small-caps\">Lord</span> our God, and worship at his footstool; <span class=\"clarity-word\">for</span> he <span class=\"clarity-word\">is</span> holy.", 
+      "number": "5", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.", 
+      "contentHtml": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the <span class=\"small-caps\">Lord</span>, and he answered them.", 
+      "number": "6", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.", 
+      "contentHtml": "He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance <span class=\"clarity-word\">that</span> he gave them.", 
+      "number": "7", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Thou answeredst them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.", 
+      "contentHtml": "Thou answeredst them, O <span class=\"small-caps\">Lord</span> our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.", 
+      "number": "8", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Exalt the LORD our God, and worship at his holy hill; for the LORD our God is holy.", 
+      "contentHtml": "Exalt the <span class=\"small-caps\">Lord</span> our God, and worship at his holy hill; for the <span class=\"small-caps\">Lord</span> our God <span class=\"clarity-word\">is</span> holy.", 
+      "number": "9", 
+      "pageNumber": "778", 
+      "compareId": "psalm-99_v9", 
+      "churchId": "p9"
+    }
+  ], 
+  "media": []
+}

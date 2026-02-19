@@ -1,0 +1,39 @@
+{
+  "name": "Doctrine and Covenants 92", 
+  "abbrev": "D&C 92", 
+  "number": "92", 
+  "churchUri": "/scriptures/dc-testament/dc/92", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 92", 
+      "contentHtml": "Section 92", 
+      "number": null, 
+      "pageNumber": "179", 
+      "compareId": "section-92_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Verily, thus saith the Lord, I give unto the united order, organized agreeable to the commandment previously given, a revelation and commandment concerning my servant Frederick G. Williams, that ye shall receive him into the order. What I say unto one I say unto all.", 
+      "contentHtml": "Verily, thus saith the Lord, I give unto the united order, organized agreeable to the commandment previously given, a revelation and commandment concerning my servant Frederick G. Williams, that ye shall receive him into the order. What I say unto one I say unto all.", 
+      "number": "1", 
+      "pageNumber": "180", 
+      "compareId": "section-92_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And again, I say unto you my servant Frederick G. Williams, you shall be a lively member in this order; and inasmuch as you are faithful in keeping all former commandments you shall be blessed forever. Amen.", 
+      "contentHtml": "And again, I say unto you my servant Frederick G. Williams, you shall be a lively member in this order; and inasmuch as you are faithful in keeping all former commandments you shall be blessed forever. Amen.", 
+      "number": "2", 
+      "pageNumber": "180", 
+      "compareId": "section-92_v2", 
+      "churchId": "p2"
+    }
+  ], 
+  "media": []
+}

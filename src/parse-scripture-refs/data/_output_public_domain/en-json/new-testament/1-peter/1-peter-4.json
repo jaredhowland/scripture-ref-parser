@@ -1,0 +1,209 @@
+{
+  "name": "1 Peter 4", 
+  "abbrev": "1 Pet. 4", 
+  "number": "4", 
+  "churchUri": "/scriptures/nt/1-pet/4", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 4", 
+      "contentHtml": "Chapter 4", 
+      "number": null, 
+      "pageNumber": "1548", 
+      "compareId": "1-peter-4_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;", 
+      "contentHtml": "Forasmuch then as Christ hath suffered for us in the flesh, arm yourselves likewise with the same mind: for he that hath suffered in the flesh hath ceased from sin;", 
+      "number": "1", 
+      "pageNumber": "1548", 
+      "compareId": "1-peter-4_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.", 
+      "contentHtml": "That he no longer should live the rest of <span class=\"clarity-word\">his</span> time in the flesh to the lusts of men, but to the will of God.", 
+      "number": "2", 
+      "pageNumber": "1548,1549", 
+      "compareId": "1-peter-4_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "For the time past of our life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:", 
+      "contentHtml": "For the time past of <span class=\"clarity-word\">our</span> life may suffice us to have wrought the will of the Gentiles, when we walked in lasciviousness, lusts, excess of wine, revellings, banquetings, and abominable idolatries:", 
+      "number": "3", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:", 
+      "contentHtml": "Wherein they think it strange that ye run not with <span class=\"clarity-word\">them</span> to the same excess of riot, speaking evil of <span class=\"clarity-word\">you:</span>", 
+      "number": "4", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Who shall give account to him that is ready to judge the quick and the dead.", 
+      "contentHtml": "Who shall give account to him that is ready to judge the quick and the dead.", 
+      "number": "5", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.", 
+      "contentHtml": "For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.", 
+      "number": "6", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.", 
+      "contentHtml": "But the end of all things is at hand: be ye therefore sober, and watch unto prayer.", 
+      "number": "7", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.", 
+      "contentHtml": "And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.", 
+      "number": "8", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Use hospitality one to another without grudging.", 
+      "contentHtml": "Use hospitality one to another without grudging.", 
+      "number": "9", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.", 
+      "contentHtml": "As every man hath received the gift, <span class=\"clarity-word\">even so</span> minister the same one to another, as good stewards of the manifold grace of God.", 
+      "number": "10", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "If any man speak, let him speak as the oracles of God; if any man minister, let him do it as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.", 
+      "contentHtml": "If any man speak, <span class=\"clarity-word\">let him speak</span> as the oracles of God; if any man minister, <span class=\"clarity-word\">let him do it</span> as of the ability which God giveth: that God in all things may be glorified through Jesus Christ, to whom be praise and dominion for ever and ever. Amen.", 
+      "number": "11", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:", 
+      "contentHtml": "Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:", 
+      "number": "12", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.", 
+      "contentHtml": "But rejoice, inasmuch as ye are partakers of Christ’s sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.", 
+      "number": "13", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.", 
+      "contentHtml": "If ye be reproached for the name of Christ, happy <span class=\"clarity-word\">are ye;</span> for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.", 
+      "number": "14", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "But let none of you suffer as a murderer, or as a thief, or as an evildoer, or as a busybody in other men’s matters.", 
+      "contentHtml": "But let none of you suffer as a murderer, or <span class=\"clarity-word\">as</span> a thief, or <span class=\"clarity-word\">as</span> an evildoer, or as a busybody in other men’s matters.", 
+      "number": "15", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Yet if any man suffer as a Christian, let him not be ashamed; but let him glorify God on this behalf.", 
+      "contentHtml": "Yet if <span class=\"clarity-word\">any man suffer</span> as a Christian, let him not be ashamed; but let him glorify God on this behalf.", 
+      "number": "16", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?", 
+      "contentHtml": "For the time <span class=\"clarity-word\">is come</span> that judgment must begin at the house of God: and if <span class=\"clarity-word\">it</span> first <span class=\"clarity-word\">begin</span> at us, what shall the end <span class=\"clarity-word\">be</span> of them that obey not the gospel of God?", 
+      "number": "17", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?", 
+      "contentHtml": "And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?", 
+      "number": "18", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.", 
+      "contentHtml": "Wherefore let them that suffer according to the will of God commit the keeping of their souls <span class=\"clarity-word\">to him</span> in well doing, as unto a faithful Creator.", 
+      "number": "19", 
+      "pageNumber": "1549", 
+      "compareId": "1-peter-4_v19", 
+      "churchId": "p19"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,199 @@
+{
+  "name": "Psalm 40", 
+  "abbrev": "Ps. 40", 
+  "number": "40", 
+  "churchUri": "/scriptures/ot/ps/40", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 40", 
+      "contentHtml": "Psalm 40", 
+      "number": null, 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician, A Psalm of David.", 
+      "contentHtml": "To the chief Musician, A Psalm of David.", 
+      "number": null, 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "I waited patiently for the LORD; and he inclined unto me, and heard my cry.", 
+      "contentHtml": "I waited patiently for the <span class=\"small-caps\">Lord</span>; and he inclined unto me, and heard my cry.", 
+      "number": "1", 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.", 
+      "contentHtml": "He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, <span class=\"clarity-word\">and</span> established my goings.", 
+      "number": "2", 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.", 
+      "contentHtml": "And he hath put a new song in my mouth, <span class=\"clarity-word\">even</span> praise unto our God: many shall see <span class=\"clarity-word\">it,</span> and fear, and shall trust in the <span class=\"small-caps\">Lord</span>.", 
+      "number": "3", 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Blessed is that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.", 
+      "contentHtml": "Blessed <span class=\"clarity-word\">is</span> that man that maketh the <span class=\"small-caps\">Lord</span> his trust, and respecteth not the proud, nor such as turn aside to lies.", 
+      "number": "4", 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Many, O LORD my God, are thy wonderful works which thou hast done, and thy thoughts which are to us-ward: they cannot be reckoned up in order unto thee: if I would declare and speak of them, they are more than can be numbered.", 
+      "contentHtml": "Many, O <span class=\"small-caps\">Lord</span> my God, <span class=\"clarity-word\">are</span> thy wonderful works <span class=\"clarity-word\">which</span> thou hast done, and thy thoughts <span class=\"clarity-word\">which are</span> to us-ward: they cannot be reckoned up in order unto thee: <span class=\"clarity-word\">if</span> I would declare and speak <span class=\"clarity-word\">of them,</span> they are more than can be numbered.", 
+      "number": "5", 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.", 
+      "contentHtml": "Sacrifice and offering thou didst not desire; mine ears hast thou opened: burnt offering and sin offering hast thou not required.", 
+      "number": "6", 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Then said I, Lo, I come: in the volume of the book it is written of me,", 
+      "contentHtml": "Then said I, Lo, I come: in the volume of the book <span class=\"clarity-word\">it is</span> written of me,", 
+      "number": "7", 
+      "pageNumber": "739", 
+      "compareId": "psalm-40_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "I delight to do thy will, O my God: yea, thy law is within my heart.", 
+      "contentHtml": "I delight to do thy will, O my God: yea, thy law <span class=\"clarity-word\">is</span> within my heart.", 
+      "number": "8", 
+      "pageNumber": "739,740", 
+      "compareId": "psalm-40_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, thou knowest.", 
+      "contentHtml": "I have preached righteousness in the great congregation: lo, I have not refrained my lips, O <span class=\"small-caps\">Lord</span>, thou knowest.", 
+      "number": "9", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.", 
+      "contentHtml": "I have not hid thy righteousness within my heart; I have declared thy faithfulness and thy salvation: I have not concealed thy lovingkindness and thy truth from the great congregation.", 
+      "number": "10", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Withhold not thou thy tender mercies from me, O LORD: let thy lovingkindness and thy truth continually preserve me.", 
+      "contentHtml": "Withhold not thou thy tender mercies from me, O <span class=\"small-caps\">Lord</span>: let thy lovingkindness and thy truth continually preserve me.", 
+      "number": "11", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.", 
+      "contentHtml": "For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.", 
+      "number": "12", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Be pleased, O LORD, to deliver me: O LORD, make haste to help me.", 
+      "contentHtml": "Be pleased, O <span class=\"small-caps\">Lord</span>, to deliver me: O <span class=\"small-caps\">Lord</span>, make haste to help me.", 
+      "number": "13", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.", 
+      "contentHtml": "Let them be ashamed and confounded together that seek after my soul to destroy it; let them be driven backward and put to shame that wish me evil.", 
+      "number": "14", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Let them be desolate for a reward of their shame that say unto me, Aha, aha.", 
+      "contentHtml": "Let them be desolate for a reward of their shame that say unto me, Aha, aha.", 
+      "number": "15", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The LORD be magnified.", 
+      "contentHtml": "Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The <span class=\"small-caps\">Lord</span> be magnified.", 
+      "number": "16", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "But I am poor and needy; yet the Lord thinketh upon me: thou art my help and my deliverer; make no tarrying, O my God.", 
+      "contentHtml": "But I <span class=\"clarity-word\">am</span> poor and needy; <span class=\"clarity-word\">yet</span> the Lord thinketh upon me: thou <span class=\"clarity-word\">art</span> my help and my deliverer; make no tarrying, O my God.", 
+      "number": "17", 
+      "pageNumber": "740", 
+      "compareId": "psalm-40_v17", 
+      "churchId": "p17"
+    }
+  ], 
+  "media": []
+}

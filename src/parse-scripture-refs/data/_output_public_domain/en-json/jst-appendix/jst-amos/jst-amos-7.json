@@ -1,0 +1,29 @@
+{
+  "name": "JST, Amos 7", 
+  "abbrev": null, 
+  "number": "7", 
+  "churchUri": "/scriptures/jst/jst-amos/7", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Amos 7:3. Compare Amos 7:3", 
+      "contentHtml": "<strong>JST, Amos 7:3.</strong> Compare Amos 7:3", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-amos-7_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And the Lord said, concerning Jacob, Jacob shall repent for this, therefore I will not utterly destroy him, saith the Lord.", 
+      "contentHtml": "<em>And</em> the Lord <em>said, concerning Jacob, Jacob shall repent</em> for this, <em>therefore I will not utterly destroy him,</em> saith the Lord.", 
+      "number": "3", 
+      "pageNumber": null, 
+      "compareId": "jst-amos-7_v1", 
+      "churchId": "p3"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,239 @@
+{
+  "name": "Lamentations 5", 
+  "abbrev": "Lam. 5", 
+  "number": "5", 
+  "churchUri": "/scriptures/ot/lam/5", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 5", 
+      "contentHtml": "Chapter 5", 
+      "number": null, 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Remember, O LORD, what is come upon us: consider, and behold our reproach.", 
+      "contentHtml": "Remember, O <span class=\"small-caps\">Lord</span>, what is come upon us: consider, and behold our reproach.", 
+      "number": "1", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Our inheritance is turned to strangers, our houses to aliens.", 
+      "contentHtml": "Our inheritance is turned to strangers, our houses to aliens.", 
+      "number": "2", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "We are orphans and fatherless, our mothers are as widows.", 
+      "contentHtml": "We are orphans and fatherless, our mothers <span class=\"clarity-word\">are</span> as widows.", 
+      "number": "3", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "We have drunken our water for money; our wood is sold unto us.", 
+      "contentHtml": "We have drunken our water for money; our wood is sold unto us.", 
+      "number": "4", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Our necks are under persecution: we labour, and have no rest.", 
+      "contentHtml": "Our necks <span class=\"clarity-word\">are</span> under persecution: we labour, <span class=\"clarity-word\">and</span> have no rest.", 
+      "number": "5", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "We have given the hand to the Egyptians, and to the Assyrians, to be satisfied with bread.", 
+      "contentHtml": "We have given the hand <span class=\"clarity-word\">to</span> the Egyptians, <span class=\"clarity-word\">and to</span> the Assyrians, to be satisfied with bread.", 
+      "number": "6", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Our fathers have sinned, and are not; and we have borne their iniquities.", 
+      "contentHtml": "Our fathers have sinned, <span class=\"clarity-word\">and are</span> not; and we have borne their iniquities.", 
+      "number": "7", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Servants have ruled over us: there is none that doth deliver us out of their hand.", 
+      "contentHtml": "Servants have ruled over us: <span class=\"clarity-word\">there is</span> none that doth deliver <span class=\"clarity-word\">us</span> out of their hand.", 
+      "number": "8", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "We gat our bread with the peril of our lives because of the sword of the wilderness.", 
+      "contentHtml": "We gat our bread with <span class=\"clarity-word\">the peril of</span> our lives because of the sword of the wilderness.", 
+      "number": "9", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Our skin was black like an oven because of the terrible famine.", 
+      "contentHtml": "Our skin was black like an oven because of the terrible famine.", 
+      "number": "10", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "They ravished the women in Zion, and the maids in the cities of Judah.", 
+      "contentHtml": "They ravished the women in Zion, <span class=\"clarity-word\">and</span> the maids in the cities of Judah.", 
+      "number": "11", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Princes are hanged up by their hand: the faces of elders were not honoured.", 
+      "contentHtml": "Princes are hanged up by their hand: the faces of elders were not honoured.", 
+      "number": "12", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "They took the young men to grind, and the children fell under the wood.", 
+      "contentHtml": "They took the young men to grind, and the children fell under the wood.", 
+      "number": "13", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "The elders have ceased from the gate, the young men from their musick.", 
+      "contentHtml": "The elders have ceased from the gate, the young men from their musick.", 
+      "number": "14", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "The joy of our heart is ceased; our dance is turned into mourning.", 
+      "contentHtml": "The joy of our heart is ceased; our dance is turned into mourning.", 
+      "number": "15", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "The crown is fallen from our head: woe unto us, that we have sinned!", 
+      "contentHtml": "The crown is fallen <span class=\"clarity-word\">from</span> our head: woe unto us, that we have sinned!", 
+      "number": "16", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For this our heart is faint; for these things our eyes are dim.", 
+      "contentHtml": "For this our heart is faint; for these <span class=\"clarity-word\">things</span> our eyes are dim.", 
+      "number": "17", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.", 
+      "contentHtml": "Because of the mountain of Zion, which is desolate, the foxes walk upon it.", 
+      "number": "18", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Thou, O LORD, remainest for ever; thy throne from generation to generation.", 
+      "contentHtml": "Thou, O <span class=\"small-caps\">Lord</span>, remainest for ever; thy throne from generation to generation.", 
+      "number": "19", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Wherefore dost thou forget us for ever, and forsake us so long time?", 
+      "contentHtml": "Wherefore dost thou forget us for ever, <span class=\"clarity-word\">and</span> forsake us so long time?", 
+      "number": "20", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Turn thou us unto thee, O LORD, and we shall be turned; renew our days as of old.", 
+      "contentHtml": "Turn thou us unto thee, O <span class=\"small-caps\">Lord</span>, and we shall be turned; renew our days as of old.", 
+      "number": "21", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "But thou hast utterly rejected us; thou art very wroth against us.", 
+      "contentHtml": "But thou hast utterly rejected us; thou art very wroth against us.", 
+      "number": "22", 
+      "pageNumber": "1026", 
+      "compareId": "lamentations-5_v22", 
+      "churchId": "p22"
+    }
+  ], 
+  "media": []
+}

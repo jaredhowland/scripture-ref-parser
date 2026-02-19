@@ -1,0 +1,29 @@
+{
+  "name": "JST, Acts 9", 
+  "abbrev": null, 
+  "number": "9", 
+  "churchUri": "/scriptures/jst/jst-acts/9", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Acts 9:7. Compare Acts 9:7; 22:9", 
+      "contentHtml": "<strong>JST, Acts 9:7.</strong> Compare Acts 9:7; 22:9", 
+      "number": null, 
+      "pageNumber": null, 
+      "compareId": "jst-acts-9_st1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And they who were journeying with him saw indeed the light, and were afraid; but they heard not the voice of him who spake to him.", 
+      "contentHtml": "And <em>they who were journeying</em> with him <em>saw indeed the light, and were afraid; but they heard not the voice of him who spake to him.</em>", 
+      "number": "7", 
+      "pageNumber": null, 
+      "compareId": "jst-acts-9_v1", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": []
+}

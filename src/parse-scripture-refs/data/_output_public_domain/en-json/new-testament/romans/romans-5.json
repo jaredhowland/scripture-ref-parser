@@ -1,0 +1,229 @@
+{
+  "name": "Romans 5", 
+  "abbrev": "Rom. 5", 
+  "number": "5", 
+  "churchUri": "/scriptures/nt/rom/5", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 5", 
+      "contentHtml": "Chapter 5", 
+      "number": null, 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:", 
+      "contentHtml": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:", 
+      "number": "1", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.", 
+      "contentHtml": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God.", 
+      "number": "2", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;", 
+      "contentHtml": "And not only <span class=\"clarity-word\">so,</span> but we glory in tribulations also: knowing that tribulation worketh patience;", 
+      "number": "3", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And patience, experience; and experience, hope:", 
+      "contentHtml": "And patience, experience; and experience, hope:", 
+      "number": "4", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.", 
+      "contentHtml": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.", 
+      "number": "5", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For when we were yet without strength, in due time Christ died for the ungodly.", 
+      "contentHtml": "For when we were yet without strength, in due time Christ died for the ungodly.", 
+      "number": "6", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.", 
+      "contentHtml": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die.", 
+      "number": "7", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.", 
+      "contentHtml": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.", 
+      "number": "8", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Much more then, being now justified by his blood, we shall be saved from wrath through him.", 
+      "contentHtml": "Much more then, being now justified by his blood, we shall be saved from wrath through him.", 
+      "number": "9", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.", 
+      "contentHtml": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.", 
+      "number": "10", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.", 
+      "contentHtml": "And not only <span class=\"clarity-word\">so,</span> but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement.", 
+      "number": "11", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:", 
+      "contentHtml": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:", 
+      "number": "12", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "(For until the law sin was in the world: but sin is not imputed when there is no law.", 
+      "contentHtml": "(For until the law sin was in the world: but sin is not imputed when there is no law.", 
+      "number": "13", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come.", 
+      "contentHtml": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come.", 
+      "number": "14", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.", 
+      "contentHtml": "But not as the offence, so also <span class=\"clarity-word\">is</span> the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, <span class=\"clarity-word\">which is</span> by one man, Jesus Christ, hath abounded unto many.", 
+      "number": "15", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.", 
+      "contentHtml": "And not as <span class=\"clarity-word\">it was</span> by one that sinned, <span class=\"clarity-word\">so is</span> the gift: for the judgment <span class=\"clarity-word\">was</span> by one to condemnation, but the free gift <span class=\"clarity-word\">is</span> of many offences unto justification.", 
+      "number": "16", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)", 
+      "contentHtml": "For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)", 
+      "number": "17", 
+      "pageNumber": "1422", 
+      "compareId": "romans-5_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.", 
+      "contentHtml": "Therefore as by the offence of one <span class=\"clarity-word\">judgment came</span> upon all men to condemnation; even so by the righteousness of one <span class=\"clarity-word\">the free gift came</span> upon all men unto justification of life.", 
+      "number": "18", 
+      "pageNumber": "1422,1423", 
+      "compareId": "romans-5_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.", 
+      "contentHtml": "For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous.", 
+      "number": "19", 
+      "pageNumber": "1423", 
+      "compareId": "romans-5_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:", 
+      "contentHtml": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:", 
+      "number": "20", 
+      "pageNumber": "1423", 
+      "compareId": "romans-5_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.", 
+      "contentHtml": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.", 
+      "number": "21", 
+      "pageNumber": "1423", 
+      "compareId": "romans-5_v21", 
+      "churchId": "p21"
+    }
+  ], 
+  "media": []
+}

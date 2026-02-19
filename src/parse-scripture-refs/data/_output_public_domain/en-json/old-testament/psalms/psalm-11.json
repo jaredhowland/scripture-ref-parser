@@ -1,0 +1,99 @@
+{
+  "name": "Psalm 11", 
+  "abbrev": "Ps. 11", 
+  "number": "11", 
+  "churchUri": "/scriptures/ot/ps/11", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 11", 
+      "contentHtml": "Psalm 11", 
+      "number": null, 
+      "pageNumber": "719", 
+      "compareId": "psalm-11_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "To the chief Musician, A Psalm of David.", 
+      "contentHtml": "To the chief Musician, <span class=\"clarity-word\">A Psalm</span> of David.", 
+      "number": null, 
+      "pageNumber": "719", 
+      "compareId": "psalm-11_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?", 
+      "contentHtml": "In the <span class=\"small-caps\">Lord</span> put I my trust: how say ye to my soul, Flee <span class=\"clarity-word\">as</span> a bird to your mountain?", 
+      "number": "1", 
+      "pageNumber": "719", 
+      "compareId": "psalm-11_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.", 
+      "contentHtml": "For, lo, the wicked bend <span class=\"clarity-word\">their</span> bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.", 
+      "number": "2", 
+      "pageNumber": "719", 
+      "compareId": "psalm-11_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "If the foundations be destroyed, what can the righteous do?", 
+      "contentHtml": "If the foundations be destroyed, what can the righteous do?", 
+      "number": "3", 
+      "pageNumber": "720", 
+      "compareId": "psalm-11_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">is</span> in his holy temple, the <span class=\"small-caps\">Lord</span>’s throne <span class=\"clarity-word\">is</span> in heaven: his eyes behold, his eyelids try, the children of men.", 
+      "number": "4", 
+      "pageNumber": "720", 
+      "compareId": "psalm-11_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> trieth the righteous: but the wicked and him that loveth violence his soul hateth.", 
+      "number": "5", 
+      "pageNumber": "720", 
+      "compareId": "psalm-11_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.", 
+      "contentHtml": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: <span class=\"clarity-word\">this shall be</span> the portion of their cup.", 
+      "number": "6", 
+      "pageNumber": "720", 
+      "compareId": "psalm-11_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "For the righteous LORD loveth righteousness; his countenance doth behold the upright.", 
+      "contentHtml": "For the righteous <span class=\"small-caps\">Lord</span> loveth righteousness; his countenance doth behold the upright.", 
+      "number": "7", 
+      "pageNumber": "720", 
+      "compareId": "psalm-11_v7", 
+      "churchId": "p7"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,259 @@
+{
+  "name": "Genesis 7", 
+  "abbrev": "Gen. 7", 
+  "number": "7", 
+  "churchUri": "/scriptures/ot/gen/7", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 7", 
+      "contentHtml": "Chapter 7", 
+      "number": null, 
+      "pageNumber": "10", 
+      "compareId": "genesis-7_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.", 
+      "contentHtml": "And the <span class=\"small-caps\">Lord</span> said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation.", 
+      "number": "1", 
+      "pageNumber": "10", 
+      "compareId": "genesis-7_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female.", 
+      "contentHtml": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that <span class=\"clarity-word\">are</span> not clean by two, the male and his female.", 
+      "number": "2", 
+      "pageNumber": "10", 
+      "compareId": "genesis-7_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.", 
+      "contentHtml": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth.", 
+      "number": "3", 
+      "pageNumber": "10", 
+      "compareId": "genesis-7_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.", 
+      "contentHtml": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth.", 
+      "number": "4", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And Noah did according unto all that the LORD commanded him.", 
+      "contentHtml": "And Noah did according unto all that the <span class=\"small-caps\">Lord</span> commanded him.", 
+      "number": "5", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And Noah was six hundred years old when the flood of waters was upon the earth.", 
+      "contentHtml": "And Noah <span class=\"clarity-word\">was</span> six hundred years old when the flood of waters was upon the earth.", 
+      "number": "6", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "¶ And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.", 
+      "contentHtml": "¶ And Noah went in, and his sons, and his wife, and his sons’ wives with him, into the ark, because of the waters of the flood.", 
+      "number": "7", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,", 
+      "contentHtml": "Of clean beasts, and of beasts that <span class=\"clarity-word\">are</span> not clean, and of fowls, and of every thing that creepeth upon the earth,", 
+      "number": "8", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.", 
+      "contentHtml": "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.", 
+      "number": "9", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And it came to pass after seven days, that the waters of the flood were upon the earth.", 
+      "contentHtml": "And it came to pass after seven days, that the waters of the flood were upon the earth.", 
+      "number": "10", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "¶ In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.", 
+      "contentHtml": "¶ In the six hundredth year of Noah’s life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened.", 
+      "number": "11", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And the rain was upon the earth forty days and forty nights.", 
+      "contentHtml": "And the rain was upon the earth forty days and forty nights.", 
+      "number": "12", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;", 
+      "contentHtml": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah’s wife, and the three wives of his sons with them, into the ark;", 
+      "number": "13", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.", 
+      "contentHtml": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.", 
+      "number": "14", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life.", 
+      "contentHtml": "And they went in unto Noah into the ark, two and two of all flesh, wherein <span class=\"clarity-word\">is</span> the breath of life.", 
+      "number": "15", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in.", 
+      "contentHtml": "And they that went in, went in male and female of all flesh, as God had commanded him: and the <span class=\"small-caps\">Lord</span> shut him in.", 
+      "number": "16", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.", 
+      "contentHtml": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth.", 
+      "number": "17", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.", 
+      "contentHtml": "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters.", 
+      "number": "18", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered.", 
+      "contentHtml": "And the waters prevailed exceedingly upon the earth; and all the high hills, that <span class=\"clarity-word\">were</span> under the whole heaven, were covered.", 
+      "number": "19", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Fifteen cubits upward did the waters prevail; and the mountains were covered.", 
+      "contentHtml": "Fifteen cubits upward did the waters prevail; and the mountains were covered.", 
+      "number": "20", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:", 
+      "contentHtml": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:", 
+      "number": "21", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "All in whose nostrils was the breath of life, of all that was in the dry land, died.", 
+      "contentHtml": "All in whose nostrils <span class=\"clarity-word\">was</span> the breath of life, of all that <span class=\"clarity-word\">was</span> in the dry <span class=\"clarity-word\">land,</span> died.", 
+      "number": "22", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark.", 
+      "contentHtml": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained <span class=\"clarity-word\">alive</span><span class=\"clarity-word\">,</span> and they that <span class=\"clarity-word\">were</span> with him in the ark.", 
+      "number": "23", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And the waters prevailed upon the earth an hundred and fifty days.", 
+      "contentHtml": "And the waters prevailed upon the earth an hundred and fifty days.", 
+      "number": "24", 
+      "pageNumber": "11", 
+      "compareId": "genesis-7_v24", 
+      "churchId": "p24"
+    }
+  ], 
+  "media": []
+}

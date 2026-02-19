@@ -1,0 +1,33 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Other
+*.log
+*.tmp
+*.bak
+tmp/
+logs/
+.agents/
+.github/
+AGENTS.md
+
+# Settings
+.vscode/
+.idea/
+.nova/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+*.env.*
+*.env
+
+
+

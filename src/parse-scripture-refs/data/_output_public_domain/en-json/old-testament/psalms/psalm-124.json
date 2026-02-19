@@ -1,0 +1,109 @@
+{
+  "name": "Psalm 124", 
+  "abbrev": "Ps. 124", 
+  "number": "124", 
+  "churchUri": "/scriptures/ot/ps/124", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 124", 
+      "contentHtml": "Psalm 124", 
+      "number": null, 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Song of degrees of David.", 
+      "contentHtml": "A Song of degrees of David.", 
+      "number": null, 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "If it had not been the LORD who was on our side, now may Israel say;", 
+      "contentHtml": "If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"small-caps\">Lord</span> who was on our side, now may Israel say;", 
+      "number": "1", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "If it had not been the LORD who was on our side, when men rose up against us:", 
+      "contentHtml": "If <span class=\"clarity-word\">it had</span> not <span class=\"clarity-word\">been</span> the <span class=\"small-caps\">Lord</span> who was on our side, when men rose up against us:", 
+      "number": "2", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Then they had swallowed us up quick, when their wrath was kindled against us:", 
+      "contentHtml": "Then they had swallowed us up quick, when their wrath was kindled against us:", 
+      "number": "3", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Then the waters had overwhelmed us, the stream had gone over our soul:", 
+      "contentHtml": "Then the waters had overwhelmed us, the stream had gone over our soul:", 
+      "number": "4", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Then the proud waters had gone over our soul.", 
+      "contentHtml": "Then the proud waters had gone over our soul.", 
+      "number": "5", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Blessed be the LORD, who hath not given us as a prey to their teeth.", 
+      "contentHtml": "Blessed <span class=\"clarity-word\">be</span> the <span class=\"small-caps\">Lord</span>, who hath not given us <span class=\"clarity-word\">as</span> a prey to their teeth.", 
+      "number": "6", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.", 
+      "contentHtml": "Our soul is escaped as a bird out of the snare of the fowlers: the snare is broken, and we are escaped.", 
+      "number": "7", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Our help is in the name of the LORD, who made heaven and earth.", 
+      "contentHtml": "Our help <span class=\"clarity-word\">is</span> in the name of the <span class=\"small-caps\">Lord</span>, who made heaven and earth.", 
+      "number": "8", 
+      "pageNumber": "799", 
+      "compareId": "psalm-124_v8", 
+      "churchId": "p8"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,1029 @@
+{
+  "name": "Doctrine and Covenants 101", 
+  "abbrev": "D&C 101", 
+  "number": "101", 
+  "churchUri": "/scriptures/dc-testament/dc/101", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Section 101", 
+      "contentHtml": "Section 101", 
+      "number": null, 
+      "pageNumber": "194", 
+      "compareId": "section-101_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Verily I say unto you, concerning your brethren who have been afflicted, and persecuted, and cast out from the land of their inheritance—", 
+      "contentHtml": "Verily I say unto you, concerning your brethren who have been afflicted, and persecuted, and cast out from the land of their inheritance—", 
+      "number": "1", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions;", 
+      "contentHtml": "I, the Lord, have suffered the affliction to come upon them, wherewith they have been afflicted, in consequence of their transgressions;", 
+      "number": "2", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Yet I will own them, and they shall be mine in that day when I shall come to make up my jewels.", 
+      "contentHtml": "Yet I will own them, and they shall be mine in that day when I shall come to make up my jewels.", 
+      "number": "3", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Therefore, they must needs be chastened and tried, even as Abraham, who was commanded to offer up his only son.", 
+      "contentHtml": "Therefore, they must needs be chastened and tried, even as Abraham, who was commanded to offer up his only son.", 
+      "number": "4", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "For all those who will not endure chastening, but deny me, cannot be sanctified.", 
+      "contentHtml": "For all those who will not endure chastening, but deny me, cannot be sanctified.", 
+      "number": "5", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Behold, I say unto you, there were jarrings, and contentions, and envyings, and strifes, and lustful and covetous desires among them; therefore by these things they polluted their inheritances.", 
+      "contentHtml": "Behold, I say unto you, there were jarrings, and contentions, and envyings, and strifes, and lustful and covetous desires among them; therefore by these things they polluted their inheritances.", 
+      "number": "6", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "They were slow to hearken unto the voice of the Lord their God; therefore, the Lord their God is slow to hearken unto their prayers, to answer them in the day of their trouble.", 
+      "contentHtml": "They were slow to hearken unto the voice of the Lord their God; therefore, the Lord their God is slow to hearken unto their prayers, to answer them in the day of their trouble.", 
+      "number": "7", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "In the day of their peace they esteemed lightly my counsel; but, in the day of their trouble, of necessity they feel after me.", 
+      "contentHtml": "In the day of their peace they esteemed lightly my counsel; but, in the day of their trouble, of necessity they feel after me.", 
+      "number": "8", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Verily I say unto you, notwithstanding their sins, my bowels are filled with compassion towards them. I will not utterly cast them off; and in the day of wrath I will remember mercy.", 
+      "contentHtml": "Verily I say unto you, notwithstanding their sins, my bowels are filled with compassion towards them. I will not utterly cast them off; and in the day of wrath I will remember mercy.", 
+      "number": "9", 
+      "pageNumber": "194", 
+      "compareId": "section-101_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "I have sworn, and the decree hath gone forth by a former commandment which I have given unto you, that I would let fall the sword of mine indignation in behalf of my people; and even as I have said, it shall come to pass.", 
+      "contentHtml": "I have sworn, and the decree hath gone forth by a former commandment which I have given unto you, that I would let fall the sword of mine indignation in behalf of my people; and even as I have said, it shall come to pass.", 
+      "number": "10", 
+      "pageNumber": "194,196", 
+      "compareId": "section-101_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Mine indignation is soon to be poured out without measure upon all nations; and this will I do when the cup of their iniquity is full.", 
+      "contentHtml": "Mine indignation is soon to be poured out without measure upon all nations; and this will I do when the cup of their iniquity is full.", 
+      "number": "11", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And in that day all who are found upon the watch-tower, or in other words, all mine Israel, shall be saved.", 
+      "contentHtml": "And in that day all who are found upon the watch-tower, or in other words, all mine Israel, shall be saved.", 
+      "number": "12", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And they that have been scattered shall be gathered.", 
+      "contentHtml": "And they that have been scattered shall be gathered.", 
+      "number": "13", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And all they who have mourned shall be comforted.", 
+      "contentHtml": "And all they who have mourned shall be comforted.", 
+      "number": "14", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And all they who have given their lives for my name shall be crowned.", 
+      "contentHtml": "And all they who have given their lives for my name shall be crowned.", 
+      "number": "15", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Therefore, let your hearts be comforted concerning Zion; for all flesh is in mine hands; be still and know that I am God.", 
+      "contentHtml": "Therefore, let your hearts be comforted concerning Zion; for all flesh is in mine hands; be still and know that I am God.", 
+      "number": "16", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Zion shall not be moved out of her place, notwithstanding her children are scattered.", 
+      "contentHtml": "Zion shall not be moved out of her place, notwithstanding her children are scattered.", 
+      "number": "17", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "They that remain, and are pure in heart, shall return, and come to their inheritances, they and their children, with songs of everlasting joy, to build up the waste places of Zion—", 
+      "contentHtml": "They that remain, and are pure in heart, shall return, and come to their inheritances, they and their children, with songs of everlasting joy, to build up the waste places of Zion—", 
+      "number": "18", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And all these things that the prophets might be fulfilled.", 
+      "contentHtml": "And all these things that the prophets might be fulfilled.", 
+      "number": "19", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And, behold, there is none other place appointed than that which I have appointed; neither shall there be any other place appointed than that which I have appointed, for the work of the gathering of my saints—", 
+      "contentHtml": "And, behold, there is none other place appointed than that which I have appointed; neither shall there be any other place appointed than that which I have appointed, for the work of the gathering of my saints—", 
+      "number": "20", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Until the day cometh when there is found no more room for them; and then I have other places which I will appoint unto them, and they shall be called stakes, for the curtains or the strength of Zion.", 
+      "contentHtml": "Until the day cometh when there is found no more room for them; and then I have other places which I will appoint unto them, and they shall be called stakes, for the curtains or the strength of Zion.", 
+      "number": "21", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "Behold, it is my will, that all they who call on my name, and worship me according to mine everlasting gospel, should gather together, and stand in holy places;", 
+      "contentHtml": "Behold, it is my will, that all they who call on my name, and worship me according to mine everlasting gospel, should gather together, and stand in holy places;", 
+      "number": "22", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And prepare for the revelation which is to come, when the veil of the covering of my temple, in my tabernacle, which hideth the earth, shall be taken off, and all flesh shall see me together.", 
+      "contentHtml": "And prepare for the revelation which is to come, when the veil of the covering of my temple, in my tabernacle, which hideth the earth, shall be taken off, and all flesh shall see me together.", 
+      "number": "23", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And every corruptible thing, both of man, or of the beasts of the field, or of the fowls of the heavens, or of the fish of the sea, that dwells upon all the face of the earth, shall be consumed;", 
+      "contentHtml": "And every corruptible thing, both of man, or of the beasts of the field, or of the fowls of the heavens, or of the fish of the sea, that dwells upon all the face of the earth, shall be consumed;", 
+      "number": "24", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And also that of element shall melt with fervent heat; and all things shall become new, that my knowledge and glory may dwell upon all the earth.", 
+      "contentHtml": "And also that of element shall melt with fervent heat; and all things shall become new, that my knowledge and glory may dwell upon all the earth.", 
+      "number": "25", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And in that day the enmity of man, and the enmity of beasts, yea, the enmity of all flesh, shall cease from before my face.", 
+      "contentHtml": "And in that day the enmity of man, and the enmity of beasts, yea, the enmity of all flesh, shall cease from before my face.", 
+      "number": "26", 
+      "pageNumber": "196", 
+      "compareId": "section-101_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And in that day whatsoever any man shall ask, it shall be given unto him.", 
+      "contentHtml": "And in that day whatsoever any man shall ask, it shall be given unto him.", 
+      "number": "27", 
+      "pageNumber": "196,197", 
+      "compareId": "section-101_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "And in that day Satan shall not have power to tempt any man.", 
+      "contentHtml": "And in that day Satan shall not have power to tempt any man.", 
+      "number": "28", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "And there shall be no sorrow because there is no death.", 
+      "contentHtml": "And there shall be no sorrow because there is no death.", 
+      "number": "29", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "In that day an infant shall not die until he is old; and his life shall be as the age of a tree;", 
+      "contentHtml": "In that day an infant shall not die until he is old; and his life shall be as the age of a tree;", 
+      "number": "30", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And when he dies he shall not sleep, that is to say in the earth, but shall be changed in the twinkling of an eye, and shall be caught up, and his rest shall be glorious.", 
+      "contentHtml": "And when he dies he shall not sleep, that is to say in the earth, but shall be changed in the twinkling of an eye, and shall be caught up, and his rest shall be glorious.", 
+      "number": "31", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "Yea, verily I say unto you, in that day when the Lord shall come, he shall reveal all things—", 
+      "contentHtml": "Yea, verily I say unto you, in that day when the Lord shall come, he shall reveal all things—", 
+      "number": "32", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "Things which have passed, and hidden things which no man knew, things of the earth, by which it was made, and the purpose and the end thereof—", 
+      "contentHtml": "Things which have passed, and hidden things which no man knew, things of the earth, by which it was made, and the purpose and the end thereof—", 
+      "number": "33", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "Things most precious, things that are above, and things that are beneath, things that are in the earth, and upon the earth, and in heaven.", 
+      "contentHtml": "Things most precious, things that are above, and things that are beneath, things that are in the earth, and upon the earth, and in heaven.", 
+      "number": "34", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "And all they who suffer persecution for my name, and endure in faith, though they are called to lay down their lives for my sake yet shall they partake of all this glory.", 
+      "contentHtml": "And all they who suffer persecution for my name, and endure in faith, though they are called to lay down their lives for my sake yet shall they partake of all this glory.", 
+      "number": "35", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "Wherefore, fear not even unto death; for in this world your joy is not full, but in me your joy is full.", 
+      "contentHtml": "Wherefore, fear not even unto death; for in this world your joy is not full, but in me your joy is full.", 
+      "number": "36", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "Therefore, care not for the body, neither the life of the body; but care for the soul, and for the life of the soul.", 
+      "contentHtml": "Therefore, care not for the body, neither the life of the body; but care for the soul, and for the life of the soul.", 
+      "number": "37", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "And seek the face of the Lord always, that in patience ye may possess your souls, and ye shall have eternal life.", 
+      "contentHtml": "And seek the face of the Lord always, that in patience ye may possess your souls, and ye shall have eternal life.", 
+      "number": "38", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "When men are called unto mine everlasting gospel, and covenant with an everlasting covenant, they are accounted as the salt of the earth and the savor of men;", 
+      "contentHtml": "When men are called unto mine everlasting gospel, and covenant with an everlasting covenant, they are accounted as the salt of the earth and the savor of men;", 
+      "number": "39", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "They are called to be the savor of men; therefore, if that salt of the earth lose its savor, behold, it is thenceforth good for nothing only to be cast out and trodden under the feet of men.", 
+      "contentHtml": "They are called to be the savor of men; therefore, if that salt of the earth lose its savor, behold, it is thenceforth good for nothing only to be cast out and trodden under the feet of men.", 
+      "number": "40", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "Behold, here is wisdom concerning the children of Zion, even many, but not all; they were found transgressors, therefore they must needs be chastened—", 
+      "contentHtml": "Behold, here is wisdom concerning the children of Zion, even many, but not all; they were found transgressors, therefore they must needs be chastened—", 
+      "number": "41", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "He that exalteth himself shall be abased, and he that abaseth himself shall be exalted.", 
+      "contentHtml": "He that exalteth himself shall be abased, and he that abaseth himself shall be exalted.", 
+      "number": "42", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "And now, I will show unto you a parable, that you may know my will concerning the redemption of Zion.", 
+      "contentHtml": "And now, I will show unto you a parable, that you may know my will concerning the redemption of Zion.", 
+      "number": "43", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v43", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v44", 
+      "content": "A certain nobleman had a spot of land, very choice; and he said unto his servants: Go ye unto my vineyard, even upon this very choice piece of land, and plant twelve olive trees;", 
+      "contentHtml": "A certain nobleman had a spot of land, very choice; and he said unto his servants: Go ye unto my vineyard, even upon this very choice piece of land, and plant twelve olive trees;", 
+      "number": "44", 
+      "pageNumber": "197", 
+      "compareId": "section-101_v44", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v45", 
+      "content": "And set watchmen round about them, and build a tower, that one may overlook the land round about, to be a watchman upon the tower, that mine olive trees may not be broken down when the enemy shall come to spoil and take upon themselves the fruit of my vineyard.", 
+      "contentHtml": "And set watchmen round about them, and build a tower, that one may overlook the land round about, to be a watchman upon the tower, that mine olive trees may not be broken down when the enemy shall come to spoil and take upon themselves the fruit of my vineyard.", 
+      "number": "45", 
+      "pageNumber": "197,198", 
+      "compareId": "section-101_v45", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v46", 
+      "content": "Now, the servants of the nobleman went and did as their lord commanded them, and planted the olive trees, and built a hedge round about, and set watchmen, and began to build a tower.", 
+      "contentHtml": "Now, the servants of the nobleman went and did as their lord commanded them, and planted the olive trees, and built a hedge round about, and set watchmen, and began to build a tower.", 
+      "number": "46", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v46", 
+      "churchId": "p46"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v47", 
+      "content": "And while they were yet laying the foundation thereof, they began to say among themselves: And what need hath my lord of this tower?", 
+      "contentHtml": "And while they were yet laying the foundation thereof, they began to say among themselves: And what need hath my lord of this tower?", 
+      "number": "47", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v47", 
+      "churchId": "p47"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v48", 
+      "content": "And consulted for a long time, saying among themselves: What need hath my lord of this tower, seeing this is a time of peace?", 
+      "contentHtml": "And consulted for a long time, saying among themselves: What need hath my lord of this tower, seeing this is a time of peace?", 
+      "number": "48", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v48", 
+      "churchId": "p48"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v49", 
+      "content": "Might not this money be given to the exchangers? For there is no need of these things.", 
+      "contentHtml": "Might not this money be given to the exchangers? For there is no need of these things.", 
+      "number": "49", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v49", 
+      "churchId": "p49"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v50", 
+      "content": "And while they were at variance one with another they became very slothful, and they hearkened not unto the commandments of their lord.", 
+      "contentHtml": "And while they were at variance one with another they became very slothful, and they hearkened not unto the commandments of their lord.", 
+      "number": "50", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v50", 
+      "churchId": "p50"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v51", 
+      "content": "And the enemy came by night, and broke down the hedge; and the servants of the nobleman arose and were affrighted, and fled; and the enemy destroyed their works, and broke down the olive trees.", 
+      "contentHtml": "And the enemy came by night, and broke down the hedge; and the servants of the nobleman arose and were affrighted, and fled; and the enemy destroyed their works, and broke down the olive trees.", 
+      "number": "51", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v51", 
+      "churchId": "p51"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v52", 
+      "content": "Now, behold, the nobleman, the lord of the vineyard, called upon his servants, and said unto them, Why! what is the cause of this great evil?", 
+      "contentHtml": "Now, behold, the nobleman, the lord of the vineyard, called upon his servants, and said unto them, Why! what is the cause of this great evil?", 
+      "number": "52", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v52", 
+      "churchId": "p52"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v53", 
+      "content": "Ought ye not to have done even as I commanded you, and—after ye had planted the vineyard, and built the hedge round about, and set watchmen upon the walls thereof—built the tower also, and set a watchman upon the tower, and watched for my vineyard, and not have fallen asleep, lest the enemy should come upon you?", 
+      "contentHtml": "Ought ye not to have done even as I commanded you, and—after ye had planted the vineyard, and built the hedge round about, and set watchmen upon the walls thereof—built the tower also, and set a watchman upon the tower, and watched for my vineyard, and not have fallen asleep, lest the enemy should come upon you?", 
+      "number": "53", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v53", 
+      "churchId": "p53"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v54", 
+      "content": "And behold, the watchman upon the tower would have seen the enemy while he was yet afar off; and then ye could have made ready and kept the enemy from breaking down the hedge thereof, and saved my vineyard from the hands of the destroyer.", 
+      "contentHtml": "And behold, the watchman upon the tower would have seen the enemy while he was yet afar off; and then ye could have made ready and kept the enemy from breaking down the hedge thereof, and saved my vineyard from the hands of the destroyer.", 
+      "number": "54", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v54", 
+      "churchId": "p54"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v55", 
+      "content": "And the lord of the vineyard said unto one of his servants: Go and gather together the residue of my servants, and take all the strength of mine house, which are my warriors, my young men, and they that are of middle age also among all my servants, who are the strength of mine house, save those only whom I have appointed to tarry;", 
+      "contentHtml": "And the lord of the vineyard said unto one of his servants: Go and gather together the residue of my servants, and take all the strength of mine house, which are my warriors, my young men, and they that are of middle age also among all my servants, who are the strength of mine house, save those only whom I have appointed to tarry;", 
+      "number": "55", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v55", 
+      "churchId": "p55"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v56", 
+      "content": "And go ye straightway unto the land of my vineyard, and redeem my vineyard; for it is mine; I have bought it with money.", 
+      "contentHtml": "And go ye straightway unto the land of my vineyard, and redeem my vineyard; for it is mine; I have bought it with money.", 
+      "number": "56", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v56", 
+      "churchId": "p56"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v57", 
+      "content": "Therefore, get ye straightway unto my land; break down the walls of mine enemies; throw down their tower, and scatter their watchmen.", 
+      "contentHtml": "Therefore, get ye straightway unto my land; break down the walls of mine enemies; throw down their tower, and scatter their watchmen.", 
+      "number": "57", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v57", 
+      "churchId": "p57"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v58", 
+      "content": "And inasmuch as they gather together against you, avenge me of mine enemies, that by and by I may come with the residue of mine house and possess the land.", 
+      "contentHtml": "And inasmuch as they gather together against you, avenge me of mine enemies, that by and by I may come with the residue of mine house and possess the land.", 
+      "number": "58", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v58", 
+      "churchId": "p58"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v59", 
+      "content": "And the servant said unto his lord: When shall these things be?", 
+      "contentHtml": "And the servant said unto his lord: When shall these things be?", 
+      "number": "59", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v59", 
+      "churchId": "p59"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v60", 
+      "content": "And he said unto his servant: When I will; go ye straightway, and do all things whatsoever I have commanded you;", 
+      "contentHtml": "And he said unto his servant: When I will; go ye straightway, and do all things whatsoever I have commanded you;", 
+      "number": "60", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v60", 
+      "churchId": "p60"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v61", 
+      "content": "And this shall be my seal and blessing upon you—a faithful and wise steward in the midst of mine house, a ruler in my kingdom.", 
+      "contentHtml": "And this shall be my seal and blessing upon you—a faithful and wise steward in the midst of mine house, a ruler in my kingdom.", 
+      "number": "61", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v61", 
+      "churchId": "p61"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v62", 
+      "content": "And his servant went straightway, and did all things whatsoever his lord commanded him; and after many days all things were fulfilled.", 
+      "contentHtml": "And his servant went straightway, and did all things whatsoever his lord commanded him; and after many days all things were fulfilled.", 
+      "number": "62", 
+      "pageNumber": "198", 
+      "compareId": "section-101_v62", 
+      "churchId": "p62"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v63", 
+      "content": "Again, verily I say unto you, I will show unto you wisdom in me concerning all the churches, inasmuch as they are willing to be guided in a right and proper way for their salvation—", 
+      "contentHtml": "Again, verily I say unto you, I will show unto you wisdom in me concerning all the churches, inasmuch as they are willing to be guided in a right and proper way for their salvation—", 
+      "number": "63", 
+      "pageNumber": "198,199", 
+      "compareId": "section-101_v63", 
+      "churchId": "p63"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v64", 
+      "content": "That the work of the gathering together of my saints may continue, that I may build them up unto my name upon holy places; for the time of harvest is come, and my word must needs be fulfilled.", 
+      "contentHtml": "That the work of the gathering together of my saints may continue, that I may build them up unto my name upon holy places; for the time of harvest is come, and my word must needs be fulfilled.", 
+      "number": "64", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v64", 
+      "churchId": "p64"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v65", 
+      "content": "Therefore, I must gather together my people, according to the parable of the wheat and the tares, that the wheat may be secured in the garners to possess eternal life, and be crowned with celestial glory, when I shall come in the kingdom of my Father to reward every man according as his work shall be;", 
+      "contentHtml": "Therefore, I must gather together my people, according to the parable of the wheat and the tares, that the wheat may be secured in the garners to possess eternal life, and be crowned with celestial glory, when I shall come in the kingdom of my Father to reward every man according as his work shall be;", 
+      "number": "65", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v65", 
+      "churchId": "p65"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v66", 
+      "content": "While the tares shall be bound in bundles, and their bands made strong, that they may be burned with unquenchable fire.", 
+      "contentHtml": "While the tares shall be bound in bundles, and their bands made strong, that they may be burned with unquenchable fire.", 
+      "number": "66", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v66", 
+      "churchId": "p66"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v67", 
+      "content": "Therefore, a commandment I give unto all the churches, that they shall continue to gather together unto the places which I have appointed.", 
+      "contentHtml": "Therefore, a commandment I give unto all the churches, that they shall continue to gather together unto the places which I have appointed.", 
+      "number": "67", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v67", 
+      "churchId": "p67"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v68", 
+      "content": "Nevertheless, as I have said unto you in a former commandment, let not your gathering be in haste, nor by flight; but let all things be prepared before you.", 
+      "contentHtml": "Nevertheless, as I have said unto you in a former commandment, let not your gathering be in haste, nor by flight; but let all things be prepared before you.", 
+      "number": "68", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v68", 
+      "churchId": "p68"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v69", 
+      "content": "And in order that all things be prepared before you, observe the commandment which I have given concerning these things—", 
+      "contentHtml": "And in order that all things be prepared before you, observe the commandment which I have given concerning these things—", 
+      "number": "69", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v69", 
+      "churchId": "p69"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v70", 
+      "content": "Which saith, or teacheth, to purchase all the lands with money, which can be purchased for money, in the region round about the land which I have appointed to be the land of Zion, for the beginning of the gathering of my saints;", 
+      "contentHtml": "Which saith, or teacheth, to purchase all the lands with money, which can be purchased for money, in the region round about the land which I have appointed to be the land of Zion, for the beginning of the gathering of my saints;", 
+      "number": "70", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v70", 
+      "churchId": "p70"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v71", 
+      "content": "All the land which can be purchased in Jackson county, and the counties round about, and leave the residue in mine hand.", 
+      "contentHtml": "All the land which can be purchased in Jackson county, and the counties round about, and leave the residue in mine hand.", 
+      "number": "71", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v71", 
+      "churchId": "p71"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v72", 
+      "content": "Now, verily I say unto you, let all the churches gather together all their moneys; let these things be done in their time, but not in haste; and observe to have all things prepared before you.", 
+      "contentHtml": "Now, verily I say unto you, let all the churches gather together all their moneys; let these things be done in their time, but not in haste; and observe to have all things prepared before you.", 
+      "number": "72", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v72", 
+      "churchId": "p72"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v73", 
+      "content": "And let honorable men be appointed, even wise men, and send them to purchase these lands.", 
+      "contentHtml": "And let honorable men be appointed, even wise men, and send them to purchase these lands.", 
+      "number": "73", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v73", 
+      "churchId": "p73"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v74", 
+      "content": "And the churches in the eastern countries, when they are built up, if they will hearken unto this counsel they may buy lands and gather together upon them; and in this way they may establish Zion.", 
+      "contentHtml": "And the churches in the eastern countries, when they are built up, if they will hearken unto this counsel they may buy lands and gather together upon them; and in this way they may establish Zion.", 
+      "number": "74", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v74", 
+      "churchId": "p74"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v75", 
+      "content": "There is even now already in store sufficient, yea, even an abundance, to redeem Zion, and establish her waste places, no more to be thrown down, were the churches, who call themselves after my name, willing to hearken to my voice.", 
+      "contentHtml": "There is even now already in store sufficient, yea, even an abundance, to redeem Zion, and establish her waste places, no more to be thrown down, were the churches, who call themselves after my name, willing to hearken to my voice.", 
+      "number": "75", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v75", 
+      "churchId": "p75"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v76", 
+      "content": "And again I say unto you, those who have been scattered by their enemies, it is my will that they should continue to importune for redress, and redemption, by the hands of those who are placed as rulers and are in authority over you—", 
+      "contentHtml": "And again I say unto you, those who have been scattered by their enemies, it is my will that they should continue to importune for redress, and redemption, by the hands of those who are placed as rulers and are in authority over you—", 
+      "number": "76", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v76", 
+      "churchId": "p76"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v77", 
+      "content": "According to the laws and constitution of the people, which I have suffered to be established, and should be maintained for the rights and protection of all flesh, according to just and holy principles;", 
+      "contentHtml": "According to the laws and constitution of the people, which I have suffered to be established, and should be maintained for the rights and protection of all flesh, according to just and holy principles;", 
+      "number": "77", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v77", 
+      "churchId": "p77"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v78", 
+      "content": "That every man may act in doctrine and principle pertaining to futurity, according to the moral agency which I have given unto him, that every man may be accountable for his own sins in the day of judgment.", 
+      "contentHtml": "That every man may act in doctrine and principle pertaining to futurity, according to the moral agency which I have given unto him, that every man may be accountable for his own sins in the day of judgment.", 
+      "number": "78", 
+      "pageNumber": "199", 
+      "compareId": "section-101_v78", 
+      "churchId": "p78"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v79", 
+      "content": "Therefore, it is not right that any man should be in bondage one to another.", 
+      "contentHtml": "Therefore, it is not right that any man should be in bondage one to another.", 
+      "number": "79", 
+      "pageNumber": "199,200", 
+      "compareId": "section-101_v79", 
+      "churchId": "p79"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v80", 
+      "content": "And for this purpose have I established the Constitution of this land, by the hands of wise men whom I raised up unto this very purpose, and redeemed the land by the shedding of blood.", 
+      "contentHtml": "And for this purpose have I established the Constitution of this land, by the hands of wise men whom I raised up unto this very purpose, and redeemed the land by the shedding of blood.", 
+      "number": "80", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v80", 
+      "churchId": "p80"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v81", 
+      "content": "Now, unto what shall I liken the children of Zion? I will liken them unto the parable of the woman and the unjust judge, for men ought always to pray and not to faint, which saith—", 
+      "contentHtml": "Now, unto what shall I liken the children of Zion? I will liken them unto the parable of the woman and the unjust judge, for men ought always to pray and not to faint, which saith—", 
+      "number": "81", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v81", 
+      "churchId": "p81"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v82", 
+      "content": "There was in a city a judge which feared not God, neither regarded man.", 
+      "contentHtml": "There was in a city a judge which feared not God, neither regarded man.", 
+      "number": "82", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v82", 
+      "churchId": "p82"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v83", 
+      "content": "And there was a widow in that city, and she came unto him, saying: Avenge me of mine adversary.", 
+      "contentHtml": "And there was a widow in that city, and she came unto him, saying: Avenge me of mine adversary.", 
+      "number": "83", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v83", 
+      "churchId": "p83"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v84", 
+      "content": "And he would not for a while, but afterward he said within himself: Though I fear not God, nor regard man, yet because this widow troubleth me I will avenge her, lest by her continual coming she weary me.", 
+      "contentHtml": "And he would not for a while, but afterward he said within himself: Though I fear not God, nor regard man, yet because this widow troubleth me I will avenge her, lest by her continual coming she weary me.", 
+      "number": "84", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v84", 
+      "churchId": "p84"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v85", 
+      "content": "Thus will I liken the children of Zion.", 
+      "contentHtml": "Thus will I liken the children of Zion.", 
+      "number": "85", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v85", 
+      "churchId": "p85"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v86", 
+      "content": "Let them importune at the feet of the judge;", 
+      "contentHtml": "Let them importune at the feet of the judge;", 
+      "number": "86", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v86", 
+      "churchId": "p86"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v87", 
+      "content": "And if he heed them not, let them importune at the feet of the governor;", 
+      "contentHtml": "And if he heed them not, let them importune at the feet of the governor;", 
+      "number": "87", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v87", 
+      "churchId": "p87"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v88", 
+      "content": "And if the governor heed them not, let them importune at the feet of the president;", 
+      "contentHtml": "And if the governor heed them not, let them importune at the feet of the president;", 
+      "number": "88", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v88", 
+      "churchId": "p88"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v89", 
+      "content": "And if the president heed them not, then will the Lord arise and come forth out of his hiding place, and in his fury vex the nation;", 
+      "contentHtml": "And if the president heed them not, then will the Lord arise and come forth out of his hiding place, and in his fury vex the nation;", 
+      "number": "89", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v89", 
+      "churchId": "p89"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v90", 
+      "content": "And in his hot displeasure, and in his fierce anger, in his time, will cut off those wicked, unfaithful, and unjust stewards, and appoint them their portion among hypocrites, and unbelievers;", 
+      "contentHtml": "And in his hot displeasure, and in his fierce anger, in his time, will cut off those wicked, unfaithful, and unjust stewards, and appoint them their portion among hypocrites, and unbelievers;", 
+      "number": "90", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v90", 
+      "churchId": "p90"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v91", 
+      "content": "Even in outer darkness, where there is weeping, and wailing, and gnashing of teeth.", 
+      "contentHtml": "Even in outer darkness, where there is weeping, and wailing, and gnashing of teeth.", 
+      "number": "91", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v91", 
+      "churchId": "p91"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v92", 
+      "content": "Pray ye, therefore, that their ears may be opened unto your cries, that I may be merciful unto them, that these things may not come upon them.", 
+      "contentHtml": "Pray ye, therefore, that their ears may be opened unto your cries, that I may be merciful unto them, that these things may not come upon them.", 
+      "number": "92", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v92", 
+      "churchId": "p92"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v93", 
+      "content": "What I have said unto you must needs be, that all men may be left without excuse;", 
+      "contentHtml": "What I have said unto you must needs be, that all men may be left without excuse;", 
+      "number": "93", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v93", 
+      "churchId": "p93"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v94", 
+      "content": "That wise men and rulers may hear and know that which they have never considered;", 
+      "contentHtml": "That wise men and rulers may hear and know that which they have never considered;", 
+      "number": "94", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v94", 
+      "churchId": "p94"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v95", 
+      "content": "That I may proceed to bring to pass my act, my strange act, and perform my work, my strange work, that men may discern between the righteous and the wicked, saith your God.", 
+      "contentHtml": "That I may proceed to bring to pass my act, my strange act, and perform my work, my strange work, that men may discern between the righteous and the wicked, saith your God.", 
+      "number": "95", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v95", 
+      "churchId": "p95"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v96", 
+      "content": "And again, I say unto you, it is contrary to my commandment and my will that my servant Sidney Gilbert should sell my storehouse, which I have appointed unto my people, into the hands of mine enemies.", 
+      "contentHtml": "And again, I say unto you, it is contrary to my commandment and my will that my servant Sidney Gilbert should sell my storehouse, which I have appointed unto my people, into the hands of mine enemies.", 
+      "number": "96", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v96", 
+      "churchId": "p96"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v97", 
+      "content": "Let not that which I have appointed be polluted by mine enemies, by the consent of those who call themselves after my name;", 
+      "contentHtml": "Let not that which I have appointed be polluted by mine enemies, by the consent of those who call themselves after my name;", 
+      "number": "97", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v97", 
+      "churchId": "p97"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v98", 
+      "content": "For this is a very sore and grievous sin against me, and against my people, in consequence of those things which I have decreed and which are soon to befall the nations.", 
+      "contentHtml": "For this is a very sore and grievous sin against me, and against my people, in consequence of those things which I have decreed and which are soon to befall the nations.", 
+      "number": "98", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v98", 
+      "churchId": "p98"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v99", 
+      "content": "Therefore, it is my will that my people should claim, and hold claim upon that which I have appointed unto them, though they should not be permitted to dwell thereon.", 
+      "contentHtml": "Therefore, it is my will that my people should claim, and hold claim upon that which I have appointed unto them, though they should not be permitted to dwell thereon.", 
+      "number": "99", 
+      "pageNumber": "200", 
+      "compareId": "section-101_v99", 
+      "churchId": "p99"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v100", 
+      "content": "Nevertheless, I do not say they shall not dwell thereon; for inasmuch as they bring forth fruit and works meet for my kingdom they shall dwell thereon.", 
+      "contentHtml": "Nevertheless, I do not say they shall not dwell thereon; for inasmuch as they bring forth fruit and works meet for my kingdom they shall dwell thereon.", 
+      "number": "100", 
+      "pageNumber": "201", 
+      "compareId": "section-101_v100", 
+      "churchId": "p100"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v101", 
+      "content": "They shall build, and another shall not inherit it; they shall plant vineyards, and they shall eat the fruit thereof. Even so. Amen.", 
+      "contentHtml": "They shall build, and another shall not inherit it; they shall plant vineyards, and they shall eat the fruit thereof. Even so. Amen.", 
+      "number": "101", 
+      "pageNumber": "201", 
+      "compareId": "section-101_v101", 
+      "churchId": "p101"
+    }
+  ], 
+  "media": []
+}

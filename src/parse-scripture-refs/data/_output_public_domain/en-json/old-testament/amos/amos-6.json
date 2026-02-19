@@ -1,0 +1,159 @@
+{
+  "name": "Amos 6", 
+  "abbrev": "Amos 6", 
+  "number": "6", 
+  "churchUri": "/scriptures/ot/amos/6", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 6", 
+      "contentHtml": "Chapter 6", 
+      "number": null, 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Woe to them that are at ease in Zion, and trust in the mountain of Samaria, which are named chief of the nations, to whom the house of Israel came!", 
+      "contentHtml": "Woe to them <span class=\"clarity-word\">that are</span> at ease in Zion, and trust in the mountain of Samaria, <span class=\"clarity-word\">which are</span> named chief of the nations, to whom the house of Israel came!", 
+      "number": "1", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: be they better than these kingdoms? or their border greater than your border?", 
+      "contentHtml": "Pass ye unto Calneh, and see; and from thence go ye to Hamath the great: then go down to Gath of the Philistines: <span class=\"clarity-word\">be they</span> better than these kingdoms? or their border greater than your border?", 
+      "number": "2", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Ye that put far away the evil day, and cause the seat of violence to come near;", 
+      "contentHtml": "Ye that put far away the evil day, and cause the seat of violence to come near;", 
+      "number": "3", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;", 
+      "contentHtml": "That lie upon beds of ivory, and stretch themselves upon their couches, and eat the lambs out of the flock, and the calves out of the midst of the stall;", 
+      "number": "4", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "That chant to the sound of the viol, and invent to themselves instruments of musick, like David;", 
+      "contentHtml": "That chant to the sound of the viol, <span class=\"clarity-word\">and</span> invent to themselves instruments of musick, like David;", 
+      "number": "5", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.", 
+      "contentHtml": "That drink wine in bowls, and anoint themselves with the chief ointments: but they are not grieved for the affliction of Joseph.", 
+      "number": "6", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "¶ Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed.", 
+      "contentHtml": "¶ Therefore now shall they go captive with the first that go captive, and the banquet of them that stretched themselves shall be removed.", 
+      "number": "7", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "The Lord GOD hath sworn by himself, saith the LORD the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.", 
+      "contentHtml": "The Lord <span class=\"small-caps\">God</span> hath sworn by himself, saith the <span class=\"small-caps\">Lord</span> the God of hosts, I abhor the excellency of Jacob, and hate his palaces: therefore will I deliver up the city with all that is therein.", 
+      "number": "8", 
+      "pageNumber": "1142", 
+      "compareId": "amos-6_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And it shall come to pass, if there remain ten men in one house, that they shall die.", 
+      "contentHtml": "And it shall come to pass, if there remain ten men in one house, that they shall die.", 
+      "number": "9", 
+      "pageNumber": "1143", 
+      "compareId": "amos-6_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And a man’s uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that is by the sides of the house, Is there yet any with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the LORD.", 
+      "contentHtml": "And a man’s uncle shall take him up, and he that burneth him, to bring out the bones out of the house, and shall say unto him that <span class=\"clarity-word\">is</span> by the sides of the house, <span class=\"clarity-word\">Is there</span> yet <span class=\"clarity-word\">any</span> with thee? and he shall say, No. Then shall he say, Hold thy tongue: for we may not make mention of the name of the <span class=\"small-caps\">Lord</span>.", 
+      "number": "10", 
+      "pageNumber": "1143", 
+      "compareId": "amos-6_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "For, behold, the LORD commandeth, and he will smite the great house with breaches, and the little house with clefts.", 
+      "contentHtml": "For, behold, the <span class=\"small-caps\">Lord</span> commandeth, and he will smite the great house with breaches, and the little house with clefts.", 
+      "number": "11", 
+      "pageNumber": "1143", 
+      "compareId": "amos-6_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "¶ Shall horses run upon the rock? will one plow there with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:", 
+      "contentHtml": "¶ Shall horses run upon the rock? will <span class=\"clarity-word\">one</span> plow <span class=\"clarity-word\">there</span> with oxen? for ye have turned judgment into gall, and the fruit of righteousness into hemlock:", 
+      "number": "12", 
+      "pageNumber": "1143", 
+      "compareId": "amos-6_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?", 
+      "contentHtml": "Ye which rejoice in a thing of nought, which say, Have we not taken to us horns by our own strength?", 
+      "number": "13", 
+      "pageNumber": "1143", 
+      "compareId": "amos-6_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "But, behold, I will raise up against you a nation, O house of Israel, saith the LORD the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness.", 
+      "contentHtml": "But, behold, I will raise up against you a nation, O house of Israel, saith the <span class=\"small-caps\">Lord</span> the God of hosts; and they shall afflict you from the entering in of Hemath unto the river of the wilderness.", 
+      "number": "14", 
+      "pageNumber": "1143", 
+      "compareId": "amos-6_v14", 
+      "churchId": "p14"
+    }
+  ], 
+  "media": []
+}

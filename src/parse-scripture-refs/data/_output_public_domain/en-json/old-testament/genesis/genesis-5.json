@@ -1,0 +1,339 @@
+{
+  "name": "Genesis 5", 
+  "abbrev": "Gen. 5", 
+  "number": "5", 
+  "churchUri": "/scriptures/ot/gen/5", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 5", 
+      "contentHtml": "Chapter 5", 
+      "number": null, 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;", 
+      "contentHtml": "This <span class=\"clarity-word\">is</span> the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;", 
+      "number": "1", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.", 
+      "contentHtml": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.", 
+      "number": "2", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "¶ And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:", 
+      "contentHtml": "¶ And Adam lived an hundred and thirty years, and begat <span class=\"clarity-word\">a son</span> in his own likeness, after his image; and called his name Seth:", 
+      "number": "3", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:", 
+      "contentHtml": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:", 
+      "number": "4", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And all the days that Adam lived were nine hundred and thirty years: and he died.", 
+      "contentHtml": "And all the days that Adam lived were nine hundred and thirty years: and he died.", 
+      "number": "5", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And Seth lived an hundred and five years, and begat Enos:", 
+      "contentHtml": "And Seth lived an hundred and five years, and begat Enos:", 
+      "number": "6", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:", 
+      "contentHtml": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:", 
+      "number": "7", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And all the days of Seth were nine hundred and twelve years: and he died.", 
+      "contentHtml": "And all the days of Seth were nine hundred and twelve years: and he died.", 
+      "number": "8", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "¶ And Enos lived ninety years, and begat Cainan:", 
+      "contentHtml": "¶ And Enos lived ninety years, and begat Cainan:", 
+      "number": "9", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:", 
+      "contentHtml": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:", 
+      "number": "10", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And all the days of Enos were nine hundred and five years: and he died.", 
+      "contentHtml": "And all the days of Enos were nine hundred and five years: and he died.", 
+      "number": "11", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "¶ And Cainan lived seventy years, and begat Mahalaleel:", 
+      "contentHtml": "¶ And Cainan lived seventy years, and begat Mahalaleel:", 
+      "number": "12", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:", 
+      "contentHtml": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:", 
+      "number": "13", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And all the days of Cainan were nine hundred and ten years: and he died.", 
+      "contentHtml": "And all the days of Cainan were nine hundred and ten years: and he died.", 
+      "number": "14", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "¶ And Mahalaleel lived sixty and five years, and begat Jared:", 
+      "contentHtml": "¶ And Mahalaleel lived sixty and five years, and begat Jared:", 
+      "number": "15", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:", 
+      "contentHtml": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:", 
+      "number": "16", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died.", 
+      "contentHtml": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died.", 
+      "number": "17", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "¶ And Jared lived an hundred sixty and two years, and he begat Enoch:", 
+      "contentHtml": "¶ And Jared lived an hundred sixty and two years, and he begat Enoch:", 
+      "number": "18", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:", 
+      "contentHtml": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:", 
+      "number": "19", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And all the days of Jared were nine hundred sixty and two years: and he died.", 
+      "contentHtml": "And all the days of Jared were nine hundred sixty and two years: and he died.", 
+      "number": "20", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "¶ And Enoch lived sixty and five years, and begat Methuselah:", 
+      "contentHtml": "¶ And Enoch lived sixty and five years, and begat Methuselah:", 
+      "number": "21", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:", 
+      "contentHtml": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:", 
+      "number": "22", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And all the days of Enoch were three hundred sixty and five years:", 
+      "contentHtml": "And all the days of Enoch were three hundred sixty and five years:", 
+      "number": "23", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And Enoch walked with God: and he was not; for God took him.", 
+      "contentHtml": "And Enoch walked with God: and he <span class=\"clarity-word\">was</span> not; for God took him.", 
+      "number": "24", 
+      "pageNumber": "8", 
+      "compareId": "genesis-5_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:", 
+      "contentHtml": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:", 
+      "number": "25", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:", 
+      "contentHtml": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:", 
+      "number": "26", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And all the days of Methuselah were nine hundred sixty and nine years: and he died.", 
+      "contentHtml": "And all the days of Methuselah were nine hundred sixty and nine years: and he died.", 
+      "number": "27", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "¶ And Lamech lived an hundred eighty and two years, and begat a son:", 
+      "contentHtml": "¶ And Lamech lived an hundred eighty and two years, and begat a son:", 
+      "number": "28", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.", 
+      "contentHtml": "And he called his name Noah, saying, This <span class=\"clarity-word\">same</span> shall comfort us concerning our work and toil of our hands, because of the ground which the <span class=\"small-caps\">Lord</span> hath cursed.", 
+      "number": "29", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:", 
+      "contentHtml": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:", 
+      "number": "30", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And all the days of Lamech were seven hundred seventy and seven years: and he died.", 
+      "contentHtml": "And all the days of Lamech were seven hundred seventy and seven years: and he died.", 
+      "number": "31", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.", 
+      "contentHtml": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.", 
+      "number": "32", 
+      "pageNumber": "9", 
+      "compareId": "genesis-5_v32", 
+      "churchId": "p32"
+    }
+  ], 
+  "media": []
+}

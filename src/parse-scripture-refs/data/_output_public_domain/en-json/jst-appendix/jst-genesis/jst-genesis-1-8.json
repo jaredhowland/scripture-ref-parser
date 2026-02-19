@@ -1,0 +1,19 @@
+{
+  "name": "JST, Genesis 1–8", 
+  "abbrev": null, 
+  "number": "1-8", 
+  "churchUri": "/scriptures/jst/jst-gen/1-8", 
+  "paragraphs": [
+    {
+      "type": "section-title", 
+      "id": "st1", 
+      "content": "JST, Genesis 1:1–8:18. Compare Genesis 1:1–6:13", 
+      "contentHtml": "<strong>JST, Genesis 1:1–8:18.</strong> Compare Genesis 1:1–6:13", 
+      "number": null, 
+      "pageNumber": "771,772", 
+      "compareId": "jst-genesis-1-8_st1", 
+      "churchId": "title1"
+    }
+  ], 
+  "media": []
+}

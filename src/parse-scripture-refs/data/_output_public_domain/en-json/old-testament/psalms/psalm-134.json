@@ -1,0 +1,59 @@
+{
+  "name": "Psalm 134", 
+  "abbrev": "Ps. 134", 
+  "number": "134", 
+  "churchUri": "/scriptures/ot/ps/134", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 134", 
+      "contentHtml": "Psalm 134", 
+      "number": null, 
+      "pageNumber": "802", 
+      "compareId": "psalm-134_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Song of degrees.", 
+      "contentHtml": "A Song of degrees.", 
+      "number": null, 
+      "pageNumber": "802", 
+      "compareId": "psalm-134_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Behold, bless ye the LORD, all ye servants of the LORD, which by night stand in the house of the LORD.", 
+      "contentHtml": "Behold, bless ye the <span class=\"small-caps\">Lord</span>, all <span class=\"clarity-word\">ye</span> servants of the <span class=\"small-caps\">Lord</span>, which by night stand in the house of the <span class=\"small-caps\">Lord</span>.", 
+      "number": "1", 
+      "pageNumber": "802", 
+      "compareId": "psalm-134_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Lift up your hands in the sanctuary, and bless the LORD.", 
+      "contentHtml": "Lift up your hands <span class=\"clarity-word\">in</span> the sanctuary, and bless the <span class=\"small-caps\">Lord</span>.", 
+      "number": "2", 
+      "pageNumber": "802", 
+      "compareId": "psalm-134_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "The LORD that made heaven and earth bless thee out of Zion.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> that made heaven and earth bless thee out of Zion.", 
+      "number": "3", 
+      "pageNumber": "802", 
+      "compareId": "psalm-134_v3", 
+      "churchId": "p3"
+    }
+  ], 
+  "media": []
+}

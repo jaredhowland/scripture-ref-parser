@@ -1,0 +1,469 @@
+{
+  "name": "Joshua 21", 
+  "abbrev": "Josh. 21", 
+  "number": "21", 
+  "churchUri": "/scriptures/ot/josh/21", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 21", 
+      "contentHtml": "Chapter 21", 
+      "number": null, 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;", 
+      "contentHtml": "Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;", 
+      "number": "1", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And they spake unto them at Shiloh in the land of Canaan, saying, The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.", 
+      "contentHtml": "And they spake unto them at Shiloh in the land of Canaan, saying, The <span class=\"small-caps\">Lord</span> commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof for our cattle.", 
+      "number": "2", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the LORD, these cities and their suburbs.", 
+      "contentHtml": "And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the <span class=\"small-caps\">Lord</span>, these cities and their suburbs.", 
+      "number": "3", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.", 
+      "contentHtml": "And the lot came out for the families of the Kohathites: and the children of Aaron the priest, <span class=\"clarity-word\">which were</span> of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.", 
+      "number": "4", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.", 
+      "contentHtml": "And the rest of the children of Kohath <span class=\"clarity-word\">had</span> by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.", 
+      "number": "5", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.", 
+      "contentHtml": "And the children of Gershon <span class=\"clarity-word\">had</span> by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.", 
+      "number": "6", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.", 
+      "contentHtml": "The children of Merari by their families <span class=\"clarity-word\">had</span> out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.", 
+      "number": "7", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the LORD commanded by the hand of Moses.", 
+      "contentHtml": "And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the <span class=\"small-caps\">Lord</span> commanded by the hand of Moses.", 
+      "number": "8", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "¶ And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,", 
+      "contentHtml": "¶ And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are <span class=\"clarity-word\">here</span> mentioned by name,", 
+      "number": "9", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Which the children of Aaron, being of the families of the Kohathites, who were of the children of Levi, had: for theirs was the first lot.", 
+      "contentHtml": "Which the children of Aaron, <span class=\"clarity-word\">being</span> of the families of the Kohathites, <span class=\"clarity-word\">who were</span> of the children of Levi, had: for theirs was the first lot.", 
+      "number": "10", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.", 
+      "contentHtml": "And they gave them the city of Arba the father of Anak, which <span class=\"clarity-word\">city is</span> Hebron, in the hill <span class=\"clarity-word\">country</span> of Judah, with the suburbs thereof round about it.", 
+      "number": "11", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.", 
+      "contentHtml": "But the fields of the city, and the villages thereof, gave they to Caleb the son of Jephunneh for his possession.", 
+      "number": "12", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "¶ Thus they gave to the children of Aaron the priest Hebron with her suburbs, to be a city of refuge for the slayer; and Libnah with her suburbs,", 
+      "contentHtml": "¶ Thus they gave to the children of Aaron the priest Hebron with her suburbs, <span class=\"clarity-word\">to be</span> a city of refuge for the slayer; and Libnah with her suburbs,", 
+      "number": "13", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And Jattir with her suburbs, and Eshtemoa with her suburbs,", 
+      "contentHtml": "And Jattir with her suburbs, and Eshtemoa with her suburbs,", 
+      "number": "14", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And Holon with her suburbs, and Debir with her suburbs,", 
+      "contentHtml": "And Holon with her suburbs, and Debir with her suburbs,", 
+      "number": "15", 
+      "pageNumber": "336", 
+      "compareId": "joshua-21_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And Ain with her suburbs, and Juttah with her suburbs, and Beth-shemesh with her suburbs; nine cities out of those two tribes.", 
+      "contentHtml": "And Ain with her suburbs, and Juttah with her suburbs, <span class=\"clarity-word\">and</span> Beth-shemesh with her suburbs; nine cities out of those two tribes.", 
+      "number": "16", 
+      "pageNumber": "336,337", 
+      "compareId": "joshua-21_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,", 
+      "contentHtml": "And out of the tribe of Benjamin, Gibeon with her suburbs, Geba with her suburbs,", 
+      "number": "17", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Anathoth with her suburbs, and Almon with her suburbs; four cities.", 
+      "contentHtml": "Anathoth with her suburbs, and Almon with her suburbs; four cities.", 
+      "number": "18", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs.", 
+      "contentHtml": "All the cities of the children of Aaron, the priests, <span class=\"clarity-word\">were</span> thirteen cities with their suburbs.", 
+      "number": "19", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "¶ And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.", 
+      "contentHtml": "¶ And the families of the children of Kohath, the Levites which remained of the children of Kohath, even they had the cities of their lot out of the tribe of Ephraim.", 
+      "number": "20", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "For they gave them Shechem with her suburbs in mount Ephraim, to be a city of refuge for the slayer; and Gezer with her suburbs,", 
+      "contentHtml": "For they gave them Shechem with her suburbs in mount Ephraim, <span class=\"clarity-word\">to be</span> a city of refuge for the slayer; and Gezer with her suburbs,", 
+      "number": "21", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities.", 
+      "contentHtml": "And Kibzaim with her suburbs, and Beth-horon with her suburbs; four cities.", 
+      "number": "22", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,", 
+      "contentHtml": "And out of the tribe of Dan, Eltekeh with her suburbs, Gibbethon with her suburbs,", 
+      "number": "23", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Aijalon with her suburbs, Gath-rimmon with her suburbs; four cities.", 
+      "contentHtml": "Aijalon with her suburbs, Gath-rimmon with her suburbs; four cities.", 
+      "number": "24", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities.", 
+      "contentHtml": "And out of the half tribe of Manasseh, Tanach with her suburbs, and Gath-rimmon with her suburbs; two cities.", 
+      "number": "25", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "All the cities were ten with their suburbs for the families of the children of Kohath that remained.", 
+      "contentHtml": "All the cities <span class=\"clarity-word\">were</span> ten with their suburbs for the families of the children of Kohath that remained.", 
+      "number": "26", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "¶ And unto the children of Gershon, of the families of the Levites, out of the other half tribe of Manasseh they gave Golan in Bashan with her suburbs, to be a city of refuge for the slayer; and Beesh-terah with her suburbs; two cities.", 
+      "contentHtml": "¶ And unto the children of Gershon, of the families of the Levites, out of the <span class=\"clarity-word\">other</span> half tribe of Manasseh <span class=\"clarity-word\">they gave</span> Golan in Bashan with her suburbs, <span class=\"clarity-word\">to be</span> a city of refuge for the slayer; and Beesh-terah with her suburbs; two cities.", 
+      "number": "27", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,", 
+      "contentHtml": "And out of the tribe of Issachar, Kishon with her suburbs, Dabareh with her suburbs,", 
+      "number": "28", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "Jarmuth with her suburbs, En-gannim with her suburbs; four cities.", 
+      "contentHtml": "Jarmuth with her suburbs, En-gannim with her suburbs; four cities.", 
+      "number": "29", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,", 
+      "contentHtml": "And out of the tribe of Asher, Mishal with her suburbs, Abdon with her suburbs,", 
+      "number": "30", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "Helkath with her suburbs, and Rehob with her suburbs; four cities.", 
+      "contentHtml": "Helkath with her suburbs, and Rehob with her suburbs; four cities.", 
+      "number": "31", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, to be a city of refuge for the slayer; and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities.", 
+      "contentHtml": "And out of the tribe of Naphtali, Kedesh in Galilee with her suburbs, <span class=\"clarity-word\">to be</span> a city of refuge for the slayer; and Hammoth-dor with her suburbs, and Kartan with her suburbs; three cities.", 
+      "number": "32", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "All the cities of the Gershonites according to their families were thirteen cities with their suburbs.", 
+      "contentHtml": "All the cities of the Gershonites according to their families <span class=\"clarity-word\">were</span> thirteen cities with their suburbs.", 
+      "number": "33", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "¶ And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,", 
+      "contentHtml": "¶ And unto the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with her suburbs, and Kartah with her suburbs,", 
+      "number": "34", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Dimnah with her suburbs, Nahalal with her suburbs; four cities.", 
+      "contentHtml": "Dimnah with her suburbs, Nahalal with her suburbs; four cities.", 
+      "number": "35", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,", 
+      "contentHtml": "And out of the tribe of Reuben, Bezer with her suburbs, and Jahazah with her suburbs,", 
+      "number": "36", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities.", 
+      "contentHtml": "Kedemoth with her suburbs, and Mephaath with her suburbs; four cities.", 
+      "number": "37", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, to be a city of refuge for the slayer; and Mahanaim with her suburbs,", 
+      "contentHtml": "And out of the tribe of Gad, Ramoth in Gilead with her suburbs, <span class=\"clarity-word\">to be</span> a city of refuge for the slayer; and Mahanaim with her suburbs,", 
+      "number": "38", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "Heshbon with her suburbs, Jazer with her suburbs; four cities in all.", 
+      "contentHtml": "Heshbon with her suburbs, Jazer with her suburbs; four cities in all.", 
+      "number": "39", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were by their lot twelve cities.", 
+      "contentHtml": "So all the cities for the children of Merari by their families, which were remaining of the families of the Levites, were <span class=\"clarity-word\">by</span> their lot twelve cities.", 
+      "number": "40", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "All the cities of the Levites within the possession of the children of Israel were forty and eight cities with their suburbs.", 
+      "contentHtml": "All the cities of the Levites within the possession of the children of Israel <span class=\"clarity-word\">were</span> forty and eight cities with their suburbs.", 
+      "number": "41", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "These cities were every one with their suburbs round about them: thus were all these cities.", 
+      "contentHtml": "These cities were every one with their suburbs round about them: thus <span class=\"clarity-word\">were</span> all these cities.", 
+      "number": "42", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "¶ And the LORD gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.", 
+      "contentHtml": "¶ And the <span class=\"small-caps\">Lord</span> gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein.", 
+      "number": "43", 
+      "pageNumber": "337", 
+      "compareId": "joshua-21_v43", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v44", 
+      "content": "And the LORD gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the LORD delivered all their enemies into their hand.", 
+      "contentHtml": "And the <span class=\"small-caps\">Lord</span> gave them rest round about, according to all that he sware unto their fathers: and there stood not a man of all their enemies before them; the <span class=\"small-caps\">Lord</span> delivered all their enemies into their hand.", 
+      "number": "44", 
+      "pageNumber": "337,338", 
+      "compareId": "joshua-21_v44", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v45", 
+      "content": "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.", 
+      "contentHtml": "There failed not ought of any good thing which the <span class=\"small-caps\">Lord</span> had spoken unto the house of Israel; all came to pass.", 
+      "number": "45", 
+      "pageNumber": "338", 
+      "compareId": "joshua-21_v45", 
+      "churchId": "p45"
+    }
+  ], 
+  "media": []
+}

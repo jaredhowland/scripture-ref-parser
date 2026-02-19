@@ -1,0 +1,269 @@
+{
+  "name": "Deuteronomy 6", 
+  "abbrev": "Deut. 6", 
+  "number": "6", 
+  "churchUri": "/scriptures/ot/deut/6", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 6", 
+      "contentHtml": "Chapter 6", 
+      "number": null, 
+      "pageNumber": "263", 
+      "compareId": "deuteronomy-6_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it:", 
+      "contentHtml": "Now these <span class=\"clarity-word\">are</span> the commandments, the statutes, and the judgments, which the <span class=\"small-caps\">Lord</span> your God commanded to teach you, that ye might do <span class=\"clarity-word\">them</span> in the land whither ye go to possess it:", 
+      "number": "1", 
+      "pageNumber": "263", 
+      "compareId": "deuteronomy-6_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged.", 
+      "contentHtml": "That thou mightest fear the <span class=\"small-caps\">Lord</span> thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged.", 
+      "number": "2", 
+      "pageNumber": "263", 
+      "compareId": "deuteronomy-6_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "¶ Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey.", 
+      "contentHtml": "¶ Hear therefore, O Israel, and observe to do <span class=\"clarity-word\">it;</span> that it may be well with thee, and that ye may increase mightily, as the <span class=\"small-caps\">Lord</span> God of thy fathers hath promised thee, in the land that floweth with milk and honey.", 
+      "number": "3", 
+      "pageNumber": "263", 
+      "compareId": "deuteronomy-6_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Hear, O Israel: The LORD our God is one LORD:", 
+      "contentHtml": "Hear, O Israel: The <span class=\"small-caps\">Lord</span> our God <span class=\"clarity-word\">is</span> one <span class=\"small-caps\">Lord</span>:", 
+      "number": "4", 
+      "pageNumber": "263", 
+      "compareId": "deuteronomy-6_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.", 
+      "contentHtml": "And thou shalt love the <span class=\"small-caps\">Lord</span> thy God with all thine heart, and with all thy soul, and with all thy might.", 
+      "number": "5", 
+      "pageNumber": "263", 
+      "compareId": "deuteronomy-6_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And these words, which I command thee this day, shall be in thine heart:", 
+      "contentHtml": "And these words, which I command thee this day, shall be in thine heart:", 
+      "number": "6", 
+      "pageNumber": "263", 
+      "compareId": "deuteronomy-6_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.", 
+      "contentHtml": "And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.", 
+      "number": "7", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.", 
+      "contentHtml": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.", 
+      "number": "8", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And thou shalt write them upon the posts of thy house, and on thy gates.", 
+      "contentHtml": "And thou shalt write them upon the posts of thy house, and on thy gates.", 
+      "number": "9", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,", 
+      "contentHtml": "And it shall be, when the <span class=\"small-caps\">Lord</span> thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,", 
+      "number": "10", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;", 
+      "contentHtml": "And houses full of all good <span class=\"clarity-word\">things,</span> which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;", 
+      "number": "11", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Then beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.", 
+      "contentHtml": "<span class=\"clarity-word\">Then</span> beware lest thou forget the <span class=\"small-caps\">Lord</span>, which brought thee forth out of the land of Egypt, from the house of bondage.", 
+      "number": "12", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.", 
+      "contentHtml": "Thou shalt fear the <span class=\"small-caps\">Lord</span> thy God, and serve him, and shalt swear by his name.", 
+      "number": "13", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Ye shall not go after other gods, of the gods of the people which are round about you;", 
+      "contentHtml": "Ye shall not go after other gods, of the gods of the people which <span class=\"clarity-word\">are</span> round about you;", 
+      "number": "14", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "(For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.", 
+      "contentHtml": "(For the <span class=\"small-caps\">Lord</span> thy God <span class=\"clarity-word\">is</span> a jealous God among you) lest the anger of the <span class=\"small-caps\">Lord</span> thy God be kindled against thee, and destroy thee from off the face of the earth.", 
+      "number": "15", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "¶ Ye shall not tempt the LORD your God, as ye tempted him in Massah.", 
+      "contentHtml": "¶ Ye shall not tempt the <span class=\"small-caps\">Lord</span> your God, as ye tempted <span class=\"clarity-word\">him</span> in Massah.", 
+      "number": "16", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.", 
+      "contentHtml": "Ye shall diligently keep the commandments of the <span class=\"small-caps\">Lord</span> your God, and his testimonies, and his statutes, which he hath commanded thee.", 
+      "number": "17", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "And thou shalt do that which is right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers,", 
+      "contentHtml": "And thou shalt do <span class=\"clarity-word\">that which is</span> right and good in the sight of the <span class=\"small-caps\">Lord</span>: that it may be well with thee, and that thou mayest go in and possess the good land which the <span class=\"small-caps\">Lord</span> sware unto thy fathers,", 
+      "number": "18", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "To cast out all thine enemies from before thee, as the LORD hath spoken.", 
+      "contentHtml": "To cast out all thine enemies from before thee, as the <span class=\"small-caps\">Lord</span> hath spoken.", 
+      "number": "19", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?", 
+      "contentHtml": "<span class=\"clarity-word\">And</span> when thy son asketh thee in time to come, saying, What <span class=\"clarity-word\">mean</span> the testimonies, and the statutes, and the judgments, which the <span class=\"small-caps\">Lord</span> our God hath commanded you?", 
+      "number": "20", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:", 
+      "contentHtml": "Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the <span class=\"small-caps\">Lord</span> brought us out of Egypt with a mighty hand:", 
+      "number": "21", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:", 
+      "contentHtml": "And the <span class=\"small-caps\">Lord</span> shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:", 
+      "number": "22", 
+      "pageNumber": "264", 
+      "compareId": "deuteronomy-6_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.", 
+      "contentHtml": "And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.", 
+      "number": "23", 
+      "pageNumber": "264,265", 
+      "compareId": "deuteronomy-6_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as it is at this day.", 
+      "contentHtml": "And the <span class=\"small-caps\">Lord</span> commanded us to do all these statutes, to fear the <span class=\"small-caps\">Lord</span> our God, for our good always, that he might preserve us alive, as <span class=\"clarity-word\">it is</span> at this day.", 
+      "number": "24", 
+      "pageNumber": "265", 
+      "compareId": "deuteronomy-6_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.", 
+      "contentHtml": "And it shall be our righteousness, if we observe to do all these commandments before the <span class=\"small-caps\">Lord</span> our God, as he hath commanded us.", 
+      "number": "25", 
+      "pageNumber": "265", 
+      "compareId": "deuteronomy-6_v25", 
+      "churchId": "p25"
+    }
+  ], 
+  "media": []
+}

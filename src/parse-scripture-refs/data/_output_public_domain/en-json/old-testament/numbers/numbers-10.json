@@ -1,0 +1,379 @@
+{
+  "name": "Numbers 10", 
+  "abbrev": "Num. 10", 
+  "number": "10", 
+  "churchUri": "/scriptures/ot/num/10", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 10", 
+      "contentHtml": "Chapter 10", 
+      "number": null, 
+      "pageNumber": "208", 
+      "compareId": "numbers-10_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And the LORD spake unto Moses, saying,", 
+      "contentHtml": "And the <span class=\"small-caps\">Lord</span> spake unto Moses, saying,", 
+      "number": "1", 
+      "pageNumber": "208", 
+      "compareId": "numbers-10_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.", 
+      "contentHtml": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.", 
+      "number": "2", 
+      "pageNumber": "208", 
+      "compareId": "numbers-10_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.", 
+      "contentHtml": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.", 
+      "number": "3", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee.", 
+      "contentHtml": "And if they blow <span class=\"clarity-word\">but</span> with one <span class=\"clarity-word\">trumpet,</span> then the princes, <span class=\"clarity-word\">which are</span> heads of the thousands of Israel, shall gather themselves unto thee.", 
+      "number": "4", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "When ye blow an alarm, then the camps that lie on the east parts shall go forward.", 
+      "contentHtml": "When ye blow an alarm, then the camps that lie on the east parts shall go forward.", 
+      "number": "5", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.", 
+      "contentHtml": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.", 
+      "number": "6", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.", 
+      "contentHtml": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.", 
+      "number": "7", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations.", 
+      "contentHtml": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations.", 
+      "number": "8", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies.", 
+      "contentHtml": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the <span class=\"small-caps\">Lord</span> your God, and ye shall be saved from your enemies.", 
+      "number": "9", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God.", 
+      "contentHtml": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I <span class=\"clarity-word\">am</span> the <span class=\"small-caps\">Lord</span> your God.", 
+      "number": "10", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "¶ And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.", 
+      "contentHtml": "¶ And it came to pass on the twentieth <span class=\"clarity-word\">day</span> of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.", 
+      "number": "11", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.", 
+      "contentHtml": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.", 
+      "number": "12", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And they first took their journey according to the commandment of the LORD by the hand of Moses.", 
+      "contentHtml": "And they first took their journey according to the commandment of the <span class=\"small-caps\">Lord</span> by the hand of Moses.", 
+      "number": "13", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "¶ In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab.", 
+      "contentHtml": "¶ In the first <span class=\"clarity-word\">place</span> went the standard of the camp of the children of Judah according to their armies: and over his host <span class=\"clarity-word\">was</span> Nahshon the son of Amminadab.", 
+      "number": "14", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And over the host of the tribe of the children of Issachar was Nethaneel the son of Zuar.", 
+      "contentHtml": "And over the host of the tribe of the children of Issachar <span class=\"clarity-word\">was</span> Nethaneel the son of Zuar.", 
+      "number": "15", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And over the host of the tribe of the children of Zebulun was Eliab the son of Helon.", 
+      "contentHtml": "And over the host of the tribe of the children of Zebulun <span class=\"clarity-word\">was</span> Eliab the son of Helon.", 
+      "number": "16", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.", 
+      "contentHtml": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.", 
+      "number": "17", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "¶ And the standard of the camp of Reuben set forward according to their armies: and over his host was Elizur the son of Shedeur.", 
+      "contentHtml": "¶ And the standard of the camp of Reuben set forward according to their armies: and over his host <span class=\"clarity-word\">was</span> Elizur the son of Shedeur.", 
+      "number": "18", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai.", 
+      "contentHtml": "And over the host of the tribe of the children of Simeon <span class=\"clarity-word\">was</span> Shelumiel the son of Zurishaddai.", 
+      "number": "19", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel.", 
+      "contentHtml": "And over the host of the tribe of the children of Gad <span class=\"clarity-word\">was</span> Eliasaph the son of Deuel.", 
+      "number": "20", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came.", 
+      "contentHtml": "And the Kohathites set forward, bearing the sanctuary: and <span class=\"clarity-word\">the</span><span class=\"clarity-word\"> other</span> did set up the tabernacle against they came.", 
+      "number": "21", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "¶ And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud.", 
+      "contentHtml": "¶ And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host <span class=\"clarity-word\">was</span> Elishama the son of Ammihud.", 
+      "number": "22", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur.", 
+      "contentHtml": "And over the host of the tribe of the children of Manasseh <span class=\"clarity-word\">was</span> Gamaliel the son of Pedahzur.", 
+      "number": "23", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni.", 
+      "contentHtml": "And over the host of the tribe of the children of Benjamin <span class=\"clarity-word\">was</span> Abidan the son of Gideoni.", 
+      "number": "24", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "¶ And the standard of the camp of the children of Dan set forward, which was the rearward of all the camps throughout their hosts: and over his host was Ahiezer the son of Ammishaddai.", 
+      "contentHtml": "¶ And the standard of the camp of the children of Dan set forward, <span class=\"clarity-word\">which was</span> the rearward of all the camps throughout their hosts: and over his host <span class=\"clarity-word\">was</span> Ahiezer the son of Ammishaddai.", 
+      "number": "25", 
+      "pageNumber": "209", 
+      "compareId": "numbers-10_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And over the host of the tribe of the children of Asher was Pagiel the son of Ocran.", 
+      "contentHtml": "And over the host of the tribe of the children of Asher <span class=\"clarity-word\">was</span> Pagiel the son of Ocran.", 
+      "number": "26", 
+      "pageNumber": "209,210", 
+      "compareId": "numbers-10_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.", 
+      "contentHtml": "And over the host of the tribe of the children of Naphtali <span class=\"clarity-word\">was</span> Ahira the son of Enan.", 
+      "number": "27", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Thus were the journeyings of the children of Israel according to their armies, when they set forward.", 
+      "contentHtml": "Thus <span class=\"clarity-word\">were</span> the journeyings of the children of Israel according to their armies, when they set forward.", 
+      "number": "28", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "¶ And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel.", 
+      "contentHtml": "¶ And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the <span class=\"small-caps\">Lord</span> said, I will give it you: come thou with us, and we will do thee good: for the <span class=\"small-caps\">Lord</span> hath spoken good concerning Israel.", 
+      "number": "29", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.", 
+      "contentHtml": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.", 
+      "number": "30", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes.", 
+      "contentHtml": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes.", 
+      "number": "31", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And it shall be, if thou go with us, yea, it shall be, that what goodness the LORD shall do unto us, the same will we do unto thee.", 
+      "contentHtml": "And it shall be, if thou go with us, yea, it shall be, that what goodness the <span class=\"small-caps\">Lord</span> shall do unto us, the same will we do unto thee.", 
+      "number": "32", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "¶ And they departed from the mount of the LORD three days’ journey: and the ark of the covenant of the LORD went before them in the three days’ journey, to search out a resting place for them.", 
+      "contentHtml": "¶ And they departed from the mount of the <span class=\"small-caps\">Lord</span> three days’ journey: and the ark of the covenant of the <span class=\"small-caps\">Lord</span> went before them in the three days’ journey, to search out a resting place for them.", 
+      "number": "33", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "And the cloud of the LORD was upon them by day, when they went out of the camp.", 
+      "contentHtml": "And the cloud of the <span class=\"small-caps\">Lord</span> <span class=\"clarity-word\">was</span> upon them by day, when they went out of the camp.", 
+      "number": "34", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee.", 
+      "contentHtml": "And it came to pass, when the ark set forward, that Moses said, Rise up, <span class=\"small-caps\">Lord</span>, and let thine enemies be scattered; and let them that hate thee flee before thee.", 
+      "number": "35", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "And when it rested, he said, Return, O LORD, unto the many thousands of Israel.", 
+      "contentHtml": "And when it rested, he said, Return, O <span class=\"small-caps\">Lord</span>, unto the many thousands of Israel.", 
+      "number": "36", 
+      "pageNumber": "210", 
+      "compareId": "numbers-10_v36", 
+      "churchId": "p36"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,119 @@
+{
+  "name": "Psalm 98", 
+  "abbrev": "Ps. 98", 
+  "number": "98", 
+  "churchUri": "/scriptures/ot/ps/98", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 98", 
+      "contentHtml": "Psalm 98", 
+      "number": null, 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "paragraph", 
+      "id": "p1", 
+      "content": "A Psalm.", 
+      "contentHtml": "A Psalm.", 
+      "number": null, 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_p1", 
+      "churchId": "intro1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "O sing unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.", 
+      "contentHtml": "O sing unto the <span class=\"small-caps\">Lord</span> a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.", 
+      "number": "1", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "The LORD hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.", 
+      "contentHtml": "The <span class=\"small-caps\">Lord</span> hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.", 
+      "number": "2", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.", 
+      "contentHtml": "He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.", 
+      "number": "3", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Make a joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.", 
+      "contentHtml": "Make a joyful noise unto the <span class=\"small-caps\">Lord</span>, all the earth: make a loud noise, and rejoice, and sing praise.", 
+      "number": "4", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Sing unto the LORD with the harp; with the harp, and the voice of a psalm.", 
+      "contentHtml": "Sing unto the <span class=\"small-caps\">Lord</span> with the harp; with the harp, and the voice of a psalm.", 
+      "number": "5", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "With trumpets and sound of cornet make a joyful noise before the LORD, the King.", 
+      "contentHtml": "With trumpets and sound of cornet make a joyful noise before the <span class=\"small-caps\">Lord</span>, the King.", 
+      "number": "6", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.", 
+      "contentHtml": "Let the sea roar, and the fulness thereof; the world, and they that dwell therein.", 
+      "number": "7", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Let the floods clap their hands: let the hills be joyful together", 
+      "contentHtml": "Let the floods clap <span class=\"clarity-word\">their</span> hands: let the hills be joyful together", 
+      "number": "8", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Before the LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.", 
+      "contentHtml": "Before the <span class=\"small-caps\">Lord</span>; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.", 
+      "number": "9", 
+      "pageNumber": "778", 
+      "compareId": "psalm-98_v9", 
+      "churchId": "p9"
+    }
+  ], 
+  "media": []
+}

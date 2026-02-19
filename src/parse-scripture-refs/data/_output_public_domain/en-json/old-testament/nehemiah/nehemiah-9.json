@@ -1,0 +1,399 @@
+{
+  "name": "Nehemiah 9", 
+  "abbrev": "Neh. 9", 
+  "number": "9", 
+  "churchUri": "/scriptures/ot/neh/9", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 9", 
+      "contentHtml": "Chapter 9", 
+      "number": null, 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.", 
+      "contentHtml": "Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them.", 
+      "number": "1", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.", 
+      "contentHtml": "And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.", 
+      "number": "2", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God.", 
+      "contentHtml": "And they stood up in their place, and read in the book of the law of the <span class=\"small-caps\">Lord</span> their God <span class=\"clarity-word\">one</span> fourth part of the day; and <span class=\"clarity-word\">another</span> fourth part they confessed, and worshipped the <span class=\"small-caps\">Lord</span> their God.", 
+      "number": "3", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "¶ Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God.", 
+      "contentHtml": "¶ Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, <span class=\"clarity-word\">and</span> Chenani, and cried with a loud voice unto the <span class=\"small-caps\">Lord</span> their God.", 
+      "number": "4", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.", 
+      "contentHtml": "Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, <span class=\"clarity-word\">and</span> Pethahiah, said, Stand up <span class=\"clarity-word\">and</span> bless the <span class=\"small-caps\">Lord</span> your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise.", 
+      "number": "5", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee.", 
+      "contentHtml": "Thou, <span class=\"clarity-word\">even</span> thou, <span class=\"clarity-word\">art</span> <span class=\"small-caps\">Lord</span> alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all <span class=\"clarity-word\">things</span> that <span class=\"clarity-word\">are</span> therein, the seas, and all that <span class=\"clarity-word\">is</span> therein, and thou preservest them all; and the host of heaven worshippeth thee.", 
+      "number": "6", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;", 
+      "contentHtml": "Thou <span class=\"clarity-word\">art</span> the <span class=\"small-caps\">Lord</span> the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;", 
+      "number": "7", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed thy words; for thou art righteous:", 
+      "contentHtml": "And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give <span class=\"clarity-word\">it, I say,</span> to his seed, and hast performed thy words; for thou <span class=\"clarity-word\">art</span> righteous:", 
+      "number": "8", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea;", 
+      "contentHtml": "And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea;", 
+      "number": "9", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as it is this day.", 
+      "contentHtml": "And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as <span class=\"clarity-word\">it is</span> this day.", 
+      "number": "10", 
+      "pageNumber": "659", 
+      "compareId": "nehemiah-9_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors thou threwest into the deeps, as a stone into the mighty waters.", 
+      "contentHtml": "And thou didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors thou threwest into the deeps, as a stone into the mighty waters.", 
+      "number": "11", 
+      "pageNumber": "659,660", 
+      "compareId": "nehemiah-9_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Moreover thou leddest them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go.", 
+      "contentHtml": "Moreover thou leddest them in the day by a cloudy pillar; and in the night by a pillar of fire, to give them light in the way wherein they should go.", 
+      "number": "12", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments, and true laws, good statutes and commandments:", 
+      "contentHtml": "Thou camest down also upon mount Sinai, and spakest with them from heaven, and gavest them right judgments, and true laws, good statutes and commandments:", 
+      "number": "13", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:", 
+      "contentHtml": "And madest known unto them thy holy sabbath, and commandedst them precepts, statutes, and laws, by the hand of Moses thy servant:", 
+      "number": "14", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them.", 
+      "contentHtml": "And gavest them bread from heaven for their hunger, and broughtest forth water for them out of the rock for their thirst, and promisedst them that they should go in to possess the land which thou hadst sworn to give them.", 
+      "number": "15", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "But they and our fathers dealt proudly, and hardened their necks, and hearkened not to thy commandments,", 
+      "contentHtml": "But they and our fathers dealt proudly, and hardened their necks, and hearkened not to thy commandments,", 
+      "number": "16", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou art a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.", 
+      "contentHtml": "And refused to obey, neither were mindful of thy wonders that thou didst among them; but hardened their necks, and in their rebellion appointed a captain to return to their bondage: but thou <span class=\"clarity-word\">art</span> a God ready to pardon, gracious and merciful, slow to anger, and of great kindness, and forsookest them not.", 
+      "number": "17", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Yea, when they had made them a molten calf, and said, This is thy God that brought thee up out of Egypt, and had wrought great provocations;", 
+      "contentHtml": "Yea, when they had made them a molten calf, and said, This <span class=\"clarity-word\">is</span> thy God that brought thee up out of Egypt, and had wrought great provocations;", 
+      "number": "18", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.", 
+      "contentHtml": "Yet thou in thy manifold mercies forsookest them not in the wilderness: the pillar of the cloud departed not from them by day, to lead them in the way; neither the pillar of fire by night, to shew them light, and the way wherein they should go.", 
+      "number": "19", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst.", 
+      "contentHtml": "Thou gavest also thy good spirit to instruct them, and withheldest not thy manna from their mouth, and gavest them water for their thirst.", 
+      "number": "20", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Yea, forty years didst thou sustain them in the wilderness, so that they lacked nothing; their clothes waxed not old, and their feet swelled not.", 
+      "contentHtml": "Yea, forty years didst thou sustain them in the wilderness, <span class=\"clarity-word\">so that</span> they lacked nothing; their clothes waxed not old, and their feet swelled not.", 
+      "number": "21", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.", 
+      "contentHtml": "Moreover thou gavest them kingdoms and nations, and didst divide them into corners: so they possessed the land of Sihon, and the land of the king of Heshbon, and the land of Og king of Bashan.", 
+      "number": "22", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess it.", 
+      "contentHtml": "Their children also multipliedst thou as the stars of heaven, and broughtest them into the land, concerning which thou hadst promised to their fathers, that they should go in to possess <span class=\"clarity-word\">it.</span>", 
+      "number": "23", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.", 
+      "contentHtml": "So the children went in and possessed the land, and thou subduedst before them the inhabitants of the land, the Canaanites, and gavest them into their hands, with their kings, and the people of the land, that they might do with them as they would.", 
+      "number": "24", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in thy great goodness.", 
+      "contentHtml": "And they took strong cities, and a fat land, and possessed houses full of all goods, wells digged, vineyards, and oliveyards, and fruit trees in abundance: so they did eat, and were filled, and became fat, and delighted themselves in thy great goodness.", 
+      "number": "25", 
+      "pageNumber": "660", 
+      "compareId": "nehemiah-9_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their backs, and slew thy prophets which testified against them to turn them to thee, and they wrought great provocations.", 
+      "contentHtml": "Nevertheless they were disobedient, and rebelled against thee, and cast thy law behind their backs, and slew thy prophets which testified against them to turn them to thee, and they wrought great provocations.", 
+      "number": "26", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest them from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.", 
+      "contentHtml": "Therefore thou deliveredst them into the hand of their enemies, who vexed them: and in the time of their trouble, when they cried unto thee, thou heardest <span class=\"clarity-word\">them</span> from heaven; and according to thy manifold mercies thou gavest them saviours, who saved them out of the hand of their enemies.", 
+      "number": "27", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest them from heaven; and many times didst thou deliver them according to thy mercies;", 
+      "contentHtml": "But after they had rest, they did evil again before thee: therefore leftest thou them in the hand of their enemies, so that they had the dominion over them: yet when they returned, and cried unto thee, thou heardest <span class=\"clarity-word\">them</span> from heaven; and many times didst thou deliver them according to thy mercies;", 
+      "number": "28", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.", 
+      "contentHtml": "And testifiedst against them, that thou mightest bring them again unto thy law: yet they dealt proudly, and hearkened not unto thy commandments, but sinned against thy judgments, (which if a man do, he shall live in them;) and withdrew the shoulder, and hardened their neck, and would not hear.", 
+      "number": "29", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "Yet many years didst thou forbear them, and testifiedst against them by thy spirit in thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the people of the lands.", 
+      "contentHtml": "Yet many years didst thou forbear them, and testifiedst against them by thy spirit in thy prophets: yet would they not give ear: therefore gavest thou them into the hand of the people of the lands.", 
+      "number": "30", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "Nevertheless for thy great mercies’ sake thou didst not utterly consume them, nor forsake them; for thou art a gracious and merciful God.", 
+      "contentHtml": "Nevertheless for thy great mercies’ sake thou didst not utterly consume them, nor forsake them; for thou <span class=\"clarity-word\">art</span> a gracious and merciful God.", 
+      "number": "31", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.", 
+      "contentHtml": "Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before thee, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all thy people, since the time of the kings of Assyria unto this day.", 
+      "number": "32", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "Howbeit thou art just in all that is brought upon us; for thou hast done right, but we have done wickedly:", 
+      "contentHtml": "Howbeit thou <span class=\"clarity-word\">art</span> just in all that is brought upon us; for thou hast done right, but we have done wickedly:", 
+      "number": "33", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them.", 
+      "contentHtml": "Neither have our kings, our princes, our priests, nor our fathers, kept thy law, nor hearkened unto thy commandments and thy testimonies, wherewith thou didst testify against them.", 
+      "number": "34", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works.", 
+      "contentHtml": "For they have not served thee in their kingdom, and in thy great goodness that thou gavest them, and in the large and fat land which thou gavest before them, neither turned they from their wicked works.", 
+      "number": "35", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "Behold, we are servants this day, and for the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:", 
+      "contentHtml": "Behold, we <span class=\"clarity-word\">are</span> servants this day, and <span class=\"clarity-word\">for</span> the land that thou gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we <span class=\"clarity-word\">are</span> servants in it:", 
+      "number": "36", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.", 
+      "contentHtml": "And it yieldeth much increase unto the kings whom thou hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we <span class=\"clarity-word\">are</span> in great distress.", 
+      "number": "37", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it.", 
+      "contentHtml": "And because of all this we make a sure <span class=\"clarity-word\">covenant,</span> and write <span class=\"clarity-word\">it;</span> and our princes, Levites, <span class=\"clarity-word\">and</span> priests, seal <span class=\"clarity-word\">unto it.</span>", 
+      "number": "38", 
+      "pageNumber": "661", 
+      "compareId": "nehemiah-9_v38", 
+      "churchId": "p38"
+    }
+  ], 
+  "media": []
+}

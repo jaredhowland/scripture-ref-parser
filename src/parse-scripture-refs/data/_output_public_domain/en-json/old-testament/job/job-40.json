@@ -1,0 +1,259 @@
+{
+  "name": "Job 40", 
+  "abbrev": "Job 40", 
+  "number": "40", 
+  "churchUri": "/scriptures/ot/job/40", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 40", 
+      "contentHtml": "Chapter 40", 
+      "number": null, 
+      "pageNumber": "711", 
+      "compareId": "job-40_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Moreover the LORD answered Job, and said,", 
+      "contentHtml": "Moreover the <span class=\"small-caps\">Lord</span> answered Job, and said,", 
+      "number": "1", 
+      "pageNumber": "711", 
+      "compareId": "job-40_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it.", 
+      "contentHtml": "Shall he that contendeth with the Almighty instruct <span class=\"clarity-word\">him?</span> he that reproveth God, let him answer it.", 
+      "number": "2", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "¶ Then Job answered the LORD, and said,", 
+      "contentHtml": "¶ Then Job answered the <span class=\"small-caps\">Lord</span>, and said,", 
+      "number": "3", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.", 
+      "contentHtml": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth.", 
+      "number": "4", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.", 
+      "contentHtml": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.", 
+      "number": "5", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "¶ Then answered the LORD unto Job out of the whirlwind, and said,", 
+      "contentHtml": "¶ Then answered the <span class=\"small-caps\">Lord</span> unto Job out of the whirlwind, and said,", 
+      "number": "6", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.", 
+      "contentHtml": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me.", 
+      "number": "7", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?", 
+      "contentHtml": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?", 
+      "number": "8", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Hast thou an arm like God? or canst thou thunder with a voice like him?", 
+      "contentHtml": "Hast thou an arm like God? or canst thou thunder with a voice like him?", 
+      "number": "9", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Deck thyself now with majesty and excellency; and array thyself with glory and beauty.", 
+      "contentHtml": "Deck thyself now <span class=\"clarity-word\">with</span> majesty and excellency; and array thyself with glory and beauty.", 
+      "number": "10", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him.", 
+      "contentHtml": "Cast abroad the rage of thy wrath: and behold every one <span class=\"clarity-word\">that is</span> proud, and abase him.", 
+      "number": "11", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Look on every one that is proud, and bring him low; and tread down the wicked in their place.", 
+      "contentHtml": "Look on every one <span class=\"clarity-word\">that is</span> proud, <span class=\"clarity-word\">and</span> bring him low; and tread down the wicked in their place.", 
+      "number": "12", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Hide them in the dust together; and bind their faces in secret.", 
+      "contentHtml": "Hide them in the dust together; <span class=\"clarity-word\">and</span> bind their faces in secret.", 
+      "number": "13", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Then will I also confess unto thee that thine own right hand can save thee.", 
+      "contentHtml": "Then will I also confess unto thee that thine own right hand can save thee.", 
+      "number": "14", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "¶ Behold now behemoth, which I made with thee; he eateth grass as an ox.", 
+      "contentHtml": "¶ Behold now behemoth, which I made with thee; he eateth grass as an ox.", 
+      "number": "15", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Lo now, his strength is in his loins, and his force is in the navel of his belly.", 
+      "contentHtml": "Lo now, his strength <span class=\"clarity-word\">is</span> in his loins, and his force <span class=\"clarity-word\">is</span> in the navel of his belly.", 
+      "number": "16", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "He moveth his tail like a cedar: the sinews of his stones are wrapped together.", 
+      "contentHtml": "He moveth his tail like a cedar: the sinews of his stones are wrapped together.", 
+      "number": "17", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "His bones are as strong pieces of brass; his bones are like bars of iron.", 
+      "contentHtml": "His bones <span class=\"clarity-word\">are as</span> strong pieces of brass; his bones <span class=\"clarity-word\">are</span> like bars of iron.", 
+      "number": "18", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "He is the chief of the ways of God: he that made him can make his sword to approach unto him.", 
+      "contentHtml": "He <span class=\"clarity-word\">is</span> the chief of the ways of God: he that made him can make his sword to approach <span class=\"clarity-word\">unto him.</span>", 
+      "number": "19", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "Surely the mountains bring him forth food, where all the beasts of the field play.", 
+      "contentHtml": "Surely the mountains bring him forth food, where all the beasts of the field play.", 
+      "number": "20", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "He lieth under the shady trees, in the covert of the reed, and fens.", 
+      "contentHtml": "He lieth under the shady trees, in the covert of the reed, and fens.", 
+      "number": "21", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "The shady trees cover him with their shadow; the willows of the brook compass him about.", 
+      "contentHtml": "The shady trees cover him <span class=\"clarity-word\">with</span> their shadow; the willows of the brook compass him about.", 
+      "number": "22", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth.", 
+      "contentHtml": "Behold, he drinketh up a river, <span class=\"clarity-word\">and</span> hasteth not: he trusteth that he can draw up Jordan into his mouth.", 
+      "number": "23", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "He taketh it with his eyes: his nose pierceth through snares.", 
+      "contentHtml": "He taketh it with his eyes: <span class=\"clarity-word\">his</span> nose pierceth through snares.", 
+      "number": "24", 
+      "pageNumber": "712", 
+      "compareId": "job-40_v24", 
+      "churchId": "p24"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,469 @@
+{
+  "name": "Psalm 105", 
+  "abbrev": "Ps. 105", 
+  "number": "105", 
+  "churchUri": "/scriptures/ot/ps/105", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Psalm 105", 
+      "contentHtml": "Psalm 105", 
+      "number": null, 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "O give thanks unto the LORD; call upon his name: make known his deeds among the people.", 
+      "contentHtml": "O give thanks unto the <span class=\"small-caps\">Lord</span>; call upon his name: make known his deeds among the people.", 
+      "number": "1", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.", 
+      "contentHtml": "Sing unto him, sing psalms unto him: talk ye of all his wondrous works.", 
+      "number": "2", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Glory ye in his holy name: let the heart of them rejoice that seek the LORD.", 
+      "contentHtml": "Glory ye in his holy name: let the heart of them rejoice that seek the <span class=\"small-caps\">Lord</span>.", 
+      "number": "3", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Seek the LORD, and his strength: seek his face evermore.", 
+      "contentHtml": "Seek the <span class=\"small-caps\">Lord</span>, and his strength: seek his face evermore.", 
+      "number": "4", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;", 
+      "contentHtml": "Remember his marvellous works that he hath done; his wonders, and the judgments of his mouth;", 
+      "number": "5", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "O ye seed of Abraham his servant, ye children of Jacob his chosen.", 
+      "contentHtml": "O ye seed of Abraham his servant, ye children of Jacob his chosen.", 
+      "number": "6", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "He is the LORD our God: his judgments are in all the earth.", 
+      "contentHtml": "He <span class=\"clarity-word\">is</span> the <span class=\"small-caps\">Lord</span> our God: his judgments <span class=\"clarity-word\">are</span> in all the earth.", 
+      "number": "7", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "He hath remembered his covenant for ever, the word which he commanded to a thousand generations.", 
+      "contentHtml": "He hath remembered his covenant for ever, the word <span class=\"clarity-word\">which</span> he commanded to a thousand generations.", 
+      "number": "8", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "Which covenant he made with Abraham, and his oath unto Isaac;", 
+      "contentHtml": "Which <span class=\"clarity-word\">covenant</span> he made with Abraham, and his oath unto Isaac;", 
+      "number": "9", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And confirmed the same unto Jacob for a law, and to Israel for an everlasting covenant:", 
+      "contentHtml": "And confirmed the same unto Jacob for a law, <span class=\"clarity-word\">and</span> to Israel <span class=\"clarity-word\">for</span> an everlasting covenant:", 
+      "number": "10", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:", 
+      "contentHtml": "Saying, Unto thee will I give the land of Canaan, the lot of your inheritance:", 
+      "number": "11", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "When they were but a few men in number; yea, very few, and strangers in it.", 
+      "contentHtml": "When they were <span class=\"clarity-word\">but</span> a few men in number; yea, very few, and strangers in it.", 
+      "number": "12", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "When they went from one nation to another, from one kingdom to another people;", 
+      "contentHtml": "When they went from one nation to another, from <span class=\"clarity-word\">one</span> kingdom to another people;", 
+      "number": "13", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;", 
+      "contentHtml": "He suffered no man to do them wrong: yea, he reproved kings for their sakes;", 
+      "number": "14", 
+      "pageNumber": "782", 
+      "compareId": "psalm-105_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Saying, Touch not mine anointed, and do my prophets no harm.", 
+      "contentHtml": "<span class=\"clarity-word\">Saying,</span> Touch not mine anointed, and do my prophets no harm.", 
+      "number": "15", 
+      "pageNumber": "782,783", 
+      "compareId": "psalm-105_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Moreover he called for a famine upon the land: he brake the whole staff of bread.", 
+      "contentHtml": "Moreover he called for a famine upon the land: he brake the whole staff of bread.", 
+      "number": "16", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "He sent a man before them, even Joseph, who was sold for a servant:", 
+      "contentHtml": "He sent a man before them, <span class=\"clarity-word\">even</span> Joseph, <span class=\"clarity-word\">who</span> was sold for a servant:", 
+      "number": "17", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Whose feet they hurt with fetters: he was laid in iron:", 
+      "contentHtml": "Whose feet they hurt with fetters: he was laid in iron:", 
+      "number": "18", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Until the time that his word came: the word of the LORD tried him.", 
+      "contentHtml": "Until the time that his word came: the word of the <span class=\"small-caps\">Lord</span> tried him.", 
+      "number": "19", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "The king sent and loosed him; even the ruler of the people, and let him go free.", 
+      "contentHtml": "The king sent and loosed him; <span class=\"clarity-word\">even</span> the ruler of the people, and let him go free.", 
+      "number": "20", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "He made him lord of his house, and ruler of all his substance:", 
+      "contentHtml": "He made him lord of his house, and ruler of all his substance:", 
+      "number": "21", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "To bind his princes at his pleasure; and teach his senators wisdom.", 
+      "contentHtml": "To bind his princes at his pleasure; and teach his senators wisdom.", 
+      "number": "22", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Israel also came into Egypt; and Jacob sojourned in the land of Ham.", 
+      "contentHtml": "Israel also came into Egypt; and Jacob sojourned in the land of Ham.", 
+      "number": "23", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And he increased his people greatly; and made them stronger than their enemies.", 
+      "contentHtml": "And he increased his people greatly; and made them stronger than their enemies.", 
+      "number": "24", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "He turned their heart to hate his people, to deal subtilly with his servants.", 
+      "contentHtml": "He turned their heart to hate his people, to deal subtilly with his servants.", 
+      "number": "25", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "He sent Moses his servant; and Aaron whom he had chosen.", 
+      "contentHtml": "He sent Moses his servant; <span class=\"clarity-word\">and</span> Aaron whom he had chosen.", 
+      "number": "26", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "They shewed his signs among them, and wonders in the land of Ham.", 
+      "contentHtml": "They shewed his signs among them, and wonders in the land of Ham.", 
+      "number": "27", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "He sent darkness, and made it dark; and they rebelled not against his word.", 
+      "contentHtml": "He sent darkness, and made it dark; and they rebelled not against his word.", 
+      "number": "28", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "He turned their waters into blood, and slew their fish.", 
+      "contentHtml": "He turned their waters into blood, and slew their fish.", 
+      "number": "29", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "Their land brought forth frogs in abundance, in the chambers of their kings.", 
+      "contentHtml": "Their land brought forth frogs in abundance, in the chambers of their kings.", 
+      "number": "30", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "He spake, and there came divers sorts of flies, and lice in all their coasts.", 
+      "contentHtml": "He spake, and there came divers sorts of flies, <span class=\"clarity-word\">and</span> lice in all their coasts.", 
+      "number": "31", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "He gave them hail for rain, and flaming fire in their land.", 
+      "contentHtml": "He gave them hail for rain, <span class=\"clarity-word\">and</span> flaming fire in their land.", 
+      "number": "32", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "He smote their vines also and their fig trees; and brake the trees of their coasts.", 
+      "contentHtml": "He smote their vines also and their fig trees; and brake the trees of their coasts.", 
+      "number": "33", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "He spake, and the locusts came, and caterpillers, and that without number,", 
+      "contentHtml": "He spake, and the locusts came, and caterpillers, and that without number,", 
+      "number": "34", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "And did eat up all the herbs in their land, and devoured the fruit of their ground.", 
+      "contentHtml": "And did eat up all the herbs in their land, and devoured the fruit of their ground.", 
+      "number": "35", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "He smote also all the firstborn in their land, the chief of all their strength.", 
+      "contentHtml": "He smote also all the firstborn in their land, the chief of all their strength.", 
+      "number": "36", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "He brought them forth also with silver and gold: and there was not one feeble person among their tribes.", 
+      "contentHtml": "He brought them forth also with silver and gold: and <span class=\"clarity-word\">there was</span> not one feeble <span class=\"clarity-word\">person</span> among their tribes.", 
+      "number": "37", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "Egypt was glad when they departed: for the fear of them fell upon them.", 
+      "contentHtml": "Egypt was glad when they departed: for the fear of them fell upon them.", 
+      "number": "38", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "He spread a cloud for a covering; and fire to give light in the night.", 
+      "contentHtml": "He spread a cloud for a covering; and fire to give light in the night.", 
+      "number": "39", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "The people asked, and he brought quails, and satisfied them with the bread of heaven.", 
+      "contentHtml": "<span class=\"clarity-word\">The people</span> asked, and he brought quails, and satisfied them with the bread of heaven.", 
+      "number": "40", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "He opened the rock, and the waters gushed out; they ran in the dry places like a river.", 
+      "contentHtml": "He opened the rock, and the waters gushed out; they ran in the dry places <span class=\"clarity-word\">like</span> a river.", 
+      "number": "41", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "For he remembered his holy promise, and Abraham his servant.", 
+      "contentHtml": "For he remembered his holy promise, <span class=\"clarity-word\">and</span> Abraham his servant.", 
+      "number": "42", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "And he brought forth his people with joy, and his chosen with gladness:", 
+      "contentHtml": "And he brought forth his people with joy, <span class=\"clarity-word\">and</span> his chosen with gladness:", 
+      "number": "43", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v43", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v44", 
+      "content": "And gave them the lands of the heathen: and they inherited the labour of the people;", 
+      "contentHtml": "And gave them the lands of the heathen: and they inherited the labour of the people;", 
+      "number": "44", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v44", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v45", 
+      "content": "That they might observe his statutes, and keep his laws. Praise ye the LORD.", 
+      "contentHtml": "That they might observe his statutes, and keep his laws. Praise ye the <span class=\"small-caps\">Lord</span>.", 
+      "number": "45", 
+      "pageNumber": "783", 
+      "compareId": "psalm-105_v45", 
+      "churchId": "p45"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Job 25", 
+  "abbrev": "Job 25", 
+  "number": "25", 
+  "churchUri": "/scriptures/ot/job/25", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 25", 
+      "contentHtml": "Chapter 25", 
+      "number": null, 
+      "pageNumber": "699", 
+      "compareId": "job-25_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then answered Bildad the Shuhite, and said,", 
+      "contentHtml": "Then answered Bildad the Shuhite, and said,", 
+      "number": "1", 
+      "pageNumber": "699", 
+      "compareId": "job-25_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Dominion and fear are with him, he maketh peace in his high places.", 
+      "contentHtml": "Dominion and fear <span class=\"clarity-word\">are</span> with him, he maketh peace in his high places.", 
+      "number": "2", 
+      "pageNumber": "699", 
+      "compareId": "job-25_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Is there any number of his armies? and upon whom doth not his light arise?", 
+      "contentHtml": "Is there any number of his armies? and upon whom doth not his light arise?", 
+      "number": "3", 
+      "pageNumber": "699", 
+      "compareId": "job-25_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "How then can man be justified with God? or how can he be clean that is born of a woman?", 
+      "contentHtml": "How then can man be justified with God? or how can he be clean <span class=\"clarity-word\">that is</span> born of a woman?", 
+      "number": "4", 
+      "pageNumber": "699", 
+      "compareId": "job-25_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.", 
+      "contentHtml": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.", 
+      "number": "5", 
+      "pageNumber": "699", 
+      "compareId": "job-25_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "How much less man, that is a worm? and the son of man, which is a worm?", 
+      "contentHtml": "How much less man, <span class=\"clarity-word\">that is</span> a worm? and the son of man, <span class=\"clarity-word\">which is</span> a worm?", 
+      "number": "6", 
+      "pageNumber": "699", 
+      "compareId": "job-25_v6", 
+      "churchId": "p6"
+    }
+  ], 
+  "media": []
+}

@@ -1,0 +1,579 @@
+{
+  "name": "Joseph Smith—Matthew 1", 
+  "abbrev": "JS—M 1", 
+  "number": "1", 
+  "churchUri": "/scriptures/pgp/js-m/1", 
+  "paragraphs": [
+    {
+      "type": "book-title", 
+      "id": "bt1", 
+      "content": "Joseph Smith—Matthew", 
+      "contentHtml": "Joseph Smith—Matthew", 
+      "number": null, 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_bt1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 1", 
+      "contentHtml": "Chapter 1", 
+      "number": null, 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "For I say unto you, that ye shall not see me henceforth and know that I am he of whom it is written by the prophets, until ye shall say: Blessed is he who cometh in the name of the Lord, in the clouds of heaven, and all the holy angels with him. Then understood his disciples that he should come again on the earth, after that he was glorified and crowned on the right hand of God.", 
+      "contentHtml": "For I say unto you, that ye shall not see me henceforth and know that I am he of whom it is written by the prophets, until ye shall say: Blessed is he who cometh in the name of the Lord, in the clouds of heaven, and all the holy angels with him. Then understood his disciples that he should come again on the earth, after that he was glorified and crowned on the right hand of God.", 
+      "number": "1", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And Jesus went out, and departed from the temple; and his disciples came to him, for to hear him, saying: Master, show us concerning the buildings of the temple, as thou hast said—They shall be thrown down, and left unto you desolate.", 
+      "contentHtml": "And Jesus went out, and departed from the temple; and his disciples came to him, for to hear him, saying: Master, show us concerning the buildings of the temple, as thou hast said—They shall be thrown down, and left unto you desolate.", 
+      "number": "2", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "And Jesus said unto them: See ye not all these things, and do ye not understand them? Verily I say unto you, there shall not be left here, upon this temple, one stone upon another that shall not be thrown down.", 
+      "contentHtml": "And Jesus said unto them: See ye not all these things, and do ye not understand them? Verily I say unto you, there shall not be left here, upon this temple, one stone upon another that shall not be thrown down.", 
+      "number": "3", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And Jesus left them, and went upon the Mount of Olives. And as he sat upon the Mount of Olives, the disciples came unto him privately, saying: Tell us when shall these things be which thou hast said concerning the destruction of the temple, and the Jews; and what is the sign of thy coming, and of the end of the world, or the destruction of the wicked, which is the end of the world?", 
+      "contentHtml": "And Jesus left them, and went upon the Mount of Olives. And as he sat upon the Mount of Olives, the disciples came unto him privately, saying: Tell us when shall these things be which thou hast said concerning the destruction of the temple, and the Jews; and what is the sign of thy coming, and of the end of the world, or the destruction of the wicked, which is the end of the world?", 
+      "number": "4", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And Jesus answered, and said unto them: Take heed that no man deceive you;", 
+      "contentHtml": "And Jesus answered, and said unto them: Take heed that no man deceive you;", 
+      "number": "5", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "For many shall come in my name, saying—I am Christ—and shall deceive many;", 
+      "contentHtml": "For many shall come in my name, saying—I am Christ—and shall deceive many;", 
+      "number": "6", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "Then shall they deliver you up to be afflicted, and shall kill you, and ye shall be hated of all nations, for my name’s sake;", 
+      "contentHtml": "Then shall they deliver you up to be afflicted, and shall kill you, and ye shall be hated of all nations, for my name’s sake;", 
+      "number": "7", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And then shall many be offended, and shall betray one another, and shall hate one another;", 
+      "contentHtml": "And then shall many be offended, and shall betray one another, and shall hate one another;", 
+      "number": "8", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And many false prophets shall arise, and shall deceive many;", 
+      "contentHtml": "And many false prophets shall arise, and shall deceive many;", 
+      "number": "9", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And because iniquity shall abound, the love of many shall wax cold;", 
+      "contentHtml": "And because iniquity shall abound, the love of many shall wax cold;", 
+      "number": "10", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "But he that remaineth steadfast and is not overcome, the same shall be saved.", 
+      "contentHtml": "But he that remaineth steadfast and is not overcome, the same shall be saved.", 
+      "number": "11", 
+      "pageNumber": "43", 
+      "compareId": "joseph-smith-matthew-1_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "When you, therefore, shall see the abomination of desolation, spoken of by Daniel the prophet, concerning the destruction of Jerusalem, then you shall stand in the holy place; whoso readeth let him understand.", 
+      "contentHtml": "When you, therefore, shall see the abomination of desolation, spoken of by Daniel the prophet, concerning the destruction of Jerusalem, then you shall stand in the holy place; whoso readeth let him understand.", 
+      "number": "12", 
+      "pageNumber": "43,44", 
+      "compareId": "joseph-smith-matthew-1_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Then let them who are in Judea flee into the mountains;", 
+      "contentHtml": "Then let them who are in Judea flee into the mountains;", 
+      "number": "13", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "Let him who is on the housetop flee, and not return to take anything out of his house;", 
+      "contentHtml": "Let him who is on the housetop flee, and not return to take anything out of his house;", 
+      "number": "14", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "Neither let him who is in the field return back to take his clothes;", 
+      "contentHtml": "Neither let him who is in the field return back to take his clothes;", 
+      "number": "15", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And wo unto them that are with child, and unto them that give suck in those days;", 
+      "contentHtml": "And wo unto them that are with child, and unto them that give suck in those days;", 
+      "number": "16", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Therefore, pray ye the Lord that your flight be not in the winter, neither on the Sabbath day;", 
+      "contentHtml": "Therefore, pray ye the Lord that your flight be not in the winter, neither on the Sabbath day;", 
+      "number": "17", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For then, in those days, shall be great tribulation on the Jews, and upon the inhabitants of Jerusalem, such as was not before sent upon Israel, of God, since the beginning of their kingdom until this time; no, nor ever shall be sent again upon Israel.", 
+      "contentHtml": "For then, in those days, shall be great tribulation on the Jews, and upon the inhabitants of Jerusalem, such as was not before sent upon Israel, of God, since the beginning of their kingdom until this time; no, nor ever shall be sent again upon Israel.", 
+      "number": "18", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "All things which have befallen them are only the beginning of the sorrows which shall come upon them.", 
+      "contentHtml": "All things which have befallen them are only the beginning of the sorrows which shall come upon them.", 
+      "number": "19", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "And except those days should be shortened, there should none of their flesh be saved; but for the elect’s sake, according to the covenant, those days shall be shortened.", 
+      "contentHtml": "And except those days should be shortened, there should none of their flesh be saved; but for the elect’s sake, according to the covenant, those days shall be shortened.", 
+      "number": "20", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Behold, these things I have spoken unto you concerning the Jews; and again, after the tribulation of those days which shall come upon Jerusalem, if any man shall say unto you, Lo, here is Christ, or there, believe him not;", 
+      "contentHtml": "Behold, these things I have spoken unto you concerning the Jews; and again, after the tribulation of those days which shall come upon Jerusalem, if any man shall say unto you, Lo, here is Christ, or there, believe him not;", 
+      "number": "21", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "For in those days there shall also arise false Christs, and false prophets, and shall show great signs and wonders, insomuch, that, if possible, they shall deceive the very elect, who are the elect according to the covenant.", 
+      "contentHtml": "For in those days there shall also arise false Christs, and false prophets, and shall show great signs and wonders, insomuch, that, if possible, they shall deceive the very elect, who are the elect according to the covenant.", 
+      "number": "22", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Behold, I speak these things unto you for the elect’s sake; and you also shall hear of wars, and rumors of wars; see that ye be not troubled, for all I have told you must come to pass; but the end is not yet.", 
+      "contentHtml": "Behold, I speak these things unto you for the elect’s sake; and you also shall hear of wars, and rumors of wars; see that ye be not troubled, for all I have told you must come to pass; but the end is not yet.", 
+      "number": "23", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Behold, I have told you before;", 
+      "contentHtml": "Behold, I have told you before;", 
+      "number": "24", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Wherefore, if they shall say unto you: Behold, he is in the desert; go not forth: Behold, he is in the secret chambers; believe it not;", 
+      "contentHtml": "Wherefore, if they shall say unto you: Behold, he is in the desert; go not forth: Behold, he is in the secret chambers; believe it not;", 
+      "number": "25", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "For as the light of the morning cometh out of the east, and shineth even unto the west, and covereth the whole earth, so shall also the coming of the Son of Man be.", 
+      "contentHtml": "For as the light of the morning cometh out of the east, and shineth even unto the west, and covereth the whole earth, so shall also the coming of the Son of Man be.", 
+      "number": "26", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And now I show unto you a parable. Behold, wheresoever the carcass is, there will the eagles be gathered together; so likewise shall mine elect be gathered from the four quarters of the earth.", 
+      "contentHtml": "And now I show unto you a parable. Behold, wheresoever the carcass is, there will the eagles be gathered together; so likewise shall mine elect be gathered from the four quarters of the earth.", 
+      "number": "27", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "And they shall hear of wars, and rumors of wars.", 
+      "contentHtml": "And they shall hear of wars, and rumors of wars.", 
+      "number": "28", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "Behold I speak for mine elect’s sake; for nation shall rise against nation, and kingdom against kingdom; there shall be famines, and pestilences, and earthquakes, in divers places.", 
+      "contentHtml": "Behold I speak for mine elect’s sake; for nation shall rise against nation, and kingdom against kingdom; there shall be famines, and pestilences, and earthquakes, in divers places.", 
+      "number": "29", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "And again, because iniquity shall abound, the love of men shall wax cold; but he that shall not be overcome, the same shall be saved.", 
+      "contentHtml": "And again, because iniquity shall abound, the love of men shall wax cold; but he that shall not be overcome, the same shall be saved.", 
+      "number": "30", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And again, this Gospel of the Kingdom shall be preached in all the world, for a witness unto all nations, and then shall the end come, or the destruction of the wicked;", 
+      "contentHtml": "And again, this Gospel of the Kingdom shall be preached in all the world, for a witness unto all nations, and then shall the end come, or the destruction of the wicked;", 
+      "number": "31", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And again shall the abomination of desolation, spoken of by Daniel the prophet, be fulfilled.", 
+      "contentHtml": "And again shall the abomination of desolation, spoken of by Daniel the prophet, be fulfilled.", 
+      "number": "32", 
+      "pageNumber": "44", 
+      "compareId": "joseph-smith-matthew-1_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "And immediately after the tribulation of those days, the sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of heaven shall be shaken.", 
+      "contentHtml": "And immediately after the tribulation of those days, the sun shall be darkened, and the moon shall not give her light, and the stars shall fall from heaven, and the powers of heaven shall be shaken.", 
+      "number": "33", 
+      "pageNumber": "44,45", 
+      "compareId": "joseph-smith-matthew-1_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "Verily, I say unto you, this generation, in which these things shall be shown forth, shall not pass away until all I have told you shall be fulfilled.", 
+      "contentHtml": "Verily, I say unto you, this generation, in which these things shall be shown forth, shall not pass away until all I have told you shall be fulfilled.", 
+      "number": "34", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Although, the days will come, that heaven and earth shall pass away; yet my words shall not pass away, but all shall be fulfilled.", 
+      "contentHtml": "Although, the days will come, that heaven and earth shall pass away; yet my words shall not pass away, but all shall be fulfilled.", 
+      "number": "35", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "And, as I said before, after the tribulation of those days, and the powers of the heavens shall be shaken, then shall appear the sign of the Son of Man in heaven, and then shall all the tribes of the earth mourn; and they shall see the Son of Man coming in the clouds of heaven, with power and great glory;", 
+      "contentHtml": "And, as I said before, after the tribulation of those days, and the powers of the heavens shall be shaken, then shall appear the sign of the Son of Man in heaven, and then shall all the tribes of the earth mourn; and they shall see the Son of Man coming in the clouds of heaven, with power and great glory;", 
+      "number": "36", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "And whoso treasureth up my word, shall not be deceived, for the Son of Man shall come, and he shall send his angels before him with the great sound of a trumpet, and they shall gather together the remainder of his elect from the four winds, from one end of heaven to the other.", 
+      "contentHtml": "And whoso treasureth up my word, shall not be deceived, for the Son of Man shall come, and he shall send his angels before him with the great sound of a trumpet, and they shall gather together the remainder of his elect from the four winds, from one end of heaven to the other.", 
+      "number": "37", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "Now learn a parable of the fig tree—When its branches are yet tender, and it begins to put forth leaves, you know that summer is nigh at hand;", 
+      "contentHtml": "Now learn a parable of the fig tree—When its branches are yet tender, and it begins to put forth leaves, you know that summer is nigh at hand;", 
+      "number": "38", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "So likewise, mine elect, when they shall see all these things, they shall know that he is near, even at the doors;", 
+      "contentHtml": "So likewise, mine elect, when they shall see all these things, they shall know that he is near, even at the doors;", 
+      "number": "39", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "But of that day, and hour, no one knoweth; no, not the angels of God in heaven, but my Father only.", 
+      "contentHtml": "But of that day, and hour, no one knoweth; no, not the angels of God in heaven, but my Father only.", 
+      "number": "40", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "But as it was in the days of Noah, so it shall be also at the coming of the Son of Man;", 
+      "contentHtml": "But as it was in the days of Noah, so it shall be also at the coming of the Son of Man;", 
+      "number": "41", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v41", 
+      "churchId": "p41"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v42", 
+      "content": "For it shall be with them, as it was in the days which were before the flood; for until the day that Noah entered into the ark they were eating and drinking, marrying and giving in marriage;", 
+      "contentHtml": "For it shall be with them, as it was in the days which were before the flood; for until the day that Noah entered into the ark they were eating and drinking, marrying and giving in marriage;", 
+      "number": "42", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v42", 
+      "churchId": "p42"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v43", 
+      "content": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of Man be.", 
+      "contentHtml": "And knew not until the flood came, and took them all away; so shall also the coming of the Son of Man be.", 
+      "number": "43", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v43", 
+      "churchId": "p43"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v44", 
+      "content": "Then shall be fulfilled that which is written, that in the last days, two shall be in the field, the one shall be taken, and the other left;", 
+      "contentHtml": "Then shall be fulfilled that which is written, that in the last days, two shall be in the field, the one shall be taken, and the other left;", 
+      "number": "44", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v44", 
+      "churchId": "p44"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v45", 
+      "content": "Two shall be grinding at the mill, the one shall be taken, and the other left;", 
+      "contentHtml": "Two shall be grinding at the mill, the one shall be taken, and the other left;", 
+      "number": "45", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v45", 
+      "churchId": "p45"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v46", 
+      "content": "And what I say unto one, I say unto all men; watch, therefore, for you know not at what hour your Lord doth come.", 
+      "contentHtml": "And what I say unto one, I say unto all men; watch, therefore, for you know not at what hour your Lord doth come.", 
+      "number": "46", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v46", 
+      "churchId": "p46"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v47", 
+      "content": "But know this, if the good man of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to have been broken up, but would have been ready.", 
+      "contentHtml": "But know this, if the good man of the house had known in what watch the thief would come, he would have watched, and would not have suffered his house to have been broken up, but would have been ready.", 
+      "number": "47", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v47", 
+      "churchId": "p47"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v48", 
+      "content": "Therefore be ye also ready, for in such an hour as ye think not, the Son of Man cometh.", 
+      "contentHtml": "Therefore be ye also ready, for in such an hour as ye think not, the Son of Man cometh.", 
+      "number": "48", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v48", 
+      "churchId": "p48"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v49", 
+      "content": "Who, then, is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?", 
+      "contentHtml": "Who, then, is a faithful and wise servant, whom his lord hath made ruler over his household, to give them meat in due season?", 
+      "number": "49", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v49", 
+      "churchId": "p49"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v50", 
+      "content": "Blessed is that servant whom his lord, when he cometh, shall find so doing; and verily I say unto you, he shall make him ruler over all his goods.", 
+      "contentHtml": "Blessed is that servant whom his lord, when he cometh, shall find so doing; and verily I say unto you, he shall make him ruler over all his goods.", 
+      "number": "50", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v50", 
+      "churchId": "p50"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v51", 
+      "content": "But if that evil servant shall say in his heart: My lord delayeth his coming,", 
+      "contentHtml": "But if that evil servant shall say in his heart: My lord delayeth his coming,", 
+      "number": "51", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v51", 
+      "churchId": "p51"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v52", 
+      "content": "And shall begin to smite his fellow-servants, and to eat and drink with the drunken,", 
+      "contentHtml": "And shall begin to smite his fellow-servants, and to eat and drink with the drunken,", 
+      "number": "52", 
+      "pageNumber": "45", 
+      "compareId": "joseph-smith-matthew-1_v52", 
+      "churchId": "p52"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v53", 
+      "content": "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,", 
+      "contentHtml": "The lord of that servant shall come in a day when he looketh not for him, and in an hour that he is not aware of,", 
+      "number": "53", 
+      "pageNumber": "45,46", 
+      "compareId": "joseph-smith-matthew-1_v53", 
+      "churchId": "p53"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v54", 
+      "content": "And shall cut him asunder, and shall appoint him his portion with the hypocrites; there shall be weeping and gnashing of teeth.", 
+      "contentHtml": "And shall cut him asunder, and shall appoint him his portion with the hypocrites; there shall be weeping and gnashing of teeth.", 
+      "number": "54", 
+      "pageNumber": "46", 
+      "compareId": "joseph-smith-matthew-1_v54", 
+      "churchId": "p54"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v55", 
+      "content": "And thus cometh the end of the wicked, according to the prophecy of Moses, saying: They shall be cut off from among the people; but the end of the earth is not yet, but by and by.", 
+      "contentHtml": "And thus cometh the end of the wicked, according to the prophecy of Moses, saying: They shall be cut off from among the people; but the end of the earth is not yet, but by and by.", 
+      "number": "55", 
+      "pageNumber": "46", 
+      "compareId": "joseph-smith-matthew-1_v55", 
+      "churchId": "p55"
+    }
+  ], 
+  "media": []
+}

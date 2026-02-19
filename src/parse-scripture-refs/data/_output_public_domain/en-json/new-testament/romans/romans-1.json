@@ -1,0 +1,349 @@
+{
+  "name": "Romans 1", 
+  "abbrev": "Rom. 1", 
+  "number": "1", 
+  "churchUri": "/scriptures/nt/rom/1", 
+  "paragraphs": [
+    {
+      "type": "book-title", 
+      "id": "bt1", 
+      "content": "The Epistle of Paul the Apostle to the Romans", 
+      "contentHtml": "<small>The Epistle of Paul the Apostle</small> <small>to the</small> Romans", 
+      "number": null, 
+      "pageNumber": "1415", 
+      "compareId": "romans-1_bt1", 
+      "churchId": "title1"
+    }, 
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 1", 
+      "contentHtml": "Chapter 1", 
+      "number": null, 
+      "pageNumber": "1415", 
+      "compareId": "romans-1_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,", 
+      "contentHtml": "Paul, a servant of Jesus Christ, called <span class=\"clarity-word\">to be</span> an apostle, separated unto the gospel of God,", 
+      "number": "1", 
+      "pageNumber": "1415", 
+      "compareId": "romans-1_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "(Which he had promised afore by his prophets in the holy scriptures,)", 
+      "contentHtml": "(Which he had promised afore by his prophets in the holy scriptures,)", 
+      "number": "2", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;", 
+      "contentHtml": "Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;", 
+      "number": "3", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:", 
+      "contentHtml": "And declared <span class=\"clarity-word\">to be</span> the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:", 
+      "number": "4", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:", 
+      "contentHtml": "By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:", 
+      "number": "5", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Among whom are ye also the called of Jesus Christ:", 
+      "contentHtml": "Among whom are ye also the called of Jesus Christ:", 
+      "number": "6", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.", 
+      "contentHtml": "To all that be in Rome, beloved of God, called <span class=\"clarity-word\">to be</span> saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.", 
+      "number": "7", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.", 
+      "contentHtml": "First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.", 
+      "number": "8", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;", 
+      "contentHtml": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;", 
+      "number": "9", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.", 
+      "contentHtml": "Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.", 
+      "number": "10", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;", 
+      "contentHtml": "For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;", 
+      "number": "11", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "That is, that I may be comforted together with you by the mutual faith both of you and me.", 
+      "contentHtml": "That is, that I may be comforted together with you by the mutual faith both of you and me.", 
+      "number": "12", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.", 
+      "contentHtml": "Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.", 
+      "number": "13", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.", 
+      "contentHtml": "I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.", 
+      "number": "14", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.", 
+      "contentHtml": "So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.", 
+      "number": "15", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.", 
+      "contentHtml": "For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.", 
+      "number": "16", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.", 
+      "contentHtml": "For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.", 
+      "number": "17", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;", 
+      "contentHtml": "For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;", 
+      "number": "18", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Because that which may be known of God is manifest in them; for God hath shewed it unto them.", 
+      "contentHtml": "Because that which may be known of God is manifest in them; for God hath shewed <span class=\"clarity-word\">it</span> unto them.", 
+      "number": "19", 
+      "pageNumber": "1416", 
+      "compareId": "romans-1_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:", 
+      "contentHtml": "For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, <span class=\"clarity-word\">even</span> his eternal power and Godhead; so that they are without excuse:", 
+      "number": "20", 
+      "pageNumber": "1416,1417", 
+      "compareId": "romans-1_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.", 
+      "contentHtml": "Because that, when they knew God, they glorified <span class=\"clarity-word\">him</span> not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.", 
+      "number": "21", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "Professing themselves to be wise, they became fools,", 
+      "contentHtml": "Professing themselves to be wise, they became fools,", 
+      "number": "22", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.", 
+      "contentHtml": "And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.", 
+      "number": "23", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:", 
+      "contentHtml": "Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:", 
+      "number": "24", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.", 
+      "contentHtml": "Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.", 
+      "number": "25", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:", 
+      "contentHtml": "For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:", 
+      "number": "26", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.", 
+      "contentHtml": "And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.", 
+      "number": "27", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;", 
+      "contentHtml": "And even as they did not like to retain God in <span class=\"clarity-word\">their</span> knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;", 
+      "number": "28", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,", 
+      "contentHtml": "Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,", 
+      "number": "29", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,", 
+      "contentHtml": "Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,", 
+      "number": "30", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:", 
+      "contentHtml": "Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:", 
+      "number": "31", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.", 
+      "contentHtml": "Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.", 
+      "number": "32", 
+      "pageNumber": "1417", 
+      "compareId": "romans-1_v32", 
+      "churchId": "p32"
+    }
+  ], 
+  "media": []
+}

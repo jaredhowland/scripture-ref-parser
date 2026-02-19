@@ -1,0 +1,369 @@
+{
+  "name": "Exodus 35", 
+  "abbrev": "Ex. 35", 
+  "number": "35", 
+  "churchUri": "/scriptures/ot/ex/35", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 35", 
+      "contentHtml": "Chapter 35", 
+      "number": null, 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.", 
+      "contentHtml": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These <span class=\"clarity-word\">are</span> the words which the <span class=\"small-caps\">Lord</span> hath commanded, that <span class=\"clarity-word\">ye</span> should do them.", 
+      "number": "1", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.", 
+      "contentHtml": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the <span class=\"small-caps\">Lord</span>: whosoever doeth work therein shall be put to death.", 
+      "number": "2", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Ye shall kindle no fire throughout your habitations upon the sabbath day.", 
+      "contentHtml": "Ye shall kindle no fire throughout your habitations upon the sabbath day.", 
+      "number": "3", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "¶ And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the LORD commanded, saying,", 
+      "contentHtml": "¶ And Moses spake unto all the congregation of the children of Israel, saying, This <span class=\"clarity-word\">is</span> the thing which the <span class=\"small-caps\">Lord</span> commanded, saying,", 
+      "number": "4", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Take ye from among you an offering unto the LORD: whosoever is of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,", 
+      "contentHtml": "Take ye from among you an offering unto the <span class=\"small-caps\">Lord</span>: whosoever <span class=\"clarity-word\">is</span> of a willing heart, let him bring it, an offering of the <span class=\"small-caps\">Lord</span>; gold, and silver, and brass,", 
+      "number": "5", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And blue, and purple, and scarlet, and fine linen, and goats’ hair,", 
+      "contentHtml": "And blue, and purple, and scarlet, and fine linen, and goats’ <span class=\"clarity-word\">hair,</span>", 
+      "number": "6", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And rams’ skins dyed red, and badgers’ skins, and shittim wood,", 
+      "contentHtml": "And rams’ skins dyed red, and badgers’ skins, and shittim wood,", 
+      "number": "7", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And oil for the light, and spices for anointing oil, and for the sweet incense,", 
+      "contentHtml": "And oil for the light, and spices for anointing oil, and for the sweet incense,", 
+      "number": "8", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And onyx stones, and stones to be set for the ephod, and for the breastplate.", 
+      "contentHtml": "And onyx stones, and stones to be set for the ephod, and for the breastplate.", 
+      "number": "9", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And every wise hearted among you shall come, and make all that the LORD hath commanded;", 
+      "contentHtml": "And every wise hearted among you shall come, and make all that the <span class=\"small-caps\">Lord</span> hath commanded;", 
+      "number": "10", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,", 
+      "contentHtml": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,", 
+      "number": "11", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "The ark, and the staves thereof, with the mercy seat, and the veil of the covering,", 
+      "contentHtml": "The ark, and the staves thereof, <span class=\"clarity-word\">with</span> the mercy seat, and the veil of the covering,", 
+      "number": "12", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "The table, and his staves, and all his vessels, and the shewbread,", 
+      "contentHtml": "The table, and his staves, and all his vessels, and the shewbread,", 
+      "number": "13", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,", 
+      "contentHtml": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,", 
+      "number": "14", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,", 
+      "contentHtml": "And the incense altar, and his staves, and the anointing oil, and the sweet incense, and the hanging for the door at the entering in of the tabernacle,", 
+      "number": "15", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,", 
+      "contentHtml": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,", 
+      "number": "16", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,", 
+      "contentHtml": "The hangings of the court, his pillars, and their sockets, and the hanging for the door of the court,", 
+      "number": "17", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "The pins of the tabernacle, and the pins of the court, and their cords,", 
+      "contentHtml": "The pins of the tabernacle, and the pins of the court, and their cords,", 
+      "number": "18", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "The cloths of service, to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.", 
+      "contentHtml": "The cloths of service, to do service in the holy <span class=\"clarity-word\">place,</span> the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.", 
+      "number": "19", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "¶ And all the congregation of the children of Israel departed from the presence of Moses.", 
+      "contentHtml": "¶ And all the congregation of the children of Israel departed from the presence of Moses.", 
+      "number": "20", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD’s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.", 
+      "contentHtml": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, <span class=\"clarity-word\">and</span> they brought the <span class=\"small-caps\">Lord</span>’s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.", 
+      "number": "21", 
+      "pageNumber": "136", 
+      "compareId": "exodus-35_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the LORD.", 
+      "contentHtml": "And they came, both men and women, as many as were willing hearted, <span class=\"clarity-word\">and</span> brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered <span class=\"clarity-word\">offered</span> an offering of gold unto the <span class=\"small-caps\">Lord</span>.", 
+      "number": "22", 
+      "pageNumber": "136,137", 
+      "compareId": "exodus-35_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ hair, and red skins of rams, and badgers’ skins, brought them.", 
+      "contentHtml": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ <span class=\"clarity-word\">hair,</span> and red skins of rams, and badgers’ skins, brought <span class=\"clarity-word\">them.</span>", 
+      "number": "23", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "Every one that did offer an offering of silver and brass brought the LORD’s offering: and every man, with whom was found shittim wood for any work of the service, brought it.", 
+      "contentHtml": "Every one that did offer an offering of silver and brass brought the <span class=\"small-caps\">Lord</span>’s offering: and every man, with whom was found shittim wood for any work of the service, brought <span class=\"clarity-word\">it.</span>", 
+      "number": "24", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen.", 
+      "contentHtml": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun, <span class=\"clarity-word\">both</span> of blue, and of purple, <span class=\"clarity-word\">and</span> of scarlet, and of fine linen.", 
+      "number": "25", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "And all the women whose heart stirred them up in wisdom spun goats’ hair.", 
+      "contentHtml": "And all the women whose heart stirred them up in wisdom spun goats’ <span class=\"clarity-word\">hair.</span>", 
+      "number": "26", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;", 
+      "contentHtml": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;", 
+      "number": "27", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense.", 
+      "contentHtml": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense.", 
+      "number": "28", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.", 
+      "contentHtml": "The children of Israel brought a willing offering unto the <span class=\"small-caps\">Lord</span>, every man and woman, whose heart made them willing to bring for all manner of work, which the <span class=\"small-caps\">Lord</span> had commanded to be made by the hand of Moses.", 
+      "number": "29", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "¶ And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;", 
+      "contentHtml": "¶ And Moses said unto the children of Israel, See, the <span class=\"small-caps\">Lord</span> hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;", 
+      "number": "30", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;", 
+      "contentHtml": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;", 
+      "number": "31", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "And to devise curious works, to work in gold, and in silver, and in brass,", 
+      "contentHtml": "And to devise curious works, to work in gold, and in silver, and in brass,", 
+      "number": "32", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "And in the cutting of stones, to set them, and in carving of wood, to make any manner of cunning work.", 
+      "contentHtml": "And in the cutting of stones, to set <span class=\"clarity-word\">them,</span> and in carving of wood, to make any manner of cunning work.", 
+      "number": "33", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.", 
+      "contentHtml": "And he hath put in his heart that he may teach, <span class=\"clarity-word\">both</span> he, and Aholiab, the son of Ahisamach, of the tribe of Dan.", 
+      "number": "34", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work.", 
+      "contentHtml": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, <span class=\"clarity-word\">even</span> of them that do any work, and of those that devise cunning work.", 
+      "number": "35", 
+      "pageNumber": "137", 
+      "compareId": "exodus-35_v35", 
+      "churchId": "p35"
+    }
+  ], 
+  "media": []
+}

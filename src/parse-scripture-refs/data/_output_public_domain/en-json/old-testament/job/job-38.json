@@ -1,0 +1,429 @@
+{
+  "name": "Job 38", 
+  "abbrev": "Job 38", 
+  "number": "38", 
+  "churchUri": "/scriptures/ot/job/38", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 38", 
+      "contentHtml": "Chapter 38", 
+      "number": null, 
+      "pageNumber": "709", 
+      "compareId": "job-38_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "Then the LORD answered Job out of the whirlwind, and said,", 
+      "contentHtml": "Then the <span class=\"small-caps\">Lord</span> answered Job out of the whirlwind, and said,", 
+      "number": "1", 
+      "pageNumber": "709", 
+      "compareId": "job-38_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "Who is this that darkeneth counsel by words without knowledge?", 
+      "contentHtml": "Who <span class=\"clarity-word\">is</span> this that darkeneth counsel by words without knowledge?", 
+      "number": "2", 
+      "pageNumber": "709", 
+      "compareId": "job-38_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me.", 
+      "contentHtml": "Gird up now thy loins like a man; for I will demand of thee, and answer thou me.", 
+      "number": "3", 
+      "pageNumber": "709", 
+      "compareId": "job-38_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.", 
+      "contentHtml": "Where wast thou when I laid the foundations of the earth? declare, if thou hast understanding.", 
+      "number": "4", 
+      "pageNumber": "709", 
+      "compareId": "job-38_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?", 
+      "contentHtml": "Who hath laid the measures thereof, if thou knowest? or who hath stretched the line upon it?", 
+      "number": "5", 
+      "pageNumber": "709", 
+      "compareId": "job-38_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;", 
+      "contentHtml": "Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;", 
+      "number": "6", 
+      "pageNumber": "709", 
+      "compareId": "job-38_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "When the morning stars sang together, and all the sons of God shouted for joy?", 
+      "contentHtml": "When the morning stars sang together, and all the sons of God shouted for joy?", 
+      "number": "7", 
+      "pageNumber": "709,710", 
+      "compareId": "job-38_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "Or who shut up the sea with doors, when it brake forth, as if it had issued out of the womb?", 
+      "contentHtml": "Or <span class=\"clarity-word\">who</span> shut up the sea with doors, when it brake forth, <span class=\"clarity-word\">as if</span> it had issued out of the womb?", 
+      "number": "8", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,", 
+      "contentHtml": "When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,", 
+      "number": "9", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And brake up for it my decreed place, and set bars and doors,", 
+      "contentHtml": "And brake up for it my decreed <span class=\"clarity-word\">place,</span> and set bars and doors,", 
+      "number": "10", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?", 
+      "contentHtml": "And said, Hitherto shalt thou come, but no further: and here shall thy proud waves be stayed?", 
+      "number": "11", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "Hast thou commanded the morning since thy days; and caused the dayspring to know his place;", 
+      "contentHtml": "Hast thou commanded the morning since thy days; <span class=\"clarity-word\">and</span> caused the dayspring to know his place;", 
+      "number": "12", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?", 
+      "contentHtml": "That it might take hold of the ends of the earth, that the wicked might be shaken out of it?", 
+      "number": "13", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "It is turned as clay to the seal; and they stand as a garment.", 
+      "contentHtml": "It is turned as clay <span class=\"clarity-word\">to</span> the seal; and they stand as a garment.", 
+      "number": "14", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "And from the wicked their light is withholden, and the high arm shall be broken.", 
+      "contentHtml": "And from the wicked their light is withholden, and the high arm shall be broken.", 
+      "number": "15", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?", 
+      "contentHtml": "Hast thou entered into the springs of the sea? or hast thou walked in the search of the depth?", 
+      "number": "16", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?", 
+      "contentHtml": "Have the gates of death been opened unto thee? or hast thou seen the doors of the shadow of death?", 
+      "number": "17", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "Hast thou perceived the breadth of the earth? declare if thou knowest it all.", 
+      "contentHtml": "Hast thou perceived the breadth of the earth? declare if thou knowest it all.", 
+      "number": "18", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "Where is the way where light dwelleth? and as for darkness, where is the place thereof,", 
+      "contentHtml": "Where <span class=\"clarity-word\">is</span> the way <span class=\"clarity-word\">where</span> light dwelleth? and <span class=\"clarity-word\">as for</span> darkness, where <span class=\"clarity-word\">is</span> the place thereof,", 
+      "number": "19", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths to the house thereof?", 
+      "contentHtml": "That thou shouldest take it to the bound thereof, and that thou shouldest know the paths <span class=\"clarity-word\">to</span> the house thereof?", 
+      "number": "20", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Knowest thou it, because thou wast then born? or because the number of thy days is great?", 
+      "contentHtml": "Knowest thou <span class=\"clarity-word\">it,</span> because thou wast then born? or <span class=\"clarity-word\">because</span> the number of thy days <span class=\"clarity-word\">is</span> great?", 
+      "number": "21", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,", 
+      "contentHtml": "Hast thou entered into the treasures of the snow? or hast thou seen the treasures of the hail,", 
+      "number": "22", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "Which I have reserved against the time of trouble, against the day of battle and war?", 
+      "contentHtml": "Which I have reserved against the time of trouble, against the day of battle and war?", 
+      "number": "23", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "By what way is the light parted, which scattereth the east wind upon the earth?", 
+      "contentHtml": "By what way is the light parted, <span class=\"clarity-word\">which</span> scattereth the east wind upon the earth?", 
+      "number": "24", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v24", 
+      "churchId": "p24"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v25", 
+      "content": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;", 
+      "contentHtml": "Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;", 
+      "number": "25", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v25", 
+      "churchId": "p25"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v26", 
+      "content": "To cause it to rain on the earth, where no man is; on the wilderness, wherein there is no man;", 
+      "contentHtml": "To cause it to rain on the earth, <span class=\"clarity-word\">where</span> no man <span class=\"clarity-word\">is; on</span> the wilderness, wherein <span class=\"clarity-word\">there is</span> no man;", 
+      "number": "26", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v26", 
+      "churchId": "p26"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v27", 
+      "content": "To satisfy the desolate and waste ground; and to cause the bud of the tender herb to spring forth?", 
+      "contentHtml": "To satisfy the desolate and waste <span class=\"clarity-word\">ground;</span> and to cause the bud of the tender herb to spring forth?", 
+      "number": "27", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v27", 
+      "churchId": "p27"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v28", 
+      "content": "Hath the rain a father? or who hath begotten the drops of dew?", 
+      "contentHtml": "Hath the rain a father? or who hath begotten the drops of dew?", 
+      "number": "28", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v28", 
+      "churchId": "p28"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v29", 
+      "content": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?", 
+      "contentHtml": "Out of whose womb came the ice? and the hoary frost of heaven, who hath gendered it?", 
+      "number": "29", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v29", 
+      "churchId": "p29"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v30", 
+      "content": "The waters are hid as with a stone, and the face of the deep is frozen.", 
+      "contentHtml": "The waters are hid as <span class=\"clarity-word\">with</span> a stone, and the face of the deep is frozen.", 
+      "number": "30", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v30", 
+      "churchId": "p30"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v31", 
+      "content": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?", 
+      "contentHtml": "Canst thou bind the sweet influences of Pleiades, or loose the bands of Orion?", 
+      "number": "31", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v31", 
+      "churchId": "p31"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v32", 
+      "content": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?", 
+      "contentHtml": "Canst thou bring forth Mazzaroth in his season? or canst thou guide Arcturus with his sons?", 
+      "number": "32", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v32", 
+      "churchId": "p32"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v33", 
+      "content": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?", 
+      "contentHtml": "Knowest thou the ordinances of heaven? canst thou set the dominion thereof in the earth?", 
+      "number": "33", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v33", 
+      "churchId": "p33"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v34", 
+      "content": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?", 
+      "contentHtml": "Canst thou lift up thy voice to the clouds, that abundance of waters may cover thee?", 
+      "number": "34", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v34", 
+      "churchId": "p34"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v35", 
+      "content": "Canst thou send lightnings, that they may go, and say unto thee, Here we are?", 
+      "contentHtml": "Canst thou send lightnings, that they may go, and say unto thee, Here we <span class=\"clarity-word\">are?</span>", 
+      "number": "35", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v35", 
+      "churchId": "p35"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v36", 
+      "content": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?", 
+      "contentHtml": "Who hath put wisdom in the inward parts? or who hath given understanding to the heart?", 
+      "number": "36", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v36", 
+      "churchId": "p36"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v37", 
+      "content": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,", 
+      "contentHtml": "Who can number the clouds in wisdom? or who can stay the bottles of heaven,", 
+      "number": "37", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v37", 
+      "churchId": "p37"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v38", 
+      "content": "When the dust groweth into hardness, and the clods cleave fast together?", 
+      "contentHtml": "When the dust groweth into hardness, and the clods cleave fast together?", 
+      "number": "38", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v38", 
+      "churchId": "p38"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v39", 
+      "content": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,", 
+      "contentHtml": "Wilt thou hunt the prey for the lion? or fill the appetite of the young lions,", 
+      "number": "39", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v39", 
+      "churchId": "p39"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v40", 
+      "content": "When they couch in their dens, and abide in the covert to lie in wait?", 
+      "contentHtml": "When they couch in <span class=\"clarity-word\">their</span> dens, <span class=\"clarity-word\">and</span> abide in the covert to lie in wait?", 
+      "number": "40", 
+      "pageNumber": "710", 
+      "compareId": "job-38_v40", 
+      "churchId": "p40"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v41", 
+      "content": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.", 
+      "contentHtml": "Who provideth for the raven his food? when his young ones cry unto God, they wander for lack of meat.", 
+      "number": "41", 
+      "pageNumber": "710,711", 
+      "compareId": "job-38_v41", 
+      "churchId": "p41"
+    }
+  ], 
+  "media": []
+}

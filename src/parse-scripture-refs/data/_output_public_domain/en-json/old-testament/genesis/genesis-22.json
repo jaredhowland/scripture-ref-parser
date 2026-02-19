@@ -1,0 +1,259 @@
+{
+  "name": "Genesis 22", 
+  "abbrev": "Gen. 22", 
+  "number": "22", 
+  "churchUri": "/scriptures/ot/gen/22", 
+  "paragraphs": [
+    {
+      "type": "chapter-title", 
+      "id": "ct1", 
+      "content": "Chapter 22", 
+      "contentHtml": "Chapter 22", 
+      "number": null, 
+      "pageNumber": "30", 
+      "compareId": "genesis-22_ct1", 
+      "churchId": "title_number1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v1", 
+      "content": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.", 
+      "contentHtml": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, <span class=\"clarity-word\">here</span> I <span class=\"clarity-word\">am.</span>", 
+      "number": "1", 
+      "pageNumber": "30,31", 
+      "compareId": "genesis-22_v1", 
+      "churchId": "p1"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v2", 
+      "content": "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.", 
+      "contentHtml": "And he said, Take now thy son, thine only <span class=\"clarity-word\">son</span> Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of.", 
+      "number": "2", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v2", 
+      "churchId": "p2"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v3", 
+      "content": "¶ And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.", 
+      "contentHtml": "¶ And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.", 
+      "number": "3", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v3", 
+      "churchId": "p3"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v4", 
+      "content": "Then on the third day Abraham lifted up his eyes, and saw the place afar off.", 
+      "contentHtml": "Then on the third day Abraham lifted up his eyes, and saw the place afar off.", 
+      "number": "4", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v4", 
+      "churchId": "p4"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v5", 
+      "content": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.", 
+      "contentHtml": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.", 
+      "number": "5", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v5", 
+      "churchId": "p5"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v6", 
+      "content": "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.", 
+      "contentHtml": "And Abraham took the wood of the burnt offering, and laid <span class=\"clarity-word\">it</span> upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.", 
+      "number": "6", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v6", 
+      "churchId": "p6"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v7", 
+      "content": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?", 
+      "contentHtml": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here <span class=\"clarity-word\">am</span> I, my son. And he said, Behold the fire and the wood: but where <span class=\"clarity-word\">is</span> the lamb for a burnt offering?", 
+      "number": "7", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v7", 
+      "churchId": "p7"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v8", 
+      "content": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.", 
+      "contentHtml": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.", 
+      "number": "8", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v8", 
+      "churchId": "p8"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v9", 
+      "content": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.", 
+      "contentHtml": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.", 
+      "number": "9", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v9", 
+      "churchId": "p9"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v10", 
+      "content": "And Abraham stretched forth his hand, and took the knife to slay his son.", 
+      "contentHtml": "And Abraham stretched forth his hand, and took the knife to slay his son.", 
+      "number": "10", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v10", 
+      "churchId": "p10"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v11", 
+      "content": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.", 
+      "contentHtml": "And the angel of the <span class=\"small-caps\">Lord</span> called unto him out of heaven, and said, Abraham, Abraham: and he said, Here <span class=\"clarity-word\">am</span> I.", 
+      "number": "11", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v11", 
+      "churchId": "p11"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v12", 
+      "content": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me.", 
+      "contentHtml": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only <span class=\"clarity-word\">son</span> from me.", 
+      "number": "12", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v12", 
+      "churchId": "p12"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v13", 
+      "content": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.", 
+      "contentHtml": "And Abraham lifted up his eyes, and looked, and behold behind <span class=\"clarity-word\">him</span> a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.", 
+      "number": "13", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v13", 
+      "churchId": "p13"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v14", 
+      "content": "And Abraham called the name of that place Jehovah-jireh: as it is said to this day, In the mount of the LORD it shall be seen.", 
+      "contentHtml": "And Abraham called the name of that place Jehovah-jireh: as it is said <span class=\"clarity-word\">to</span> this day, In the mount of the <span class=\"small-caps\">Lord</span> it shall be seen.", 
+      "number": "14", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v14", 
+      "churchId": "p14"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v15", 
+      "content": "¶ And the angel of the LORD called unto Abraham out of heaven the second time,", 
+      "contentHtml": "¶ And the angel of the <span class=\"small-caps\">Lord</span> called unto Abraham out of heaven the second time,", 
+      "number": "15", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v15", 
+      "churchId": "p15"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v16", 
+      "content": "And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:", 
+      "contentHtml": "And said, By myself have I sworn, saith the <span class=\"small-caps\">Lord</span>, for because thou hast done this thing, and hast not withheld thy son, thine only <span class=\"clarity-word\">son:</span>", 
+      "number": "16", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v16", 
+      "churchId": "p16"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v17", 
+      "content": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;", 
+      "contentHtml": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which <span class=\"clarity-word\">is</span> upon the sea shore; and thy seed shall possess the gate of his enemies;", 
+      "number": "17", 
+      "pageNumber": "31", 
+      "compareId": "genesis-22_v17", 
+      "churchId": "p17"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v18", 
+      "content": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.", 
+      "contentHtml": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.", 
+      "number": "18", 
+      "pageNumber": "31,32", 
+      "compareId": "genesis-22_v18", 
+      "churchId": "p18"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v19", 
+      "content": "So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba.", 
+      "contentHtml": "So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba.", 
+      "number": "19", 
+      "pageNumber": "32", 
+      "compareId": "genesis-22_v19", 
+      "churchId": "p19"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v20", 
+      "content": "¶ And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;", 
+      "contentHtml": "¶ And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;", 
+      "number": "20", 
+      "pageNumber": "32", 
+      "compareId": "genesis-22_v20", 
+      "churchId": "p20"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v21", 
+      "content": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,", 
+      "contentHtml": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,", 
+      "number": "21", 
+      "pageNumber": "32", 
+      "compareId": "genesis-22_v21", 
+      "churchId": "p21"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v22", 
+      "content": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.", 
+      "contentHtml": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.", 
+      "number": "22", 
+      "pageNumber": "32", 
+      "compareId": "genesis-22_v22", 
+      "churchId": "p22"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v23", 
+      "content": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother.", 
+      "contentHtml": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham’s brother.", 
+      "number": "23", 
+      "pageNumber": "32", 
+      "compareId": "genesis-22_v23", 
+      "churchId": "p23"
+    }, 
+    {
+      "type": "verse", 
+      "id": "v24", 
+      "content": "And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.", 
+      "contentHtml": "And his concubine, whose name <span class=\"clarity-word\">was</span> Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah.", 
+      "number": "24", 
+      "pageNumber": "32", 
+      "compareId": "genesis-22_v24", 
+      "churchId": "p24"
+    }
+  ], 
+  "media": []
+}
