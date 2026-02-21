@@ -9,6 +9,9 @@ dependencies = [
     "rapidfuzz>=3.14.3",
 ]
 
+[project.scripts]
+scripture-ref-parser = "scripture_ref_parser.cli.cli:main"
+
 [dependency-groups]
 dev = [
     "pytest>=9.0.2",
