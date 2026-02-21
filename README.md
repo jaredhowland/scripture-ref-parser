@@ -103,9 +103,6 @@ The parser operates in four stages:
 ## Development
 
 ```bash
-# Run in editable mode to change package itself
-uvx --with-editable . -- scripture-ref-parser
-
 # Run tests
 uv run pytest
 
@@ -117,6 +114,9 @@ uvx ruff check --fix
 
 # Type check
 uvx ty check
+
+# Edit package itself
+uv pip install -e .
 ```
 
 ## License
