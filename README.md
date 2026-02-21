@@ -64,6 +64,17 @@ scripture-ref-parser "Gen 1:1" --pretty
 
 # Get all fuzzy candidates
 scripture-ref-parser "E 1:1" --all-candidates
+
+# Help
+
+Use the `--help` flag to display a comprehensive, example-driven help message describing available modes and flags. The help output includes short, copyable examples and explains the differences between `loose` (fuzzy) and `strict` matching.
+
+```bash
+scripture-ref-parser --help
+# Displays usage, options (including `--mode`, `--all-candidates`, `--pretty`),
+# and examples such as:
+#   scripture-ref-parser "Gen 1:1-3; 1 Ne. 3:7" --pretty
+#   scripture-ref-parser "E 1:1" --all-candidates --pretty
 ```
 
 ## Supported Canons
