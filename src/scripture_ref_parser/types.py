@@ -50,10 +50,3 @@ class ResolvedRange:
     end: str | None
     fuzzy_ratio: int | None = None
     not_found: str | None = None
-
-
-@dataclass
-class ResolvedRangeWithCandidates:
-    """A resolved range with multiple candidates (for --all-candidates)."""
-
-    options: list[ResolvedRange]

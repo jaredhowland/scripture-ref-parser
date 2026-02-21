@@ -6,7 +6,6 @@ from scripture_ref_parser.types import (
     ParsedRef,
     ResolvedRange,
     CanonCandidate,
-    ResolvedRangeWithCandidates,
 )
 
 
@@ -40,10 +39,3 @@ def test_canon_candidate_creation():
     cc = CanonCandidate(key="Gen", score=95)
     assert cc.key == "Gen"
     assert cc.score == 95
-
-
-def test_resolved_range_with_candidates():
-    rr1 = ResolvedRange(start="Gen.1.1", end="Gen.1.1")
-    rr2 = ResolvedRange(start="Exod.1.1", end="Exod.1.1")
-    rrwc = ResolvedRangeWithCandidates(options=[rr1, rr2])
-    assert len(rrwc.options) == 2
