@@ -1,0 +1,1 @@
+"""Book name normalization."""
