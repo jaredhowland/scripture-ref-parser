@@ -39,11 +39,22 @@ def normalize_book(
 
     # Direct lookup
     if cleaned in index:
-        return NormalizedBook(key=index[cleaned], mode=mode)
+        exact_key = index[cleaned]
+        # When all_candidates=True, still get fuzzy alternatives
+        if all_candidates and mode == "loose":
+            fuzzy_result = _fuzzy_match(cleaned, index, mode, all_candidates=True)
+            # Return exact key but include all candidates
+            return NormalizedBook(
+                key=exact_key,
+                mode=mode,
+                is_exact=True,
+                candidates=fuzzy_result.candidates,
+            )
+        return NormalizedBook(key=exact_key, mode=mode, is_exact=True)
 
     # Strict mode: return None for unknown
     if mode == "strict":
-        return NormalizedBook(key=None, mode=mode)
+        return NormalizedBook(key=None, mode=mode, is_exact=True)
 
     # Loose mode: fuzzy matching
     return _fuzzy_match(cleaned, index, mode, all_candidates)
@@ -79,12 +90,13 @@ def _fuzzy_match(
     unique_candidates = sorted(seen.values(), key=lambda x: -x.score)
 
     if not unique_candidates:
-        return NormalizedBook(key=None, mode=mode, candidates=[])
+        return NormalizedBook(key=None, mode=mode, is_exact=False, candidates=[])
 
     # Return best match as key, with candidates list
     # Always return at least the top candidate when fuzzy matching is used
     return NormalizedBook(
         key=unique_candidates[0].key,
         mode=mode,
+        is_exact=False,
         candidates=unique_candidates if all_candidates else [unique_candidates[0]],
     )

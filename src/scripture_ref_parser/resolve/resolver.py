@@ -72,9 +72,13 @@ def resolve_parsed(
         start_osis = _format_osis(osis_key, start_chap, start_verse)
         end_osis = _format_osis(osis_key, end_chap, end_verse)
 
-        # Add fuzzy ratio if from fuzzy match
+        # Add fuzzy ratio only if match was fuzzy (not exact)
         fuzzy_ratio = None
-        if normalized.candidates and len(normalized.candidates) > 0:
+        if (
+            not normalized.is_exact
+            and normalized.candidates
+            and len(normalized.candidates) > 0
+        ):
             fuzzy_ratio = normalized.candidates[0].score
 
         results.append(

@@ -27,6 +27,7 @@ class NormalizedBook:
 
     key: str | None
     mode: Literal["loose", "strict"]
+    is_exact: bool = True
     candidates: list[CanonCandidate] | None = None
 
 
