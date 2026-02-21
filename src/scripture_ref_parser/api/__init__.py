@@ -43,7 +43,6 @@ def _resolve_ref_with_book(
 def parse_references(
     text: str,
     mode: Literal["loose", "strict"] = "loose",
-    canon_books: list[str] | None = None,
     all_candidates: bool = False,
 ) -> list[dict]:
     """Parse scripture reference text into OSIS ranges.
@@ -51,7 +50,6 @@ def parse_references(
     Args:
         text: Freeform scripture reference text (e.g., "Gen 1:1-3; 1 Ne. 3:12")
         mode: "loose" (fuzzy matching) or "strict" (exact match only)
-        canon_books: Optional list of canon files to restrict search (not yet implemented)
         all_candidates: If True, return all fuzzy match candidates for ambiguous refs
 
     Returns:
@@ -69,14 +67,22 @@ def parse_references(
         for ref in parsed:
             if ref.book_key is None:
                 results.append(
-                    {"start": None, "end": None, "not_found": f"Unknown book in '{ref.raw}'"}
+                    {
+                        "start": None,
+                        "end": None,
+                        "not_found": f"Unknown book in '{ref.raw}'",
+                    }
                 )
                 continue
 
             normalized = normalize_book(ref.book_key, mode=mode, all_candidates=True)
             if normalized.key is None:
                 results.append(
-                    {"start": None, "end": None, "not_found": f"Unknown book '{ref.book_key}'"}
+                    {
+                        "start": None,
+                        "end": None,
+                        "not_found": f"Unknown book '{ref.book_key}'",
+                    }
                 )
                 continue
 
@@ -84,7 +90,9 @@ def parse_references(
             options = []
             if normalized.candidates:
                 for candidate in normalized.candidates:
-                    resolved = _resolve_ref_with_book(ref, candidate.key, candidate.score)
+                    resolved = _resolve_ref_with_book(
+                        ref, candidate.key, candidate.score
+                    )
                     if resolved:
                         options.append(resolved)
 
@@ -99,7 +107,11 @@ def parse_references(
                 results.append(result)
             else:
                 results.append(
-                    {"start": None, "end": None, "not_found": f"No metadata for '{normalized.key}'"}
+                    {
+                        "start": None,
+                        "end": None,
+                        "not_found": f"No metadata for '{normalized.key}'",
+                    }
                 )
 
         return results
