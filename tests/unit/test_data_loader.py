@@ -1,4 +1,5 @@
 """Tests for canon data loading."""
+
 from scripture_ref_parser.data.loader import (
     load_canon_index,
     load_canon_file,
