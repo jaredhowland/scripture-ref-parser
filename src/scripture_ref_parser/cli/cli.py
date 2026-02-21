@@ -12,16 +12,18 @@ from scripture_ref_parser.api import parse_references
 @click.command(
     help=(
         "Parse scripture reference text and output OSIS ranges.\n\n"
-        "This CLI accepts freeform scripture references (examples: \"Gen 1:1-3\", "
-        "\"1 Ne. 3:7\", \"Exodis 1:1\") and returns OSIS-style start/end "
+        "This CLI accepts freeform scripture references (examples: 'Gen 1:1-3', "
+        "'1 Ne. 3:7', 'Exodis 1:1') and returns OSIS-style start/end "
         "identifiers such as 'Gen.1.1'. By default the parser runs in 'loose' "
         "mode, which enables fuzzy-book-name matching. Use `--mode strict` to "
         "require exact book name matches.\n\n"
-        "Output is JSON. Use `--pretty` to pretty-print. Use `--all-candidates` "
-        "to return all fuzzy-match candidates instead of only the top match.\n\n"
-        "Examples:\n  scripture-ref-parser \"Gen 1:1-3; 1 Ne. 3:7\" --pretty\n"
-        "  scripture-ref-parser \"Exodis 1:1\" --mode loose\n"
-        "  scripture-ref-parser \"E 1:1\" --all-candidates --pretty\n"
+        "Output is JSON. "
+        "Use `--pretty` to pretty-print. "
+        "Use `--all-candidates` to return all fuzzy-match candidates instead of only the top match.\n\n"
+        "Examples:\n\n"
+        '  scripture-ref-parser "Gen 1:1-3; 1 Ne. 3:7" --pretty\n\n'
+        '  scripture-ref-parser "Exodis 1:1" --mode loose\n\n'
+        '  scripture-ref-parser "E 1:1" --all-candidates --pretty\n'
     ),
 )
 @click.argument("text")
