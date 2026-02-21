@@ -1,17 +1,17 @@
-# parse-scripture-refs
+# scripture-ref-parser
 
 A modular Python library and CLI that parses scripture references (KJV OT/NT and LDS canon: Book of Mormon, Doctrine & Covenants, Pearl of Great Price) and returns OSIS-based ranges.
 
 ## Installation
 
 ```bash
-pip install parse-scripture-refs
+pip install scripture-ref-parser
 ```
 
 Or with `uv`:
 
 ```bash
-uv add parse-scripture-refs
+uv add scripture-ref-parser
 ```
 
 ## Usage
@@ -103,6 +103,9 @@ The parser operates in four stages:
 ## Development
 
 ```bash
+# Run in editable mode to change package itself
+uvx --with-editable . -- scripture-ref-parser
+
 # Run tests
 uv run pytest
 
