@@ -16,7 +16,6 @@ wheels/
 tmp/
 logs/
 .agents/
-.github/
 AGENTS.md
 
 # Settings
