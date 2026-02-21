@@ -1,5 +1,7 @@
 """Public API for scripture reference parsing."""
 
+from typing import Literal
+
 from scripture_ref_parser.normalize.normalize import normalize_book
 from scripture_ref_parser.parse.parser import parse_tokens
 from scripture_ref_parser.resolve.resolver import resolve_parsed
@@ -8,7 +10,7 @@ from scripture_ref_parser.tokenize.tokenizer import tokenize
 
 def parse_references(
     text: str,
-    mode: str = "loose",
+    mode: Literal["loose", "strict"] = "loose",
     canon_books: list[str] | None = None,
     all_candidates: bool = False,
 ) -> list[dict]:
@@ -34,7 +36,9 @@ def parse_references(
     if all_candidates:
         for i, ref in enumerate(parsed):
             if ref.book_key:
-                normalized = normalize_book(ref.book_key, mode=mode, all_candidates=True)
+                normalized = normalize_book(
+                    ref.book_key, mode=mode, all_candidates=True
+                )
                 if normalized.candidates and len(normalized.candidates) > 1:
                     candidates_map[i] = normalized.candidates
 

@@ -2,6 +2,7 @@
 
 import json
 import sys
+from typing import Literal
 
 import click
 
@@ -34,7 +35,13 @@ def main(text: str, mode: str, all_candidates: bool, pretty: bool) -> None:
     TEXT is the scripture reference text to parse, e.g. "Gen 1:1-3; 1 Ne. 3:7"
     """
     try:
-        results = parse_references(text, mode=mode, all_candidates=all_candidates)
+        # Cast mode to Literal type for type checker
+        mode_literal: Literal["loose", "strict"] = (
+            "loose" if mode == "loose" else "strict"
+        )
+        results = parse_references(
+            text, mode=mode_literal, all_candidates=all_candidates
+        )
 
         indent = 2 if pretty else None
         output = json.dumps(results, indent=indent)

@@ -1,6 +1,6 @@
 """Tests for the tokenizer stage."""
+
 from scripture_ref_parser.tokenize.tokenizer import tokenize
-from scripture_ref_parser.types import Token
 
 
 def test_tokenize_simple_reference():

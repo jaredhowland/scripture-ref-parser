@@ -1,4 +1,5 @@
 """Tests for fuzzy matching in normalizer."""
+
 from scripture_ref_parser.normalize.normalize import normalize_book
 
 

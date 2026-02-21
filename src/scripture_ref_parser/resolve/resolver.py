@@ -1,5 +1,7 @@
 """Resolver stage: expands parsed refs to OSIS identifiers."""
 
+from typing import Literal
+
 from scripture_ref_parser.data.loader import get_book_metadata, get_verse_count
 from scripture_ref_parser.normalize.normalize import normalize_book
 from scripture_ref_parser.types import ParsedRef, ResolvedRange
@@ -11,7 +13,7 @@ def _format_osis(book: str, chapter: int, verse: int) -> str:
 
 
 def resolve_parsed(
-    parsed_refs: list[ParsedRef], mode: str = "loose"
+    parsed_refs: list[ParsedRef], mode: Literal["loose", "strict"] = "loose"
 ) -> list[ResolvedRange]:
     """Resolve parsed references to OSIS ranges.
 

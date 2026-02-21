@@ -1,6 +1,6 @@
 """Tests for the normalizer stage."""
+
 from scripture_ref_parser.normalize.normalize import normalize_book
-from scripture_ref_parser.types import NormalizedBook
 
 
 def test_normalize_strict_known_full_name():

@@ -19,21 +19,26 @@ The source directory uses hyphens (`parse-scripture-refs`) but Python imports re
 ### Task 0: Fix Package Naming
 
 **Files:**
+
 - Rename: `src/parse-scripture-refs/` → `src/scripture_ref_parser/`
 
 **Step 1: Rename directory**
+
 ```bash
 cd /Users/wgu/Documents/PyCharm\ Projects/parse-scripture-refs
 mv src/parse-scripture-refs src/scripture_ref_parser
 ```
 
 **Step 2: Verify structure**
+
 ```bash
 ls src/scripture_ref_parser/
 ```
+
 Expected: `api/ cli/ data/ normalize/ parse/ resolve/ tokenize/`
 
 **Step 3: Commit**
+
 ```bash
 git add -A
 git commit -m "chore: rename package directory to use underscores"
@@ -44,6 +49,7 @@ git commit -m "chore: rename package directory to use underscores"
 ### Task 1: Create Package `__init__.py` Files
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/__init__.py`
 - Create: `src/scripture_ref_parser/api/__init__.py`
 - Create: `src/scripture_ref_parser/cli/__init__.py`
@@ -117,12 +123,15 @@ __all__ = ["parse_references"]
 ```
 
 **Step 2: Verify imports work**
+
 ```bash
 uv run python -c "from scripture_ref_parser import parse_references; print('OK')"
 ```
+
 Expected: `OK` (then NotImplementedError when called)
 
 **Step 3: Commit**
+
 ```bash
 git add src/scripture_ref_parser/
 git commit -m "chore: add __init__.py files for all modules"
@@ -133,6 +142,7 @@ git commit -m "chore: add __init__.py files for all modules"
 ### Task 2: Add CLI Entry Point to pyproject.toml
 
 **Files:**
+
 - Modify: `pyproject.toml`
 
 **Step 1: Add scripts entry point**
@@ -145,12 +155,15 @@ scripture-ref-parser = "scripture_ref_parser.cli.cli:main"
 ```
 
 **Step 2: Verify config is valid**
+
 ```bash
 uv sync
 ```
+
 Expected: Successful sync without errors
 
 **Step 3: Commit**
+
 ```bash
 git add pyproject.toml
 git commit -m "chore: add CLI entry point to pyproject.toml"
@@ -161,6 +174,7 @@ git commit -m "chore: add CLI entry point to pyproject.toml"
 ### Task 3: Type Definitions Module
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/types.py`
 - Create: `tests/unit/test_types.py`
 
@@ -199,9 +213,11 @@ def test_resolved_range_creation():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/unit/test_types.py -v
 ```
+
 Expected: FAIL with `ModuleNotFoundError`
 
 **Step 3: Write minimal implementation**
@@ -262,12 +278,15 @@ class ResolvedRangeWithCandidates:
 ```
 
 **Step 4: Run test to verify it passes**
+
 ```bash
 uvx pytest tests/unit/test_types.py -v
 ```
+
 Expected: PASS
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/types.py tests/unit/test_types.py
 git commit -m "feat: add type definitions for pipeline stages"
@@ -278,6 +297,7 @@ git commit -m "feat: add type definitions for pipeline stages"
 ### Task 4: Data Loader Module
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/data/loader.py`
 - Create: `tests/unit/test_data_loader.py`
 
@@ -328,9 +348,11 @@ def test_get_verse_count_invalid():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/unit/test_data_loader.py -v
 ```
+
 Expected: FAIL with `ModuleNotFoundError`
 
 **Step 3: Write minimal implementation**
@@ -411,12 +433,15 @@ def get_all_book_names() -> list[str]:
 ```
 
 **Step 4: Run test to verify it passes**
+
 ```bash
 uvx pytest tests/unit/test_data_loader.py -v
 ```
+
 Expected: PASS
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/data/loader.py tests/unit/test_data_loader.py
 git commit -m "feat(data): add canon data loader with caching"
@@ -427,6 +452,7 @@ git commit -m "feat(data): add canon data loader with caching"
 ### Task 5: Tokenizer Stage
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/tokenize/tokenizer.py`
 - Create: `tests/unit/test_tokenizer.py`
 
@@ -484,9 +510,11 @@ def test_tokenize_span_tracking():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/unit/test_tokenizer.py -v
 ```
+
 Expected: FAIL with `ModuleNotFoundError`
 
 **Step 3: Write minimal implementation**
@@ -539,12 +567,15 @@ def tokenize(text: str) -> list[Token]:
 ```
 
 **Step 4: Run test to verify it passes**
+
 ```bash
 uvx pytest tests/unit/test_tokenizer.py -v
 ```
+
 Expected: PASS (may need iteration)
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/tokenize/tokenizer.py tests/unit/test_tokenizer.py
 git commit -m "feat(tokenize): add tokenizer stage with span tracking"
@@ -555,6 +586,7 @@ git commit -m "feat(tokenize): add tokenizer stage with span tracking"
 ### Task 6: Normalizer Stage (Strict Mode)
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/normalize/normalize.py`
 - Create: `tests/unit/test_normalize.py`
 
@@ -604,9 +636,11 @@ def test_normalize_strict_lds_book_full():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/unit/test_normalize.py -v
 ```
+
 Expected: FAIL with `ModuleNotFoundError`
 
 **Step 3: Write minimal implementation**
@@ -666,12 +700,15 @@ def _fuzzy_match(
 ```
 
 **Step 4: Run test to verify it passes**
+
 ```bash
 uvx pytest tests/unit/test_normalize.py -v
 ```
+
 Expected: PASS
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/normalize/normalize.py tests/unit/test_normalize.py
 git commit -m "feat(normalize): add normalizer stage with strict mode"
@@ -682,6 +719,7 @@ git commit -m "feat(normalize): add normalizer stage with strict mode"
 ### Task 7: Normalizer Fuzzy Matching (Loose Mode)
 
 **Files:**
+
 - Modify: `src/scripture_ref_parser/normalize/normalize.py`
 - Create: `tests/unit/test_normalize_fuzzy.py`
 
@@ -720,9 +758,11 @@ def test_normalize_loose_scores():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/unit/test_normalize_fuzzy.py -v
 ```
+
 Expected: FAIL (fuzzy matching not implemented)
 
 **Step 3: Implement fuzzy matching**
@@ -823,12 +863,15 @@ def _fuzzy_match(
 ```
 
 **Step 4: Run test to verify it passes**
+
 ```bash
 uvx pytest tests/unit/test_normalize_fuzzy.py -v
 ```
+
 Expected: PASS
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/normalize/normalize.py tests/unit/test_normalize_fuzzy.py
 git commit -m "feat(normalize): add fuzzy matching for loose mode"
@@ -839,6 +882,7 @@ git commit -m "feat(normalize): add fuzzy matching for loose mode"
 ### Task 8: Parser Stage (Chapter:Verse Ranges)
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/parse/parser.py`
 - Create: `tests/unit/test_parser.py`
 
@@ -922,9 +966,11 @@ def test_parse_implicit_book_continuation():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/unit/test_parser.py -v
 ```
+
 Expected: FAIL
 
 **Step 3: Write minimal implementation**
@@ -1042,12 +1088,15 @@ def parse_tokens(tokens: list[Token]) -> list[ParsedRef]:
 ```
 
 **Step 4: Run test to verify it passes**
+
 ```bash
 uvx pytest tests/unit/test_parser.py -v
 ```
+
 Expected: PASS (may need iteration)
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/parse/parser.py tests/unit/test_parser.py
 git commit -m "feat(parse): add parser for chapter:verse ranges"
@@ -1058,6 +1107,7 @@ git commit -m "feat(parse): add parser for chapter:verse ranges"
 ### Task 9: Resolver Stage (OSIS Expansion)
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/resolve/resolver.py`
 - Create: `tests/unit/test_resolver.py`
 
@@ -1114,9 +1164,11 @@ def test_resolve_lds_book():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/unit/test_resolver.py -v
 ```
+
 Expected: FAIL
 
 **Step 3: Write minimal implementation**
@@ -1210,12 +1262,15 @@ def resolve_parsed(
 ```
 
 **Step 4: Run test to verify it passes**
+
 ```bash
 uvx pytest tests/unit/test_resolver.py -v
 ```
+
 Expected: PASS
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/resolve/resolver.py tests/unit/test_resolver.py
 git commit -m "feat(resolve): add resolver with chapter expansion"
@@ -1226,6 +1281,7 @@ git commit -m "feat(resolve): add resolver with chapter expansion"
 ### Task 10: API Orchestration
 
 **Files:**
+
 - Modify: `src/scripture_ref_parser/api/__init__.py`
 - Create: `tests/integration/test_api.py`
 
@@ -1285,9 +1341,11 @@ def test_api_all_candidates():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/integration/test_api.py -v
 ```
+
 Expected: FAIL
 
 **Step 3: Implement API orchestration**
@@ -1378,12 +1436,15 @@ __all__ = ["parse_references"]
 ```
 
 **Step 4: Run tests**
+
 ```bash
 uvx pytest tests/integration/test_api.py tests/unit -v
 ```
+
 Expected: PASS
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/api/__init__.py tests/integration/test_api.py
 git commit -m "feat(api): add pipeline orchestration"
@@ -1394,6 +1455,7 @@ git commit -m "feat(api): add pipeline orchestration"
 ### Task 11: CLI Implementation
 
 **Files:**
+
 - Create: `src/scripture_ref_parser/cli/cli.py`
 - Create: `tests/integration/test_cli.py`
 
@@ -1451,9 +1513,11 @@ def test_cli_all_candidates():
 ```
 
 **Step 2: Run test to verify it fails**
+
 ```bash
 uvx pytest tests/integration/test_cli.py -v
 ```
+
 Expected: FAIL (CLI not implemented)
 
 **Step 3: Implement CLI**
@@ -1509,12 +1573,15 @@ if __name__ == "__main__":
 ```
 
 **Step 4: Run tests**
+
 ```bash
 uvx pytest tests/integration/test_cli.py -v
 ```
+
 Expected: PASS
 
 **Step 5: Commit**
+
 ```bash
 git add src/scripture_ref_parser/cli/cli.py tests/integration/test_cli.py
 git commit -m "feat(cli): add Click-based CLI"
@@ -1527,30 +1594,39 @@ git commit -m "feat(cli): add Click-based CLI"
 **Files:** None (verification only)
 
 **Step 1: Run all tests**
+
 ```bash
 uvx pytest tests/ -v
 ```
+
 Expected: All tests PASS
 
 **Step 2: Run formatter**
+
 ```bash
 uvx ruff format
 ```
+
 Expected: Files formatted
 
 **Step 3: Run linter**
+
 ```bash
 uvx ruff check --fix
 ```
+
 Expected: No errors (or all auto-fixed)
 
 **Step 4: Run type checker**
+
 ```bash
 uvx ty check
 ```
+
 Expected: No type errors
 
 **Step 5: Commit any fixes**
+
 ```bash
 git add -A
 git commit -m "style: format and lint cleanup"
@@ -1561,6 +1637,7 @@ git commit -m "style: format and lint cleanup"
 ### Task 13: Update README
 
 **Files:**
+
 - Modify: `README.md`
 
 **Step 1: Update README content**
@@ -1665,6 +1742,7 @@ uvx ty check
 ## License
 
 MIT
+
 ```
 
 **Step 2: Commit**
@@ -1678,11 +1756,13 @@ git commit -m "docs: update README with usage examples"
 ### Task 14: Prepare for Deployment
 
 **Files:**
+
 - Verify: `pyproject.toml` metadata
 
 **Step 1: Verify pyproject.toml has required fields**
 
 Ensure these are present:
+
 ```toml
 [project]
 name = "parse-scripture-refs"
@@ -1705,19 +1785,24 @@ classifiers = [
 ```
 
 **Step 2: Build package**
+
 ```bash
 uv build
 ```
+
 Expected: Creates `dist/` with `.whl` and `.tar.gz`
 
 **Step 3: Test local install**
+
 ```bash
 uv pip install dist/parse_scripture_refs-0.1.0-py3-none-any.whl
 scripture-ref-parser "Gen 1:1"
 ```
+
 Expected: Returns JSON output
 
 **Step 4: Commit**
+
 ```bash
 git add pyproject.toml
 git commit -m "chore: prepare for PyPI deployment"
@@ -1728,12 +1813,14 @@ git commit -m "chore: prepare for PyPI deployment"
 ### Task 15: Tag Release and Publish (Optional)
 
 **Step 1: Create git tag**
+
 ```bash
 git tag -a v0.1.0 -m "Initial release"
 git push origin v0.1.0
 ```
 
 **Step 2: Publish to PyPI (when ready)**
+
 ```bash
 uv publish
 ```

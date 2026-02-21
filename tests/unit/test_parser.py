@@ -1,6 +1,7 @@
 """Tests for the parser stage."""
+
 from scripture_ref_parser.parse.parser import parse_tokens
-from scripture_ref_parser.types import Token, ParsedRef
+from scripture_ref_parser.types import Token
 
 
 def test_parse_simple_chapter_verse():
