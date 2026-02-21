@@ -52,6 +52,10 @@ results = parse_references("Gen 1")
 scripture-ref-parser "Gen 1:1-3; 1 Ne. 3:7"
 # [{"start": "Gen.1.1", "end": "Gen.1.3"}, {"start": "1Ne.3.7", "end": "1Ne.3.7"}]
 
+# Fuzzy matching (includes fuzzy_ratio)
+scripture-ref-parser "Exodis 1:1"
+# [{"start": "Exod.1.1", "end": "Exod.1.1", "fuzzy_ratio": 83}]
+
 # With strict mode
 scripture-ref-parser "Gen 1:1" --mode strict
 

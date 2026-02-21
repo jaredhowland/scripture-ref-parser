@@ -35,6 +35,8 @@ def test_cli_loose_mode():
     assert result.returncode == 0
     data = json.loads(result.stdout)
     assert data[0]["start"] == "Exod.1.1"
+    assert "fuzzy_ratio" in data[0]
+    assert data[0]["fuzzy_ratio"] > 0
 
 
 def test_cli_all_candidates():
