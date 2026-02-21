@@ -113,7 +113,7 @@
 # Exclude files from exporting
 #
 
-.gitattributes                  export-ignore
-.gitignore                      export-ignore
-.gitkeep                        export-ignore
-src/scripture_ref_parser/data/  export-ignore
+.gitattributes    export-ignore
+.gitignore        export-ignore
+.gitkeep          export-ignore
+src/scripture_ref_parser/data/_output_public_domain  export-ignore
