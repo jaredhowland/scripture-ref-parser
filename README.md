@@ -58,6 +58,9 @@ scripture-ref-parser "Exodis 1:1"
 
 # With strict mode
 scripture-ref-parser "Gen 1:1" --mode strict
+# Or use the shortcut flags:
+scripture-ref-parser "Gen 1:1" --strict
+scripture-ref-parser "Exodis 1:1" --loose
 
 # With pretty output
 scripture-ref-parser "Gen 1:1" --pretty
@@ -68,6 +71,8 @@ scripture-ref-parser "E 1:1" --all-candidates
 # Help
 
 Use the `--help` flag to display a comprehensive, example-driven help message describing available modes and flags. The help output includes short, copyable examples and explains the differences between `loose` (fuzzy) and `strict` matching.
+
+Note: `--loose` and `--strict` are provided as shorthand flags and are mutually exclusive. They are equivalent to `--mode loose` and `--mode strict`, respectively.
 
 ```bash
 scripture-ref-parser --help

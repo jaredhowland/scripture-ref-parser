@@ -32,6 +32,18 @@ from scripture_ref_parser.api import parse_references
     help="Matching mode: 'loose' allows fuzzy matching, 'strict' requires exact matches.",
 )
 @click.option(
+    "--loose",
+    is_flag=True,
+    default=False,
+    help="Shorthand for `--mode loose` (mutually exclusive with `--strict`).",
+)
+@click.option(
+    "--strict",
+    is_flag=True,
+    default=False,
+    help="Shorthand for `--mode strict` (mutually exclusive with `--loose`).",
+)
+@click.option(
     "--all-candidates",
     is_flag=True,
     default=False,
@@ -43,17 +55,32 @@ from scripture_ref_parser.api import parse_references
     default=False,
     help="Pretty-print JSON output.",
 )
-def main(text: str, mode: str, all_candidates: bool, pretty: bool) -> None:
+def main(
+    text: str,
+    mode: str,
+    loose: bool,
+    strict: bool,
+    all_candidates: bool,
+    pretty: bool,
+) -> None:
     """Entry point for the CLI command.
 
     `--help` shows usage, examples, and available options. Provide the
     scripture reference text as the single positional `TEXT` argument.
     """
     try:
-        # Cast mode to Literal type for type checker
-        mode_literal: Literal["loose", "strict"] = (
-            "loose" if mode == "loose" else "strict"
-        )
+        # Resolve mode: explicit flags take precedence, mutual-exclusion enforced
+        if loose and strict:
+            click.echo("Error: --loose and --strict are mutually exclusive", err=True)
+            sys.exit(2)
+
+        if loose:
+            mode_literal: Literal["loose", "strict"] = "loose"
+        elif strict:
+            mode_literal = "strict"
+        else:
+            # Cast mode to Literal type for type checker
+            mode_literal = "loose" if mode == "loose" else "strict"
         results = parse_references(
             text, mode=mode_literal, all_candidates=all_candidates
         )
