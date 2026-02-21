@@ -165,7 +165,7 @@ wheels = [
 
 [[package]]
 name = "scripture-ref-parser"
-version = "0.1.2"
+version = "0.1.4"
 source = { editable = "." }
 dependencies = [
     { name = "click" },
