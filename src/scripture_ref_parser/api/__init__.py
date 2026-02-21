@@ -2,42 +2,10 @@
 
 from typing import Literal
 
-from scripture_ref_parser.data.loader import get_book_metadata, get_verse_count
+from scripture_ref_parser.resolve.resolver import resolve_parsed, resolve_ref_with_book
 from scripture_ref_parser.normalize.normalize import normalize_book
 from scripture_ref_parser.parse.parser import parse_tokens
-from scripture_ref_parser.resolve.resolver import resolve_parsed
 from scripture_ref_parser.tokenize.tokenizer import tokenize
-
-
-def _format_osis(book: str, chapter: int, verse: int) -> str:
-    """Format an OSIS identifier."""
-    return f"{book}.{chapter}.{verse}"
-
-
-def _resolve_ref_with_book(
-    parsed_ref, osis_key: str, fuzzy_ratio: int | None = None
-) -> dict | None:
-    """Resolve a parsed ref with a specific OSIS book key."""
-    meta = get_book_metadata(osis_key)
-    if meta is None:
-        return None
-
-    start_chap, start_verse = parsed_ref.start
-    end_chap, end_verse = parsed_ref.end
-
-    # Expand chapter-only to full verse range
-    if start_verse is None:
-        start_verse = 1
-    if end_verse is None:
-        end_verse = get_verse_count(osis_key, end_chap) or 1
-
-    result: dict = {
-        "start": _format_osis(osis_key, start_chap, start_verse),
-        "end": _format_osis(osis_key, end_chap, end_verse),
-    }
-    if fuzzy_ratio is not None:
-        result["fuzzy_ratio"] = fuzzy_ratio
-    return result
 
 
 def parse_references(
@@ -90,11 +58,16 @@ def parse_references(
             options = []
             if normalized.candidates:
                 for candidate in normalized.candidates:
-                    resolved = _resolve_ref_with_book(
-                        ref, candidate.key, candidate.score
-                    )
-                    if resolved:
-                        options.append(resolved)
+                    rr = resolve_ref_with_book(ref, candidate.key, candidate.score)
+                    if rr.start is not None:
+                        opt: dict = {"start": rr.start, "end": rr.end}
+                        if rr.fuzzy_ratio is not None:
+                            opt["fuzzy_ratio"] = rr.fuzzy_ratio
+                        options.append(opt)
+                    else:
+                        options.append(
+                            {"start": None, "end": None, "not_found": rr.not_found}
+                        )
 
             if len(options) > 1:
                 # Multiple candidates - return options array
