@@ -88,7 +88,7 @@ The parser operates in four stages:
 
 ```bash
 # Run tests
-uvx pytest
+uv run pytest
 
 # Format code
 uvx ruff format
