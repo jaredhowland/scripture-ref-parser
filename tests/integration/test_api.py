@@ -27,6 +27,8 @@ def test_api_fuzzy_match_loose():
     results = parse_references("Exodis 1:1", mode="loose")
     assert len(results) == 1
     assert results[0]["start"] == "Exod.1.1"
+    assert "fuzzy_ratio" in results[0]
+    assert results[0]["fuzzy_ratio"] > 0
 
 
 def test_api_strict_mode_unknown():

@@ -35,7 +35,7 @@ results = parse_references("1 Ne. 3:7")
 
 # Fuzzy matching (default: loose mode)
 results = parse_references("Exodis 1:1", mode="loose")
-# [{'start': 'Exod.1.1', 'end': 'Exod.1.1'}]
+# [{'start': 'Exod.1.1', 'end': 'Exod.1.1', 'fuzzy_ratio': 83}]
 
 # Strict mode (no fuzzy matching)
 results = parse_references("Exodis 1:1", mode="strict")
