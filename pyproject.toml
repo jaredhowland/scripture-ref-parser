@@ -1,6 +1,6 @@
 [project]
 name = "scripture-ref-parser"
-version = "0.1.4"
+version = "0.1.5"
 description = "Parses scripture references and returns OSIS references/ranges."
 readme = "README.md"
 license = { file = "LICENSE" }
