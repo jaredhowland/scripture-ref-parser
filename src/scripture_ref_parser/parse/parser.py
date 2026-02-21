@@ -11,7 +11,9 @@ _NUM_PATTERN = re.compile(
 )
 
 
-def _parse_num_token(text: str) -> tuple[tuple[int, int | None], tuple[int, int | None]]:
+def _parse_num_token(
+    text: str,
+) -> tuple[tuple[int, int | None], tuple[int, int | None]]:
     """Parse a NUM token into start and end tuples.
 
     Returns:
@@ -23,7 +25,9 @@ def _parse_num_token(text: str) -> tuple[tuple[int, int | None], tuple[int, int 
         return ((1, None), (1, None))
 
     start_chap = int(match.group("start_chap"))
-    start_verse = int(match.group("start_verse")) if match.group("start_verse") else None
+    start_verse = (
+        int(match.group("start_verse")) if match.group("start_verse") else None
+    )
     end_chap_str = match.group("end_chap")
     end_verse_str = match.group("end_verse")
 
@@ -54,6 +58,11 @@ def _parse_num_token(text: str) -> tuple[tuple[int, int | None], tuple[int, int 
     return ((start_chap, start_verse), (end_chap, end_verse))
 
 
+def _is_book_number_prefix(num_text: str) -> bool:
+    """Check if a NUM token is a book number prefix (1, 2, 3, etc.)."""
+    return num_text.isdigit() and int(num_text) <= 4
+
+
 def parse_tokens(tokens: list[Token]) -> list[ParsedRef]:
     """Parse a list of tokens into structured references.
 
@@ -78,6 +87,18 @@ def parse_tokens(tokens: list[Token]) -> list[ParsedRef]:
             continue
 
         elif token.type == "NUM":
+            # Check if this is a book number prefix (e.g., "1" in "1 Nephi")
+            # Look ahead to see if next token is a BOOK token
+            if (
+                _is_book_number_prefix(token.text)
+                and i + 1 < len(tokens)
+                and tokens[i + 1].type == "BOOK"
+            ):
+                # This is a book number prefix - treat it as part of the book name
+                pending_book_tokens.append(token)
+                i += 1
+                continue
+
             # We have a number - time to create a reference
             if pending_book_tokens:
                 # Use accumulated book tokens
