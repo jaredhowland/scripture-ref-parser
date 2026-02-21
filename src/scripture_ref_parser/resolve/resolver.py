@@ -12,6 +12,33 @@ def _format_osis(book: str, chapter: int, verse: int) -> str:
     return f"{book}.{chapter}.{verse}"
 
 
+def resolve_ref_with_book(
+    parsed_ref: "ParsedRef", osis_key: str, fuzzy_ratio: int | None = None
+) -> "ResolvedRange":
+    """Resolve a single parsed ref using a specific OSIS book key.
+
+    Returns a ResolvedRange (start/end may be None with not_found set).
+    """
+    meta = get_book_metadata(osis_key)
+    if meta is None:
+        return ResolvedRange(
+            start=None, end=None, not_found=f"No metadata for '{osis_key}'"
+        )
+
+    start_chap, start_verse = parsed_ref.start
+    end_chap, end_verse = parsed_ref.end
+
+    if start_verse is None:
+        start_verse = 1
+    if end_verse is None:
+        end_verse = get_verse_count(osis_key, end_chap) or 1
+
+    start_osis = _format_osis(osis_key, start_chap, start_verse)
+    end_osis = _format_osis(osis_key, end_chap, end_verse)
+
+    return ResolvedRange(start=start_osis, end=end_osis, fuzzy_ratio=fuzzy_ratio)
+
+
 def resolve_parsed(
     parsed_refs: list[ParsedRef], mode: Literal["loose", "strict"] = "loose"
 ) -> list[ResolvedRange]:
