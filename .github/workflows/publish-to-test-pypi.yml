@@ -9,7 +9,7 @@ jobs:
   release:
     name: Publish to TestPyPI
     runs-on: ubuntu-latest
-    environment: pypi
+    environment: testpypi
     permissions:
       id-token: write
     steps:
