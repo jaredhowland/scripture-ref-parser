@@ -50,3 +50,4 @@ class ResolvedRange:
     end: str | None
     fuzzy_ratio: int | None = None
     not_found: str | None = None
+    warning: str | None = None

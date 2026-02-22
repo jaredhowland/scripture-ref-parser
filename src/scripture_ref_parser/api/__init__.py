@@ -58,11 +58,13 @@ def parse_references(
             options = []
             if normalized.candidates:
                 for candidate in normalized.candidates:
-                    rr = resolve_ref_with_book(ref, candidate.key, candidate.score)
+                    rr = resolve_ref_with_book(ref, candidate.key, candidate.score, mode=mode)
                     if rr.start is not None:
                         opt: dict = {"start": rr.start, "end": rr.end}
                         if rr.fuzzy_ratio is not None:
                             opt["fuzzy_ratio"] = rr.fuzzy_ratio
+                        if rr.warning is not None:
+                            opt["warning"] = rr.warning
                         options.append(opt)
                     else:
                         options.append(
@@ -106,6 +108,8 @@ def parse_references(
 
         if item.not_found is not None:
             result["not_found"] = item.not_found
+        if getattr(item, "warning", None) is not None:
+            result["warning"] = item.warning
 
         results.append(result)
 
