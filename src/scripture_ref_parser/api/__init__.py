@@ -58,7 +58,9 @@ def parse_references(
             options = []
             if normalized.candidates:
                 for candidate in normalized.candidates:
-                    rr = resolve_ref_with_book(ref, candidate.key, candidate.score, mode=mode)
+                    rr = resolve_ref_with_book(
+                        ref, candidate.key, candidate.score, mode=mode
+                    )
                     if rr.start is not None:
                         opt: dict = {"start": rr.start, "end": rr.end}
                         if rr.fuzzy_ratio is not None:

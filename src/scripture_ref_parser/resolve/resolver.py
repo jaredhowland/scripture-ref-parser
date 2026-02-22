@@ -65,7 +65,7 @@ def resolve_ref_with_book(
                 start=None,
                 end=None,
                 not_found=(
-                    f"Chapter {start_chap if start_chap>num_chaps else end_chap} does not exist in {display_name} (only {num_chaps} chapter{'s' if num_chaps!=1 else ''})"
+                    f"Chapter {start_chap if start_chap > num_chaps else end_chap} does not exist in {display_name} (only {num_chaps} chapter{'s' if num_chaps != 1 else ''})"
                 ),
             )
 
@@ -97,7 +97,7 @@ def resolve_ref_with_book(
                 start=None,
                 end=None,
                 not_found=(
-                    f"Verse {start_verse} does not exist in {display_name} {start_chap} (only {sv_count} verse{'s' if sv_count!=1 else ''})"
+                    f"Verse {start_verse} does not exist in {display_name} {start_chap} (only {sv_count} verse{'s' if sv_count != 1 else ''})"
                 ),
             )
         if end_verse is not None and ev_count is not None and end_verse > ev_count:
@@ -105,13 +105,11 @@ def resolve_ref_with_book(
                 start=None,
                 end=None,
                 not_found=(
-                    f"Verse {end_verse} does not exist in {display_name} {end_chap} (only {ev_count} verse{'s' if ev_count!=1 else ''})"
+                    f"Verse {end_verse} does not exist in {display_name} {end_chap} (only {ev_count} verse{'s' if ev_count != 1 else ''})"
                 ),
             )
 
     # Clamp verses in loose mode
-    orig_start_verse = start_verse
-    orig_end_verse = end_verse
     sv_clamped, sv_warn = _clamp_verse(osis_key, start_chap, start_verse)
     ev_clamped, ev_warn = _clamp_verse(osis_key, end_chap, end_verse)
     if sv_warn:
