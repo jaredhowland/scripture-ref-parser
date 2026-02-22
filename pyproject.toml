@@ -1,14 +1,49 @@
 [project]
 name = "scripture-ref-parser"
-version = "0.1.6"
+version = "0.1.7"
 description = "Parses scripture references and returns OSIS references/ranges."
 readme = "README.md"
+authors = [ { name = "Jared Howland", email = "scripture-ref-parser@jaredhowland.com" } ]
 license = { file = "LICENSE" }
 requires-python = ">=3.12"
 dependencies = [
-    "click>=8.3.1",
-    "rapidfuzz>=3.14.3",
+  "click>=8.3.1",
+  "rapidfuzz>=3.14.3",
 ]
+
+keywords = [
+  "scripture",
+  "bible",
+  "book of mormon",
+  "doctrine and covenants",
+  "pearl of great price",
+  "old testament",
+  "new testament",
+  "king james version",
+  "kjv",
+  "reference",
+  "parser",
+  "osis",
+  "python",
+]
+
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Software Development :: Libraries",
+  "Topic :: Text Processing",
+  "Topic :: Utilities",
+  "Natural Language :: English",
+]
+
+[project.urls]
+Homepage = "https://github.com/jaredhowland/scripture-ref-parser"
+Repository = "https://github.com/jaredhowland/scripture-ref-parser"
+Issues = "https://github.com/jaredhowland/scripture-ref-parser/issues"
 
 [project.scripts]
 scripture-ref-parser = "scripture_ref_parser.cli.cli:main"
